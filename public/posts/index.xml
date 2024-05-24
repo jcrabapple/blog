@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on cool as heck</title>
+    <link>https://cool-as-heck.blog/posts/</link>
+    <description>Recent content in Posts on cool as heck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 jcrabapple</copyright>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cool-as-heck.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Hugo Blog Post</title>
+      <link>https://cool-as-heck.blog/posts/first_post/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/posts/first_post/</guid>
+      <description>Hello! Welcome to my new blog!</description>
+      
+    </item>
+    
+    <item>
+      <title>More Thoughts on AI and LLMs in Search</title>
+      <link>https://cool-as-heck.blog/posts/2024-05-20-ai_llm_search/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/posts/2024-05-20-ai_llm_search/</guid>
+      <description>My friend and I were discussing AI/LLM search, and while I think some LLM search can be useful, you have to make it work for you.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

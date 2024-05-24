@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on cool as heck</title>
+    <link>https://cool-as-heck.blog/tags/</link>
+    <description>Recent content in Tags on cool as heck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 jcrabapple</copyright>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cool-as-heck.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about-me</title>
+      <link>https://cool-as-heck.blog/tags/about-me/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/about-me/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://cool-as-heck.blog/tags/welcome/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/welcome/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://cool-as-heck.blog/tags/ai/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLMs</title>
+      <link>https://cool-as-heck.blog/tags/llms/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/llms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>search</title>
+      <link>https://cool-as-heck.blog/tags/search/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://cool-as-heck.blog/tags/tech/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://cool-as-heck.blog/tags/web/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/tags/web/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

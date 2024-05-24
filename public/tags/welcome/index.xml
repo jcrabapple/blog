@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome on cool as heck</title>
+    <link>https://cool-as-heck.blog/tags/welcome/</link>
+    <description>Recent content in welcome on cool as heck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 jcrabapple</copyright>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cool-as-heck.blog/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Hugo Blog Post</title>
+      <link>https://cool-as-heck.blog/posts/first_post/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cool-as-heck.blog/posts/first_post/</guid>
+      <description>Hello! Welcome to my new blog!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

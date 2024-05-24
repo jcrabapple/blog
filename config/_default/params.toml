@@ -132,7 +132,7 @@ disableTextInHeader = false
 
 [umamiAnalytics]
   websiteid = "08ddbb88-a566-45a9-bac1-e755af85d595"
-  # domain = "llama.yoursite.com"
+  domain = "energetic-swan.pikapod.net"
 
 [buymeacoffee]
   # identifier = ""

@@ -40,4 +40,4 @@ It seemed like a good subject for a blog post, so here we are. These are some op
 	- [Deezer](https://www.deezer.com/)
 	- [Tidal](https://tidal.com/)
 
-I'm sure there are categories and services I'm forgetting, so if you have any suggestions please don't hesitate to reach out to me!
+I'm sure there are categories and services I'm forgetting, so if you have any suggestions please don't hesitate to [reach out to me on Mastodon](https://dmv.community/@jcrabapple/112504897116875023)!

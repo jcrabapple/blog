@@ -81,7 +81,7 @@
   <link href="mailto:jcrabapple@dmv.community" rel="me" />
   
   
-  <link href="https://lastfm.com/user/jcrabapple" rel="me" />
+  <link href="https://last.fm/user/jcrabapple" rel="me" />
   
   
   <link href="https://dmv.community/@jcrabapple" rel="me" />
@@ -118,6 +118,20 @@
   
   
 
+
+
+<script data-id="umami-script" async src="https://energetic-swan.pikapod.net/script.js" data-website-id="08ddbb88-a566-45a9-bac1-e755af85d595">
+</script>
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener('load', function () {
+        const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+        let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+        let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+        umami.track(type + ':' + title, {'url': url});
+    });
+</script>
 
   
   
@@ -170,9 +184,19 @@
 
             
             
-  <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/listening/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-base font-medium" title="">
+    <p class="text-base font-medium" title="Listening">
+        Listening
+    </p>
+</a>
+
+
+            
+            
+  <a href="/notes/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="Notes">
         Notes
     </p>
 </a>
@@ -352,9 +376,23 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/listening/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
-        <p class="text-bg font-bg" title="">
+        <p class="text-bg font-bg" title="Listening">
+            Listening
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/notes/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="Notes">
             Notes
         </p>
     </a>

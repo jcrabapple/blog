@@ -10,7 +10,8 @@
 }
 
 #now-playing img {
-    max-width: 100px;
+    max-width: 200px;
     display: block;
+    float: left;
     margin-top: 10px;
 }

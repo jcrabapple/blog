@@ -1,0 +1,15 @@
+#now-playing {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+#now-playing img {
+    max-width: 100px;
+    display: block;
+    margin-top: 10px;
+}

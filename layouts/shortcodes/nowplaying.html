@@ -1,0 +1,40 @@
+<script>
+    async function fetchNowPlaying() {
+        const apiKey = '7ef62a8b03150f58e3faa5c113eca40f';
+        const username = 'jcrabapple';
+        const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${username}&api_key=${apiKey}&format=json&limit=1`;
+    
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+    
+            if (data.recenttracks && data.recenttracks.track && data.recenttracks.track.length > 0) {
+                const track = data.recenttracks.track[0];
+                const nowPlaying = track["@attr"] && track["@attr"].nowplaying;
+    
+                const trackInfo = `
+                    <div>
+                        ${nowPlaying ? "<strong>Now Playing:</strong>" : "<strong>Last Played:</strong>"}
+                        <br>
+                        <strong>Track:</strong> ${track.name}<br>
+                        <strong>Artist:</strong> ${track.artist["#text"]}<br>
+                        ${track.album["#text"] ? `<strong>Album:</strong> ${track.album["#text"]}<br>` : ''}
+                        ${track.image && track.image.length > 0 ? `<img src="${track.image[2]['#text']}" alt="${track.name}">` : ''}
+                    </div>
+                `;
+    
+                document.getElementById('now-playing').innerHTML = trackInfo;
+            } else {
+                document.getElementById('now-playing').innerHTML = "No recent tracks found.";
+            }
+        } catch (error) {
+            console.error('Error fetching now playing data:', error);
+            document.getElementById('now-playing').innerHTML = "Error fetching data.";
+        }
+    }
+    
+    document.addEventListener('DOMContentLoaded', fetchNowPlaying);
+    </script>
+    
+    <div id="now-playing">Loading...</div>
+    

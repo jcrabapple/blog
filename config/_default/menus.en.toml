@@ -25,6 +25,11 @@
   pageRef = "notes"
   weight = 20
 
+[[main]]
+  name = "Listening"
+  pageRef = "listening"
+  weight = 20
+
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"

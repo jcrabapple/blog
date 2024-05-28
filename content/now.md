@@ -1,4 +1,13 @@
-
+---
+title: "Now"
+date: 2024-05-27
+description: "This is a /Now page."
+summary: "These are things I'm currently into."
+tags: ["Now","Slash Pages"]
+showReadingTime: false
+showWordCount: false
+showDate: false
+---
 ### What I’m reading
 
 - All Systems Red, The Murderbot Diaries #1 by Martha Wells

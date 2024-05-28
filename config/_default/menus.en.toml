@@ -40,6 +40,11 @@
   pageRef = "listening"
   weight = 30
 
+[[main]]
+  name = "Blogroll"
+  pageRef = "blogroll"
+  weight = 31
+
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"

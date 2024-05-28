@@ -1,0 +1,3880 @@
+﻿{
+    "opml": {
+        "head": {
+            "title": "Feeds of Jason Crabtree tagged as Blogroll from Inoreader [https://www.inoreader.com]"
+        },
+        "body": {
+            "outline": {
+                "outline": [
+                    {
+                        "_text": "The Hypothesis",
+                        "_title": "The Hypothesis",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.buttondown.email/thehypothesis/rss",
+                        "_htmlUrl": "https://buttondown.email/thehypothesis"
+                    },
+                    {
+                        "_text": "Home on Healthcare Workers Foundation",
+                        "_title": "Home on Healthcare Workers Foundation",
+                        "_type": "rss",
+                        "_xmlUrl": "https://healthcareworkersfoundation.org/index.xml",
+                        "_htmlUrl": "https://healthcareworkersfoundation.org/"
+                    },
+                    {
+                        "_text": "Jarred Wilson",
+                        "_title": "Jarred Wilson",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO-GBhU13wjWm9EnEQTEf4w",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCO-GBhU13wjWm9EnEQTEf4w"
+                    },
+                    {
+                        "_text": "busy",
+                        "_title": "busy",
+                        "_type": "rss",
+                        "_xmlUrl": "https://beesbuzz.biz/feed-summary",
+                        "_htmlUrl": "https://beesbuzz.biz/"
+                    },
+                    {
+                        "_text": "The Terran Dispatch",
+                        "_title": "The Terran Dispatch",
+                        "_type": "rss",
+                        "_xmlUrl": "https://josephofearth.bearblog.dev/feed/?type=rss",
+                        "_htmlUrl": "https://josephofearth.bearblog.dev/"
+                    },
+                    {
+                        "_text": "The Willis Report",
+                        "_title": "The Willis Report",
+                        "_type": "rss",
+                        "_xmlUrl": "https://thewillisreport.com/feed/",
+                        "_htmlUrl": "https://thewillisreport.com/"
+                    },
+                    {
+                        "_text": "Mastodon Migration Blog",
+                        "_title": "Mastodon Migration Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://mastodonmigration.wordpress.com/feed/",
+                        "_htmlUrl": "https://mastodonmigration.wordpress.com"
+                    },
+                    {
+                        "_text": "Marc Elias, Author at Democracy Docket",
+                        "_title": "Marc Elias, Author at Democracy Docket",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.democracydocket.com/author/marc_elias/feed/",
+                        "_htmlUrl": "https://www.democracydocket.com"
+                    },
+                    {
+                        "_text": "Paz",
+                        "_title": "Paz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY_Evb_W2DHjBIH9Tmj2a7Q",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCY_Evb_W2DHjBIH9Tmj2a7Q"
+                    },
+                    {
+                        "_text": "Diane Duane dot com",
+                        "_title": "Diane Duane dot com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.dianeduane.com/feed/",
+                        "_htmlUrl": "https://www.dianeduane.com/"
+                    },
+                    {
+                        "_text": "boblog -- by bob stepno",
+                        "_title": "boblog -- by bob stepno",
+                        "_type": "rss",
+                        "_xmlUrl": "https://boblog.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://boblog.blogspot.com/"
+                    },
+                    {
+                        "_text": "Hand In Hand Homeschool",
+                        "_title": "Hand In Hand Homeschool",
+                        "_type": "rss",
+                        "_xmlUrl": "https://handinhandhomeschool.com/feed/",
+                        "_htmlUrl": "https://handinhandhomeschool.com/"
+                    },
+                    {
+                        "_text": "Isaac's cool blog",
+                        "_title": "Isaac's cool blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://isaacwedin.com/feed/",
+                        "_htmlUrl": "https://isaacwedin.com"
+                    },
+                    {
+                        "_text": "prjkthack",
+                        "_title": "prjkthack",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrCfN3Erh0krLfI6bPj08oQ",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCrCfN3Erh0krLfI6bPj08oQ"
+                    },
+                    {
+                        "_text": "Everyday People",
+                        "_title": "Everyday People",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.feedburner.com/antpruitt/tdvodj4yvcq",
+                        "_htmlUrl": "https://antpruitt.com/podcast/"
+                    },
+                    {
+                        "_text": "Paula Whyman",
+                        "_title": "Paula Whyman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://paulawhyman.com/feed/",
+                        "_htmlUrl": "https://paulawhyman.com"
+                    },
+                    {
+                        "_text": "kulturplease",
+                        "_title": "kulturplease",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kulturplease.com/feed/",
+                        "_htmlUrl": "https://kulturplease.com"
+                    },
+                    {
+                        "_text": "PlanetMew",
+                        "_title": "PlanetMew",
+                        "_type": "rss",
+                        "_xmlUrl": "https://planetmew.com/feed/",
+                        "_htmlUrl": "https://planetmew.com"
+                    },
+                    {
+                        "_text": "Raphael Lullis",
+                        "_title": "Raphael Lullis",
+                        "_type": "rss",
+                        "_xmlUrl": "https://raphael.lullis.net/index.xml",
+                        "_htmlUrl": "https://raphael.lullis.net/"
+                    },
+                    {
+                        "_text": "Teach 20",
+                        "_title": "Teach 20",
+                        "_type": "rss",
+                        "_xmlUrl": "https://torleyt20.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://torleyt20.blogspot.com/"
+                    },
+                    {
+                        "_text": "Government Cheese",
+                        "_title": "Government Cheese",
+                        "_type": "rss",
+                        "_xmlUrl": "https://governmentcheese.co.uk/feed/",
+                        "_htmlUrl": "https://governmentcheese.co.uk"
+                    },
+                    {
+                        "_text": "Imagine Democracy",
+                        "_title": "Imagine Democracy",
+                        "_type": "rss",
+                        "_xmlUrl": "https://democracyandcommunity.org/feed/",
+                        "_htmlUrl": "https://democracyandcommunity.org"
+                    },
+                    {
+                        "_text": "We CAN Have Nice Things",
+                        "_title": "We CAN Have Nice Things",
+                        "_type": "rss",
+                        "_xmlUrl": "https://wecanhavenicethings.com/feed/",
+                        "_htmlUrl": "https://wecanhavenicethings.com"
+                    },
+                    {
+                        "_text": "Caleb Fultz",
+                        "_title": "Caleb Fultz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cfultz.pro/index.xml",
+                        "_htmlUrl": "https://cfultz.pro/"
+                    },
+                    {
+                        "_text": "Claire Dalton Pak (parenthetical)",
+                        "_title": "Claire Dalton Pak (parenthetical)",
+                        "_type": "rss",
+                        "_xmlUrl": "https://clairedaltonpakparenthetical.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://clairedaltonpakparenthetical.blogspot.com/"
+                    },
+                    {
+                        "_text": "Herping the Derp",
+                        "_title": "Herping the Derp",
+                        "_type": "rss",
+                        "_xmlUrl": "https://schwetz.au/feed.xml",
+                        "_htmlUrl": "https://schwetz.au/"
+                    },
+                    {
+                        "_text": "Webpage of Brian Danger Hicks",
+                        "_title": "Webpage of Brian Danger Hicks",
+                        "_type": "rss",
+                        "_xmlUrl": "http://dangersolutions.com/rss20.xml",
+                        "_htmlUrl": "http://zork.net/~octal/"
+                    },
+                    {
+                        "_text": "Mike Stevens",
+                        "_title": "Mike Stevens",
+                        "_type": "rss",
+                        "_xmlUrl": "https://getmikestevens.com/feed/",
+                        "_htmlUrl": "https://getmikestevens.com"
+                    },
+                    {
+                        "_text": "Slade Design",
+                        "_title": "Slade Design",
+                        "_type": "rss",
+                        "_xmlUrl": "https://sladedesign.co.uk/feed/",
+                        "_htmlUrl": "https://sladedesign.co.uk/work/"
+                    },
+                    {
+                        "_text": "Tim's Bookmarks",
+                        "_title": "Tim's Bookmarks",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tbtmarks.glitch.me/index.xml",
+                        "_htmlUrl": "https://tbtmarks.glitch.me/index.xml"
+                    },
+                    {
+                        "_text": "TwisterMc",
+                        "_title": "TwisterMc",
+                        "_type": "rss",
+                        "_xmlUrl": "https://twistermc.net/rss",
+                        "_htmlUrl": "https://twistermc.net/"
+                    },
+                    {
+                        "_text": "Drive, the Collaborative Network",
+                        "_title": "Drive, the Collaborative Network",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.drivethenetwork.com/feed/",
+                        "_htmlUrl": "https://www.drivethenetwork.com"
+                    },
+                    {
+                        "_text": "jaz-michael king",
+                        "_title": "jaz-michael king",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jaz.co.uk/feed/",
+                        "_htmlUrl": "https://jaz.co.uk"
+                    },
+                    {
+                        "_text": "Chris Combs",
+                        "_title": "Chris Combs",
+                        "_type": "rss",
+                        "_xmlUrl": "https://chriscombs.net/atom.xml",
+                        "_htmlUrl": "http://chriscombs.net"
+                    },
+                    {
+                        "_text": "Abby Ohlheiser",
+                        "_title": "Abby Ohlheiser",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.awohlheiser.com/feed/",
+                        "_htmlUrl": "https://www.awohlheiser.com"
+                    },
+                    {
+                        "_text": "Leaders N Legacies",
+                        "_title": "Leaders N Legacies",
+                        "_type": "rss",
+                        "_xmlUrl": "https://leadersnlegacies.com/feed/",
+                        "_htmlUrl": "https://leadersnlegacies.com"
+                    },
+                    {
+                        "_text": "blog.gary.design",
+                        "_title": "blog.gary.design",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.gary.design/feed.rss",
+                        "_htmlUrl": "https://blog.gary.design"
+                    },
+                    {
+                        "_text": "Off Curve",
+                        "_title": "Off Curve",
+                        "_type": "rss",
+                        "_xmlUrl": "http://offcurve.com/blog?format=rss",
+                        "_htmlUrl": "http://offcurve.com/"
+                    },
+                    {
+                        "_text": "Some Disassembly Required",
+                        "_title": "Some Disassembly Required",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcGv3rxfeoBih8oetq8_99A",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCcGv3rxfeoBih8oetq8_99A"
+                    },
+                    {
+                        "_text": "Old Line FC",
+                        "_title": "Old Line FC",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.oldlinefc.com/blog-feed.xml",
+                        "_htmlUrl": "https://www.oldlinefc.com/updates"
+                    },
+                    {
+                        "_text": "The Site of Derek Piazza",
+                        "_title": "The Site of Derek Piazza",
+                        "_type": "rss",
+                        "_xmlUrl": "https://derekpiazza.com/index.xml",
+                        "_htmlUrl": "https://derekpiazza.com/"
+                    },
+                    {
+                        "_text": "Baavri Viti",
+                        "_title": "Baavri Viti",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7k6wGQXG5kGwcjQ8WBHJ0w",
+                        "_htmlUrl": "https://www.youtube.com/channel/UC7k6wGQXG5kGwcjQ8WBHJ0w"
+                    },
+                    {
+                        "_text": "Stephanie Dray",
+                        "_title": "Stephanie Dray",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.stephaniedray.com/feed/",
+                        "_htmlUrl": "https://www.stephaniedray.com"
+                    },
+                    {
+                        "_text": "WorldofJosh.be in English",
+                        "_title": "WorldofJosh.be in English",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.worldofjosh.be/en/rss/rss.xml",
+                        "_htmlUrl": "https://www.worldofjosh.be/en/"
+                    },
+                    {
+                        "_text": "Wattpad - by Emi-Didact",
+                        "_title": "Wattpad - by Emi-Didact",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.wattpad.com/rss?username=Emi-Didact",
+                        "_htmlUrl": "https://www.wattpad.com?mode=1&language=1&lim=&search=&utm_source=rss"
+                    },
+                    {
+                        "_text": "Tuesday Agency",
+                        "_title": "Tuesday Agency",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tuesdayagency.com/feed/",
+                        "_htmlUrl": "https://tuesdayagency.com/"
+                    },
+                    {
+                        "_text": "A Beautiful Mess",
+                        "_title": "A Beautiful Mess",
+                        "_type": "rss",
+                        "_xmlUrl": "https://abeautifulmess.substack.com/feed",
+                        "_htmlUrl": "https://abeautifulmess.substack.com"
+                    },
+                    {
+                        "_text": "Dgar",
+                        "_title": "Dgar",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSbNUtEf3m73KVTNlJ66nUw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCSbNUtEf3m73KVTNlJ66nUw"
+                    },
+                    {
+                        "_text": "Bahua Dot Com",
+                        "_title": "Bahua Dot Com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bahua.com/rss/",
+                        "_htmlUrl": "https://bahua.com/"
+                    },
+                    {
+                        "_text": "Idle Curiosities",
+                        "_title": "Idle Curiosities",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.simplecast.com/deHmFScd",
+                        "_htmlUrl": "http://idlecuriosities.com"
+                    },
+                    {
+                        "_text": "info.mstdn.games",
+                        "_title": "info.mstdn.games",
+                        "_type": "rss",
+                        "_xmlUrl": "https://info.mstdn.games/feed.php",
+                        "_htmlUrl": "https://info.mstdn.games/"
+                    },
+                    {
+                        "_text": "Benedict Terrell",
+                        "_title": "Benedict Terrell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://world.hey.com/benedictllo/feed.atom",
+                        "_htmlUrl": "https://world.hey.com/benedictllo"
+                    },
+                    {
+                        "_text": "A Liveaboard Life",
+                        "_title": "A Liveaboard Life",
+                        "_type": "rss",
+                        "_xmlUrl": "https://aliveaboardlife.com/feed/",
+                        "_htmlUrl": "https://aliveaboardlife.com"
+                    },
+                    {
+                        "_text": "BrentCMusic",
+                        "_title": "BrentCMusic",
+                        "_type": "rss",
+                        "_xmlUrl": "https://brentcmusic.com/feed/",
+                        "_htmlUrl": "https://brentcmusic.com"
+                    },
+                    {
+                        "_text": "Hare N' Husky Co. Photography",
+                        "_title": "Hare N' Husky Co. Photography",
+                        "_type": "rss",
+                        "_xmlUrl": "https://harenhusky.co/feed/",
+                        "_htmlUrl": "https://harenhusky.co/"
+                    },
+                    {
+                        "_text": "Dr. Sbaitso",
+                        "_title": "Dr. Sbaitso",
+                        "_type": "rss",
+                        "_xmlUrl": "https://infosec.press/drsbaitso/feed/",
+                        "_htmlUrl": "https://infosec.press/drsbaitso/"
+                    },
+                    {
+                        "_text": "Making Sense Of It All",
+                        "_title": "Making Sense Of It All",
+                        "_type": "rss",
+                        "_xmlUrl": "https://makingsense.bearblog.dev/feed/?type=rss",
+                        "_htmlUrl": "https://makingsense.bearblog.dev/"
+                    },
+                    {
+                        "_text": "Cam Witten",
+                        "_title": "Cam Witten",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UComJSPF5floHUFT6BaX10xw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UComJSPF5floHUFT6BaX10xw"
+                    },
+                    {
+                        "_text": "Steve Jenkins' Journal",
+                        "_title": "Steve Jenkins' Journal",
+                        "_type": "rss",
+                        "_xmlUrl": "https://stevejenkins.us/feed/",
+                        "_htmlUrl": "https://stevejenkins.us"
+                    },
+                    {
+                        "_text": "Third Spruce Tree On The Left",
+                        "_title": "Third Spruce Tree On The Left",
+                        "_type": "rss",
+                        "_xmlUrl": "https://awadwatt.com/tezoatlipoca/feed/",
+                        "_htmlUrl": "https://awadwatt.com/tezoatlipoca/"
+                    },
+                    {
+                        "_text": "You Know What",
+                        "_title": "You Know What",
+                        "_type": "rss",
+                        "_xmlUrl": "https://youknowwhatblog.com/feed/",
+                        "_htmlUrl": "https://youknowwhatblog.com"
+                    },
+                    {
+                        "_text": "LinkAce Links",
+                        "_title": "LinkAce Links",
+                        "_type": "rss",
+                        "_xmlUrl": "https://linkace.nead.us/guest/links/feed",
+                        "_htmlUrl": "https://linkace.nead.us/guest/links/feed"
+                    },
+                    {
+                        "_text": "Scrapping My Family History",
+                        "_title": "Scrapping My Family History",
+                        "_type": "rss",
+                        "_xmlUrl": "https://scrappinmyhistory.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://scrappinmyhistory.blogspot.com/"
+                    },
+                    {
+                        "_text": "Esdin",
+                        "_title": "Esdin",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.esdin.net/blog-feed.xml",
+                        "_htmlUrl": "https://www.esdin.net/musings"
+                    },
+                    {
+                        "_text": "Intrigue Pages",
+                        "_title": "Intrigue Pages",
+                        "_type": "rss",
+                        "_xmlUrl": "https://intriguepages.com/feed/",
+                        "_htmlUrl": "https://intriguepages.com/"
+                    },
+                    {
+                        "_text": "Mutant Poker",
+                        "_title": "Mutant Poker",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.mutantpoker.com/?feed=rss2",
+                        "_htmlUrl": "https://www.mutantpoker.com"
+                    },
+                    {
+                        "_text": "darrelplant.com",
+                        "_title": "darrelplant.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.darrelplant.com/feed/",
+                        "_htmlUrl": "https://www.darrelplant.com"
+                    },
+                    {
+                        "_text": "AI, Media & Democracy Lab",
+                        "_title": "AI, Media & Democracy Lab",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.aim4dem.nl/feed/",
+                        "_htmlUrl": "https://www.aim4dem.nl"
+                    },
+                    {
+                        "_text": "UnixSage",
+                        "_title": "UnixSage",
+                        "_type": "rss",
+                        "_xmlUrl": "https://unixsage.com/index.xml",
+                        "_htmlUrl": "https://UnixSage.com/"
+                    },
+                    {
+                        "_text": "Riot Grrlia",
+                        "_title": "Riot Grrlia",
+                        "_type": "rss",
+                        "_xmlUrl": "https://riotgrrlia.tumblr.com/rss",
+                        "_htmlUrl": "https://riotgrrlia.tumblr.com/"
+                    },
+                    {
+                        "_text": "Adam Z. Lein",
+                        "_title": "Adam Z. Lein",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bookofadamz.com/author/adam/feed/",
+                        "_htmlUrl": "https://bookofadamz.com/author/adam/"
+                    },
+                    {
+                        "_text": "Kat Overland, Author at WWAC",
+                        "_title": "Kat Overland, Author at WWAC",
+                        "_type": "rss",
+                        "_xmlUrl": "https://womenwriteaboutcomics.com/author/kat-overland/feed/",
+                        "_htmlUrl": "https://womenwriteaboutcomics.com/author/kat-overland/"
+                    },
+                    {
+                        "_text": "du.nkel.dev",
+                        "_title": "du.nkel.dev",
+                        "_type": "rss",
+                        "_xmlUrl": "https://du.nkel.dev/feed_rss_updated.xml",
+                        "_htmlUrl": "https://du.nkel.dev/"
+                    },
+                    {
+                        "_text": "theBottleFarm",
+                        "_title": "theBottleFarm",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.thebottlefarm.com/wpbottle/feed/",
+                        "_htmlUrl": "https://www.thebottlefarm.com/wpbottle/"
+                    },
+                    {
+                        "_text": "Tasting Craft Beer",
+                        "_title": "Tasting Craft Beer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tasteofcraftbeer.wordpress.com/feed/",
+                        "_htmlUrl": "https://tasteofcraftbeer.wordpress.com"
+                    },
+                    {
+                        "_text": "WTL",
+                        "_title": "WTL",
+                        "_type": "rss",
+                        "_xmlUrl": "https://leroux.ca/feed/",
+                        "_htmlUrl": "https://leroux.ca"
+                    },
+                    {
+                        "_text": "Mandu 🥟",
+                        "_title": "Mandu 🥟",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdgYTW8mLupChLxEed_hHMg",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCdgYTW8mLupChLxEed_hHMg"
+                    },
+                    {
+                        "_text": "Francis Augusto Medeiros-Logeay",
+                        "_title": "Francis Augusto Medeiros-Logeay",
+                        "_type": "rss",
+                        "_xmlUrl": "https://francisaugusto.com/feed.xml",
+                        "_htmlUrl": "https://francisaugusto.com/"
+                    },
+                    {
+                        "_text": "Gebrokken norsk",
+                        "_title": "Gebrokken norsk",
+                        "_type": "rss",
+                        "_xmlUrl": "https://gebrokkennorsk.no/feed.xml",
+                        "_htmlUrl": "https://gebrokkennorsk.no/"
+                    },
+                    {
+                        "_text": "MK Hardy",
+                        "_title": "MK Hardy",
+                        "_type": "rss",
+                        "_xmlUrl": "https://mkhardy.com/feed/?v=7516fd43adaa",
+                        "_htmlUrl": "https://mkhardy.com"
+                    },
+                    {
+                        "_text": "Les Cabtualités",
+                        "_title": "Les Cabtualités",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cabtastic.substack.com/feed",
+                        "_htmlUrl": "https://cabtastic.substack.com"
+                    },
+                    {
+                        "_text": "Vault 105",
+                        "_title": "Vault 105",
+                        "_type": "rss",
+                        "_xmlUrl": "https://vault105.ca/rss/",
+                        "_htmlUrl": "https://vault105.ca/"
+                    },
+                    {
+                        "_text": "Vampire Friday",
+                        "_title": "Vampire Friday",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.vampirefriday.org/index.xml",
+                        "_htmlUrl": "https://blog.vampirefriday.org/"
+                    },
+                    {
+                        "_text": "Posts from @btp@alpha.polymaths.social",
+                        "_title": "Posts from @btp@alpha.polymaths.social",
+                        "_type": "rss",
+                        "_xmlUrl": "https://alpha.polymaths.social/@btp/feed.rss",
+                        "_htmlUrl": "https://alpha.polymaths.social/@btp"
+                    },
+                    {
+                        "_text": "Reindeer Flotilla Dot Net",
+                        "_title": "Reindeer Flotilla Dot Net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://reindeerflotilla.net/feed/",
+                        "_htmlUrl": "https://reindeerflotilla.net"
+                    },
+                    {
+                        "_text": "Cthulhu House Brewing",
+                        "_title": "Cthulhu House Brewing",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.rowald.net/feed/",
+                        "_htmlUrl": "https://www.rowald.net"
+                    },
+                    {
+                        "_text": "JGibbs.co",
+                        "_title": "JGibbs.co",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.jgibbs.co/feed/",
+                        "_htmlUrl": "https://www.jgibbs.co"
+                    },
+                    {
+                        "_text": "Fedimeister",
+                        "_title": "Fedimeister",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fedimeister.onyxbits.de/index.xml",
+                        "_htmlUrl": "https://fedimeister.onyxbits.de/"
+                    },
+                    {
+                        "_text": "The Fediverse Wiki",
+                        "_title": "The Fediverse Wiki",
+                        "_type": "rss",
+                        "_xmlUrl": "https://thefedi.wiki/feed.php",
+                        "_htmlUrl": "https://thefedi.wiki/"
+                    },
+                    {
+                        "_text": "Audrey and Jon",
+                        "_title": "Audrey and Jon",
+                        "_type": "rss",
+                        "_xmlUrl": "https://audreyandjon.com/rss.xml",
+                        "_htmlUrl": "https://audreyandjon.com"
+                    },
+                    {
+                        "_text": "Because I Was Stupid...",
+                        "_title": "Because I Was Stupid...",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ruralrunner.substack.com/feed",
+                        "_htmlUrl": "https://ruralrunner.substack.com"
+                    },
+                    {
+                        "_text": "Toyama – India's Best Home Automation Brand",
+                        "_title": "Toyama – India's Best Home Automation Brand",
+                        "_type": "rss",
+                        "_xmlUrl": "https://toyamaworld.com/feed/",
+                        "_htmlUrl": "https://toyamaworld.com"
+                    },
+                    {
+                        "_text": "Glimjii",
+                        "_title": "Glimjii",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTyOSr_B4sLCSnTAFO6HFMw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCTyOSr_B4sLCSnTAFO6HFMw"
+                    },
+                    {
+                        "_text": "Small Business Branding & Marketing",
+                        "_title": "Small Business Branding & Marketing",
+                        "_type": "rss",
+                        "_xmlUrl": "https://pixelsandpieces.ca/feed/",
+                        "_htmlUrl": "https://pixelsandpieces.ca/"
+                    },
+                    {
+                        "_text": "Wandering Around The Family Tree",
+                        "_title": "Wandering Around The Family Tree",
+                        "_type": "rss",
+                        "_xmlUrl": "https://pattyhankins.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://pattyhankins.blogspot.com/"
+                    },
+                    {
+                        "_text": "nathan :verified420:",
+                        "_title": "nathan :verified420:",
+                        "_type": "rss",
+                        "_xmlUrl": "https://freeradical.zone/@nathans420.rss",
+                        "_htmlUrl": "https://freeradical.zone/@nathans420"
+                    },
+                    {
+                        "_text": "Kelley Greene",
+                        "_title": "Kelley Greene",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kelleygreene.pizza/feed/",
+                        "_htmlUrl": "https://kelleygreene.pizza"
+                    },
+                    {
+                        "_text": "Home on Joshua Mauldin",
+                        "_title": "Home on Joshua Mauldin",
+                        "_type": "rss",
+                        "_xmlUrl": "http://joshuamauldin.com/index.xml",
+                        "_htmlUrl": "http://joshuamauldin.com/"
+                    },
+                    {
+                        "_text": "Stories – Android News & All the Bytes",
+                        "_title": "Stories – Android News & All the Bytes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.cryovex.com/web-stories/feed/",
+                        "_htmlUrl": "https://www.cryovex.com"
+                    },
+                    {
+                        "_text": "Lee’s Newsletter",
+                        "_title": "Lee’s Newsletter",
+                        "_type": "rss",
+                        "_xmlUrl": "https://lwpetersen.substack.com/feed",
+                        "_htmlUrl": "https://lwpetersen.substack.com"
+                    },
+                    {
+                        "_text": "Android News & All the Bytes",
+                        "_title": "Android News & All the Bytes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.cryovex.com/feed/",
+                        "_htmlUrl": "https://www.cryovex.com"
+                    },
+                    {
+                        "_text": "UKFilmNerd's Blog",
+                        "_title": "UKFilmNerd's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ukfilmnerd.wordpress.com/feed/",
+                        "_htmlUrl": "https://ukfilmnerd.wordpress.com"
+                    },
+                    {
+                        "_text": "Fiona Creates",
+                        "_title": "Fiona Creates",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fionacreates.tumblr.com/rss",
+                        "_htmlUrl": "https://fionacreates.tumblr.com/"
+                    },
+                    {
+                        "_text": "a lack of character",
+                        "_title": "a lack of character",
+                        "_type": "rss",
+                        "_xmlUrl": "https://alackofcharacter.com/feed/",
+                        "_htmlUrl": "https://alackofcharacter.com"
+                    },
+                    {
+                        "_text": "WUFO WATCH",
+                        "_title": "WUFO WATCH",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.wufo.watch/feed/",
+                        "_htmlUrl": "https://www.wufo.watch"
+                    },
+                    {
+                        "_text": "Weird Words Reader",
+                        "_title": "Weird Words Reader",
+                        "_type": "rss",
+                        "_xmlUrl": "https://weirdwords.org/read/feed/",
+                        "_htmlUrl": "https://weirdwords.org"
+                    },
+                    {
+                        "_text": "Ash Kyd's bookmarks you might like",
+                        "_title": "Ash Kyd's bookmarks you might like",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ash.ms/atom-bookmarks.xml",
+                        "_htmlUrl": "https://ash.ms/bookmarks/"
+                    },
+                    {
+                        "_text": "shauny.me",
+                        "_title": "shauny.me",
+                        "_type": "rss",
+                        "_xmlUrl": "https://shauny.me/feed/",
+                        "_htmlUrl": "https://shauny.me"
+                    },
+                    {
+                        "_text": "Numen Skog",
+                        "_title": "Numen Skog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://numenskog.tumblr.com/rss",
+                        "_htmlUrl": "https://numenskog.tumblr.com/"
+                    },
+                    {
+                        "_text": "Feed of \"Nanode\"",
+                        "_title": "Feed of \"Nanode\"",
+                        "_type": "rss",
+                        "_xmlUrl": "https://git.consummatetinkerer.net/Nanode.atom",
+                        "_htmlUrl": "https://git.consummatetinkerer.net/Nanode"
+                    },
+                    {
+                        "_text": "Valentin David",
+                        "_title": "Valentin David",
+                        "_type": "rss",
+                        "_xmlUrl": "https://valentindavid.com/index.xml",
+                        "_htmlUrl": "https://valentindavid.com/"
+                    },
+                    {
+                        "_text": "Consummate Tinkerer",
+                        "_title": "Consummate Tinkerer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://consummatetinkerer.net/feed/",
+                        "_htmlUrl": "https://consummatetinkerer.net/"
+                    },
+                    {
+                        "_text": "Oyster Recovery Partnership",
+                        "_title": "Oyster Recovery Partnership",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.oysterrecovery.org/feed",
+                        "_htmlUrl": "https://www.oysterrecovery.org/"
+                    },
+                    {
+                        "_text": "SnackTraces Blog",
+                        "_title": "SnackTraces Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://snacktraces.com/blog/feed/all.atom.xml",
+                        "_htmlUrl": "https://snacktraces.com/blog/"
+                    },
+                    {
+                        "_text": "Jon Camfield Dot Com",
+                        "_title": "Jon Camfield Dot Com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.joncamfield.com/feed.xml",
+                        "_htmlUrl": "https://www.joncamfield.com/"
+                    },
+                    {
+                        "_text": "Home | Campbell Jones on",
+                        "_title": "Home | Campbell Jones on",
+                        "_type": "rss",
+                        "_xmlUrl": "https://serebit.dev/index.xml",
+                        "_htmlUrl": "https://serebit.dev/"
+                    },
+                    {
+                        "_text": "Paul Kater International",
+                        "_title": "Paul Kater International",
+                        "_type": "rss",
+                        "_xmlUrl": "https://paulkater.com/feed.xml",
+                        "_htmlUrl": "https://paulkater.com"
+                    },
+                    {
+                        "_text": "Slowboat to Hell",
+                        "_title": "Slowboat to Hell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.slowboattohell.com/rss/",
+                        "_htmlUrl": "https://www.slowboattohell.com/"
+                    },
+                    {
+                        "_text": "👽CatSalad🐈🥗〰️𐓉𐙙𐊥𑀗𑀩Ꞥ",
+                        "_title": "👽CatSalad🐈🥗〰️𐓉𐙙𐊥𑀗𑀩Ꞥ",
+                        "_type": "rss",
+                        "_xmlUrl": "https://defcon.social/@catsalad.rss",
+                        "_htmlUrl": "https://defcon.social/@catsalad"
+                    },
+                    {
+                        "_text": "High Jinx",
+                        "_title": "High Jinx",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jinxhart.wordpress.com/feed/",
+                        "_htmlUrl": "https://jinxhart.wordpress.com"
+                    },
+                    {
+                        "_text": "Ben West's Blog",
+                        "_title": "Ben West's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.benwest.blog/feed/",
+                        "_htmlUrl": "https://www.benwest.blog"
+                    },
+                    {
+                        "_text": "Futureverse",
+                        "_title": "Futureverse",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.futureverse.earth/feed",
+                        "_htmlUrl": "https://www.futureverse.earth"
+                    },
+                    {
+                        "_text": "distillations/constellations",
+                        "_title": "distillations/constellations",
+                        "_type": "rss",
+                        "_xmlUrl": "https://buttondown.email/distillationsconstellations/rss",
+                        "_htmlUrl": "https://buttondown.email/distillationsconstellations"
+                    },
+                    {
+                        "_text": "Fedi Jedi",
+                        "_title": "Fedi Jedi",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fedijedi.com/feed/",
+                        "_htmlUrl": "https://fedijedi.com"
+                    },
+                    {
+                        "_text": "Chris​Hubbs​.com",
+                        "_title": "Chris​Hubbs​.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://chrishubbs.com/excerpts.xml",
+                        "_htmlUrl": "https://chrishubbs.com/"
+                    },
+                    {
+                        "_text": "Feed of \"Matéo Duparc\"",
+                        "_title": "Feed of \"Matéo Duparc\"",
+                        "_type": "rss",
+                        "_xmlUrl": "https://forge.chapril.org/hardcoresushi.atom",
+                        "_htmlUrl": "https://forge.chapril.org/hardcoresushi"
+                    },
+                    {
+                        "_text": "CvilleDems.org",
+                        "_title": "CvilleDems.org",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cvilledems.org/feed/",
+                        "_htmlUrl": "https://cvilledems.org"
+                    },
+                    {
+                        "_text": "trunks.social Activity",
+                        "_title": "trunks.social Activity",
+                        "_type": "rss",
+                        "_xmlUrl": "https://crowdin.com/project/trunkssocial/activity",
+                        "_htmlUrl": "https://crowdin.com/project/trunkssocial"
+                    },
+                    {
+                        "_text": "retiolus",
+                        "_title": "retiolus",
+                        "_type": "rss",
+                        "_xmlUrl": "https://retiolus.net/index.xml",
+                        "_htmlUrl": "https://retiolus.net/"
+                    },
+                    {
+                        "_text": "Catherine Flick: Publications, Media, and Thoughts",
+                        "_title": "Catherine Flick: Publications, Media, and Thoughts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.liedra.net/feed/",
+                        "_htmlUrl": "https://blog.liedra.net/"
+                    },
+                    {
+                        "_text": "Blog - Arion Research LLC",
+                        "_title": "Blog - Arion Research LLC",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.feedburner.com/Blog-ArionResearchLlc",
+                        "_htmlUrl": "https://www.arionresearch.com/blog/"
+                    },
+                    {
+                        "_text": "Tube City Online's \"Two Rivers, 30 Minutes\" - McKeesport, PA",
+                        "_title": "Tube City Online's \"Two Rivers, 30 Minutes\" - McKeesport, PA",
+                        "_type": "rss",
+                        "_xmlUrl": "http://almanac.tubecityonline.com/podcast/feed.xml",
+                        "_htmlUrl": "http://almanac.tubecityonline.com/podcast/"
+                    },
+                    {
+                        "_text": "Donald Noble’s Website",
+                        "_title": "Donald Noble’s Website",
+                        "_type": "rss",
+                        "_xmlUrl": "https://drnoble.co.uk/feed/",
+                        "_htmlUrl": "https://drnoble.co.uk"
+                    },
+                    {
+                        "_text": "Rudie In The Garden (And Sometimes Elsewhere)",
+                        "_title": "Rudie In The Garden (And Sometimes Elsewhere)",
+                        "_type": "rss",
+                        "_xmlUrl": "https://rudiev.substack.com/feed",
+                        "_htmlUrl": "https://rudiev.substack.com"
+                    },
+                    {
+                        "_text": "TurtleIsland.blog",
+                        "_title": "TurtleIsland.blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://turtleisland.blog/feed/",
+                        "_htmlUrl": "https://turtleisland.blog/"
+                    },
+                    {
+                        "_text": "Cybercat Institute",
+                        "_title": "Cybercat Institute",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cybercat.institute//feed.xml",
+                        "_htmlUrl": "https://cybercat-institute.github.io//"
+                    },
+                    {
+                        "_text": "Gavin Lewis",
+                        "_title": "Gavin Lewis",
+                        "_type": "rss",
+                        "_xmlUrl": "https://gavinlewis.photos/feed/",
+                        "_htmlUrl": "https://gavinlewis.photos"
+                    },
+                    {
+                        "_text": "ApatheticGeek",
+                        "_title": "ApatheticGeek",
+                        "_type": "rss",
+                        "_xmlUrl": "https://apatheticgeek.wordpress.com/feed/",
+                        "_htmlUrl": "https://apatheticgeek.wordpress.com"
+                    },
+                    {
+                        "_text": "j. bell & the Lazy Susan Band",
+                        "_title": "j. bell & the Lazy Susan Band",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jbellmusic.com/feed/",
+                        "_htmlUrl": "https://jbellmusic.com/"
+                    },
+                    {
+                        "_text": "Steven D. BREWER",
+                        "_title": "Steven D. BREWER",
+                        "_type": "rss",
+                        "_xmlUrl": "https://stevendbrewer.com/feed/",
+                        "_htmlUrl": "https://stevendbrewer.com"
+                    },
+                    {
+                        "_text": "Tas Forest",
+                        "_title": "Tas Forest",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfl1iDdflTM-M6TOwRITivw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCfl1iDdflTM-M6TOwRITivw"
+                    },
+                    {
+                        "_text": "Steven D. Brewer - Water Dragon Publishing",
+                        "_title": "Steven D. Brewer - Water Dragon Publishing",
+                        "_type": "rss",
+                        "_xmlUrl": "https://waterdragonpublishing.com/book-author/steven-brewer/feed/",
+                        "_htmlUrl": "https://waterdragonpublishing.com/book-author/steven-brewer/"
+                    },
+                    {
+                        "_text": "Daily Bread",
+                        "_title": "Daily Bread",
+                        "_type": "rss",
+                        "_xmlUrl": "https://paninid.substack.com/feed",
+                        "_htmlUrl": "https://paninid.substack.com"
+                    },
+                    {
+                        "_text": "sd.ai: Simon Detheridge",
+                        "_title": "sd.ai: Simon Detheridge",
+                        "_type": "rss",
+                        "_xmlUrl": "https://sd.ai/rss/",
+                        "_htmlUrl": "https://sd.ai/"
+                    },
+                    {
+                        "_text": "Water Dragon Publishing",
+                        "_title": "Water Dragon Publishing",
+                        "_type": "rss",
+                        "_xmlUrl": "https://waterdragonpublishing.com/feed/",
+                        "_htmlUrl": "https://waterdragonpublishing.com/"
+                    },
+                    {
+                        "_text": "Inani Ludibrio",
+                        "_title": "Inani Ludibrio",
+                        "_type": "rss",
+                        "_xmlUrl": "https://inaniludibrio.com/feed/",
+                        "_htmlUrl": "https://inaniludibrio.com"
+                    },
+                    {
+                        "_text": "peter krupa dot lol",
+                        "_title": "peter krupa dot lol",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.peterkrupa.lol/feed/",
+                        "_htmlUrl": "https://www.peterkrupa.lol"
+                    },
+                    {
+                        "_text": "TV-Recaps-Reviews",
+                        "_title": "TV-Recaps-Reviews",
+                        "_type": "rss",
+                        "_xmlUrl": "http://www.tv-recaps-reviews.com/feeds/posts/default",
+                        "_htmlUrl": "http://www.tv-recaps-reviews.com/"
+                    },
+                    {
+                        "_text": "Flutterby!",
+                        "_title": "Flutterby!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.flutterby.com/feed.xml",
+                        "_htmlUrl": "https://www.flutterby.com/feed.xml"
+                    },
+                    {
+                        "_text": "transpile.net",
+                        "_title": "transpile.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://transpile.net/index.xml",
+                        "_htmlUrl": "https://transpile.net/"
+                    },
+                    {
+                        "_text": "The Dent",
+                        "_title": "The Dent",
+                        "_type": "rss",
+                        "_xmlUrl": "https://andy.tumblr.com/rss",
+                        "_htmlUrl": "https://andy.tumblr.com/"
+                    },
+                    {
+                        "_text": "HeathenStorm",
+                        "_title": "HeathenStorm",
+                        "_type": "rss",
+                        "_xmlUrl": "https://heathenstorm.com/feed/",
+                        "_htmlUrl": "https://heathenstorm.com"
+                    },
+                    {
+                        "_text": "EighthLayer",
+                        "_title": "EighthLayer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7XdyFdJ7KLiLE5uPZ4JCGw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UC7XdyFdJ7KLiLE5uPZ4JCGw"
+                    },
+                    {
+                        "_text": "Gavi's Blog",
+                        "_title": "Gavi's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://my.jewy.blog/feed/",
+                        "_htmlUrl": "https://my.jewy.blog/"
+                    },
+                    {
+                        "_text": "martin’s statuslog",
+                        "_title": "martin’s statuslog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://martin.status.lol/feed",
+                        "_htmlUrl": "https://martin.status.lol"
+                    },
+                    {
+                        "_text": "Martin Schuhmann",
+                        "_title": "Martin Schuhmann",
+                        "_type": "rss",
+                        "_xmlUrl": "https://martinschuhmann.com/feed.atom",
+                        "_htmlUrl": "https://martinschuhmann.com"
+                    },
+                    {
+                        "_text": "WW0CJ",
+                        "_title": "WW0CJ",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ww0cj.radio//feed",
+                        "_htmlUrl": "https://ww0cj.radio/"
+                    },
+                    {
+                        "_text": "Laura's Adventure Playground: Mixing Community, Advocacy, and a Splash of Fun!",
+                        "_title": "Laura's Adventure Playground: Mixing Community, Advocacy, and a Splash of Fun!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://laura.community/feed/",
+                        "_htmlUrl": "https://laura.community"
+                    },
+                    {
+                        "_text": "Martin Holland",
+                        "_title": "Martin Holland",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.heise.de/autor/Martin-Holland-3639057.xml",
+                        "_htmlUrl": "https://www.heise.de/autor/Martin-Holland-3639057.xml"
+                    },
+                    {
+                        "_text": "DEV Community: Hasan Ali",
+                        "_title": "DEV Community: Hasan Ali",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dev.to/feed/hasanhaja",
+                        "_htmlUrl": "https://dev.to/hasanhaja"
+                    },
+                    {
+                        "_text": "Ten Forward Wiki",
+                        "_title": "Ten Forward Wiki",
+                        "_type": "rss",
+                        "_xmlUrl": "https://wiki.tenforward.social/feed.php?mode=list&ns=",
+                        "_htmlUrl": "https://wiki.tenforward.social/"
+                    },
+                    {
+                        "_text": "DEV Community: Andreas",
+                        "_title": "DEV Community: Andreas",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dev.to/feed/devmount",
+                        "_htmlUrl": "https://dev.to/devmount"
+                    },
+                    {
+                        "_text": "BSD on Michał Sapka's website",
+                        "_title": "BSD on Michał Sapka's website",
+                        "_type": "rss",
+                        "_xmlUrl": "https://michal.sapka.me/bsd/rss.xml",
+                        "_htmlUrl": "https://michal.sapka.me/bsd/"
+                    },
+                    {
+                        "_text": "muphli.de",
+                        "_title": "muphli.de",
+                        "_type": "rss",
+                        "_xmlUrl": "https://muphli.de/feed/?type=rss",
+                        "_htmlUrl": "https://muphli.de/"
+                    },
+                    {
+                        "_text": "Verdant Square",
+                        "_title": "Verdant Square",
+                        "_type": "rss",
+                        "_xmlUrl": "https://verdantsquare.net/feed/",
+                        "_htmlUrl": "https://verdantsquare.net"
+                    },
+                    {
+                        "_text": "The Inarticulate Quilter",
+                        "_title": "The Inarticulate Quilter",
+                        "_type": "rss",
+                        "_xmlUrl": "https://inarticulatequilter.wordpress.com/feed/",
+                        "_htmlUrl": "https://inarticulatequilter.wordpress.com"
+                    },
+                    {
+                        "_text": "From the Rostra",
+                        "_title": "From the Rostra",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fromtherostra.com/feed/",
+                        "_htmlUrl": "https://fromtherostra.com"
+                    },
+                    {
+                        "_text": "Weblog by shuuji3",
+                        "_title": "Weblog by shuuji3",
+                        "_type": "rss",
+                        "_xmlUrl": "https://weblog.shuuji3.xyz/index.xml",
+                        "_htmlUrl": "https://weblog.shuuji3.xyz/"
+                    },
+                    {
+                        "_text": "FesixGermany",
+                        "_title": "FesixGermany",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-gjrg_FfB7IyA0vcuQjLvw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UC-gjrg_FfB7IyA0vcuQjLvw"
+                    },
+                    {
+                        "_text": "Cods Plaice",
+                        "_title": "Cods Plaice",
+                        "_type": "rss",
+                        "_xmlUrl": "http://codsplaice.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "http://codsplaice.blogspot.com/"
+                    },
+                    {
+                        "_text": "shellsharks Captain Logs",
+                        "_title": "shellsharks Captain Logs",
+                        "_type": "rss",
+                        "_xmlUrl": "https://shellsharks.com/feeds/log-feed.xml",
+                        "_htmlUrl": "https://shellsharks.com"
+                    },
+                    {
+                        "_text": "jenn's cool zone",
+                        "_title": "jenn's cool zone",
+                        "_type": "rss",
+                        "_xmlUrl": "https://postgrunge.glitch.me/index.xml",
+                        "_htmlUrl": "https://postgrunge.glitch.me/index.xml"
+                    },
+                    {
+                        "_text": "Nathaniel Daught",
+                        "_title": "Nathaniel Daught",
+                        "_type": "rss",
+                        "_xmlUrl": "https://daught.me/feed/feed.xml",
+                        "_htmlUrl": "https://daught.me/"
+                    },
+                    {
+                        "_text": "daw50n blog",
+                        "_title": "daw50n blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.daw50n.net/feed/",
+                        "_htmlUrl": "https://blog.daw50n.net"
+                    },
+                    {
+                        "_text": "Fitheach",
+                        "_title": "Fitheach",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fitheach.co.uk/feeds/all.rss.xml",
+                        "_htmlUrl": "https://fitheach.co.uk/"
+                    },
+                    {
+                        "_text": "feedle | Linux",
+                        "_title": "feedle | Linux",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedle.world/rss/?query=Linux",
+                        "_htmlUrl": "https://feedle.world/rss/?query=Linux"
+                    },
+                    {
+                        "_text": "Justin Ferrell",
+                        "_title": "Justin Ferrell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ferrell.rocks/feed.xml",
+                        "_htmlUrl": "https://ferrell.rocks"
+                    },
+                    {
+                        "_text": "Life on the Wicked Stage: Act 3",
+                        "_title": "Life on the Wicked Stage: Act 3",
+                        "_type": "rss",
+                        "_xmlUrl": "https://warnercrocker.com/feed/",
+                        "_htmlUrl": "https://warnercrocker.com"
+                    },
+                    {
+                        "_text": "technicat.com",
+                        "_title": "technicat.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://pc.technicat.com/index.xml",
+                        "_htmlUrl": "https://pc.technicat.com/"
+                    },
+                    {
+                        "_text": "Fabio Manganiello",
+                        "_title": "Fabio Manganiello",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fabiomanganiello.com/feed/",
+                        "_htmlUrl": "https://fabiomanganiello.com"
+                    },
+                    {
+                        "_text": "Renaud Chaput",
+                        "_title": "Renaud Chaput",
+                        "_type": "rss",
+                        "_xmlUrl": "https://renchap.com/blog/index.xml",
+                        "_htmlUrl": "http://www.renchap.com/blog/"
+                    },
+                    {
+                        "_text": "Tiff Is…",
+                        "_title": "Tiff Is…",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tiff.is/feed/",
+                        "_htmlUrl": "https://tiff.is"
+                    },
+                    {
+                        "_text": "Thomas Pike’s other blog",
+                        "_title": "Thomas Pike’s other blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://thomasp.vivaldi.net/feed/",
+                        "_htmlUrl": "https://thomasp.vivaldi.net"
+                    },
+                    {
+                        "_text": "melsaywhat",
+                        "_title": "melsaywhat",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.melsaywhat.com/feeds/posts/default?alt=rss",
+                        "_htmlUrl": "https://www.melsaywhat.com/"
+                    },
+                    {
+                        "_text": "Shelby DeNike",
+                        "_title": "Shelby DeNike",
+                        "_type": "rss",
+                        "_xmlUrl": "https://denike.io/feed/",
+                        "_htmlUrl": "https://denike.io"
+                    },
+                    {
+                        "_text": "Mia’s Queue",
+                        "_title": "Mia’s Queue",
+                        "_type": "rss",
+                        "_xmlUrl": "https://miaq.substack.com/feed",
+                        "_htmlUrl": "https://miaq.substack.com"
+                    },
+                    {
+                        "_text": "SFBA COMMUNITY HUB",
+                        "_title": "SFBA COMMUNITY HUB",
+                        "_type": "rss",
+                        "_xmlUrl": "https://hub.sfba.social/feed/",
+                        "_htmlUrl": "https://hub.sfba.social"
+                    },
+                    {
+                        "_text": "Random Thoughts",
+                        "_title": "Random Thoughts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://michaelrowe01.com/index.php/feed/",
+                        "_htmlUrl": "https://michaelrowe01.com"
+                    },
+                    {
+                        "_text": "The Tech Desk",
+                        "_title": "The Tech Desk",
+                        "_type": "rss",
+                        "_xmlUrl": "https://flipboard.com/@tech.rss",
+                        "_htmlUrl": "https://flipboard.com/@tech"
+                    },
+                    {
+                        "_text": "Patrick Johanneson",
+                        "_title": "Patrick Johanneson",
+                        "_type": "rss",
+                        "_xmlUrl": "https://patrickjohanneson.com/feed/",
+                        "_htmlUrl": "https://patrickjohanneson.com"
+                    },
+                    {
+                        "_text": "log(book): rixx's book log",
+                        "_title": "log(book): rixx's book log",
+                        "_type": "rss",
+                        "_xmlUrl": "https://books.rixx.de/feed.atom",
+                        "_htmlUrl": "https://books.rixx.de/"
+                    },
+                    {
+                        "_text": "wolfe with an e's blog",
+                        "_title": "wolfe with an e's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://wolfewithane.com/feed.rss",
+                        "_htmlUrl": "https://wolfewithane.com"
+                    },
+                    {
+                        "_text": "Mary Gillis – The Beaverton",
+                        "_title": "Mary Gillis – The Beaverton",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.thebeaverton.com/author/mary-gillis/feed/",
+                        "_htmlUrl": "https://www.thebeaverton.com"
+                    },
+                    {
+                        "_text": "kottke.org",
+                        "_title": "kottke.org",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.kottke.org/main",
+                        "_htmlUrl": "https://kottke.org/"
+                    },
+                    {
+                        "_text": "Welcome to The Privacy Dad's Blog!",
+                        "_title": "Welcome to The Privacy Dad's Blog!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://theprivacydad.com/feed/",
+                        "_htmlUrl": "https://theprivacydad.com/"
+                    },
+                    {
+                        "_text": "Subtle Echo",
+                        "_title": "Subtle Echo",
+                        "_type": "rss",
+                        "_xmlUrl": "https://subtle-echo.pika.page/posts_feed",
+                        "_htmlUrl": "https://subtle-echo.pika.page"
+                    },
+                    {
+                        "_text": "Scott Hanselman's Blog",
+                        "_title": "Scott Hanselman's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "http://feeds.hanselman.com/ScottHanselman",
+                        "_htmlUrl": "http://www.hanselman.com/blog/"
+                    },
+                    {
+                        "_text": "Krebs on Security",
+                        "_title": "Krebs on Security",
+                        "_type": "rss",
+                        "_xmlUrl": "https://krebsonsecurity.com/feed/",
+                        "_htmlUrl": "https://krebsonsecurity.com/"
+                    },
+                    {
+                        "_text": "www-gem words",
+                        "_title": "www-gem words",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www-gem.codeberg.page/feed.atom",
+                        "_htmlUrl": "https://www-gem.codeberg.page/"
+                    },
+                    {
+                        "_text": "Matt Mullenweg",
+                        "_title": "Matt Mullenweg",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ma.tt/feed/",
+                        "_htmlUrl": "https://ma.tt/"
+                    },
+                    {
+                        "_text": "K.V. Blogs!",
+                        "_title": "K.V. Blogs!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kvblog.bearblog.dev/feed/",
+                        "_htmlUrl": "https://kvblog.bearblog.dev/"
+                    },
+                    {
+                        "_text": "Labnotes (by Assaf Arkin)",
+                        "_title": "Labnotes (by Assaf Arkin)",
+                        "_type": "rss",
+                        "_xmlUrl": "https://labnotes.org/rss/",
+                        "_htmlUrl": "http://labnotes.org/"
+                    },
+                    {
+                        "_text": "feedle | fediverse",
+                        "_title": "feedle | fediverse",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedle.world/rss/?query=fediverse",
+                        "_htmlUrl": "https://feedle.world/rss/?query=fediverse"
+                    },
+                    {
+                        "_text": "GamingOnLinux Latest Articles",
+                        "_title": "GamingOnLinux Latest Articles",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.gamingonlinux.com/article_rss.php",
+                        "_htmlUrl": "https://www.gamingonlinux.com/"
+                    },
+                    {
+                        "_text": "feedle | Smallweb",
+                        "_title": "feedle | Smallweb",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedle.world/rss/?query=Smallweb",
+                        "_htmlUrl": "https://feedle.world/rss/?query=Smallweb"
+                    },
+                    {
+                        "_text": "Graham Cluley",
+                        "_title": "Graham Cluley",
+                        "_type": "rss",
+                        "_xmlUrl": "https://grahamcluley.com/feed/",
+                        "_htmlUrl": "http://grahamcluley.com/"
+                    },
+                    {
+                        "_text": "feedle | Indieweb",
+                        "_title": "feedle | Indieweb",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedle.world/rss/?query=Indieweb",
+                        "_htmlUrl": "https://feedle.world/rss/?query=Indieweb"
+                    },
+                    {
+                        "_text": "webdev.rip a blog about webdev",
+                        "_title": "webdev.rip a blog about webdev",
+                        "_type": "rss",
+                        "_xmlUrl": "https://webdev.rip/atom",
+                        "_htmlUrl": "http://webdev.rip/"
+                    },
+                    {
+                        "_text": "Dan Gillmor",
+                        "_title": "Dan Gillmor",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dangillmor.com/feed/",
+                        "_htmlUrl": "https://dangillmor.com/"
+                    },
+                    {
+                        "_text": "Modern Web Development with Chrome",
+                        "_title": "Modern Web Development with Chrome",
+                        "_type": "rss",
+                        "_xmlUrl": "https://paul.kinlan.me/index.xml",
+                        "_htmlUrl": "https://paul.kinlan.me/"
+                    },
+                    {
+                        "_text": "kiko.io Posts",
+                        "_title": "kiko.io Posts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kiko.io/atom.xml",
+                        "_htmlUrl": "https://kiko.io/"
+                    },
+                    {
+                        "_text": "The Marginalian",
+                        "_title": "The Marginalian",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.feedburner.com/brainpickings/rss",
+                        "_htmlUrl": "https://www.brainpickings.org/"
+                    },
+                    {
+                        "_text": "Liss is More",
+                        "_title": "Liss is More",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.caseyliss.com/rss",
+                        "_htmlUrl": "https://www.caseyliss.com/"
+                    },
+                    {
+                        "_text": "Fedora Magazine",
+                        "_title": "Fedora Magazine",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fedoramagazine.org/feed/",
+                        "_htmlUrl": "http://fedoramagazine.org/"
+                    },
+                    {
+                        "_text": "Personal Webpage of Blake Watson",
+                        "_title": "Personal Webpage of Blake Watson",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blakewatson.com/feed/",
+                        "_htmlUrl": "https://blakewatson.com"
+                    },
+                    {
+                        "_text": "Scott Jenson",
+                        "_title": "Scott Jenson",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jenson.org/feed/",
+                        "_htmlUrl": "https://jenson.org/wordpress"
+                    },
+                    {
+                        "_text": "Lazybear",
+                        "_title": "Lazybear",
+                        "_type": "rss",
+                        "_xmlUrl": "https://lazybear.io/index.xml",
+                        "_htmlUrl": "https://lazybear.io/"
+                    },
+                    {
+                        "_text": "Hund",
+                        "_title": "Hund",
+                        "_type": "rss",
+                        "_xmlUrl": "https://hunden.linuxkompis.se/feed.xml",
+                        "_htmlUrl": "https://hunden.linuxkompis.se/"
+                    },
+                    {
+                        "_text": "skoo.bz",
+                        "_title": "skoo.bz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://skoo.bz/feed.json",
+                        "_htmlUrl": "https://skoo.bz/"
+                    },
+                    {
+                        "_text": "Troy Hunt",
+                        "_title": "Troy Hunt",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.troyhunt.com/rss/",
+                        "_htmlUrl": "https://www.troyhunt.com/"
+                    },
+                    {
+                        "_text": "Dana Byerly",
+                        "_title": "Dana Byerly",
+                        "_type": "rss",
+                        "_xmlUrl": "https://danabyerly.com/feed.xml",
+                        "_htmlUrl": "https://danabyerly.com/"
+                    },
+                    {
+                        "_text": "Silvia Maggi",
+                        "_title": "Silvia Maggi",
+                        "_type": "rss",
+                        "_xmlUrl": "https://silviamaggidesign.com/feed.xml",
+                        "_htmlUrl": "https://silviamaggidesign.com/"
+                    },
+                    {
+                        "_text": "Read the Tea Leaves",
+                        "_title": "Read the Tea Leaves",
+                        "_type": "rss",
+                        "_xmlUrl": "https://nolanlawson.com/feed/",
+                        "_htmlUrl": "https://nolanlawson.com/"
+                    },
+                    {
+                        "_text": "James Gleick",
+                        "_title": "James Gleick",
+                        "_type": "rss",
+                        "_xmlUrl": "https://around.com/feed/",
+                        "_htmlUrl": "https://around.com/"
+                    },
+                    {
+                        "_text": "The Beaverton",
+                        "_title": "The Beaverton",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.thebeaverton.com/feed/",
+                        "_htmlUrl": "https://www.thebeaverton.com/"
+                    },
+                    {
+                        "_text": "PaulStamatiou.com - Technology, Design and Photography",
+                        "_title": "PaulStamatiou.com - Technology, Design and Photography",
+                        "_type": "rss",
+                        "_xmlUrl": "https://paulstamatiou.com/posts.xml",
+                        "_htmlUrl": "https://paulstamatiou.com/"
+                    },
+                    {
+                        "_text": "Adam Conover",
+                        "_title": "Adam Conover",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-kM5kL9CgjN9s9pim089gg",
+                        "_htmlUrl": "https://www.youtube.com/channel/UC-kM5kL9CgjN9s9pim089gg/videos"
+                    },
+                    {
+                        "_text": "The Texas Observer",
+                        "_title": "The Texas Observer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.texasobserver.org/feed/",
+                        "_htmlUrl": "https://www.texasobserver.org/"
+                    },
+                    {
+                        "_text": "War and Peas",
+                        "_title": "War and Peas",
+                        "_type": "rss",
+                        "_xmlUrl": "https://warandpeas.com/feed/",
+                        "_htmlUrl": "https://warandpeas.com/"
+                    },
+                    {
+                        "_text": "Ionica Smeets",
+                        "_title": "Ionica Smeets",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.ionica.nl/feed/",
+                        "_htmlUrl": "https://www.ionica.nl/"
+                    },
+                    {
+                        "_text": "The New Stack | DevOps, Open Source, and Cloud Native News",
+                        "_title": "The New Stack | DevOps, Open Source, and Cloud Native News",
+                        "_type": "rss",
+                        "_xmlUrl": "https://thenewstack.io/blog/feed/",
+                        "_htmlUrl": "https://thenewstack.io/"
+                    },
+                    {
+                        "_text": "Cubicgarden.com…",
+                        "_title": "Cubicgarden.com…",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cubicgarden.com/feed/",
+                        "_htmlUrl": "https://cubicgarden.com/"
+                    },
+                    {
+                        "_text": "Technology Connections",
+                        "_title": "Technology Connections",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q"
+                    },
+                    {
+                        "_text": "McSweeney’s",
+                        "_title": "McSweeney’s",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.feedburner.com/mcsweeneys",
+                        "_htmlUrl": "https://www.mcsweeneys.net/tendency"
+                    },
+                    {
+                        "_text": "Abandoned America Blogs and News",
+                        "_title": "Abandoned America Blogs and News",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.abandonedamerica.us/news.xml",
+                        "_htmlUrl": "https://www.abandonedamerica.us/"
+                    },
+                    {
+                        "_text": "beSpacific",
+                        "_title": "beSpacific",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.bespacific.com/feed/",
+                        "_htmlUrl": "https://www.bespacific.com/"
+                    },
+                    {
+                        "_text": "Whatever",
+                        "_title": "Whatever",
+                        "_type": "rss",
+                        "_xmlUrl": "https://whatever.scalzi.com/feed/",
+                        "_htmlUrl": "https://whatever.scalzi.com/"
+                    },
+                    {
+                        "_text": "Simon Willison's Weblog",
+                        "_title": "Simon Willison's Weblog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://simonwillison.net/atom/everything/",
+                        "_htmlUrl": "http://simonwillison.net/"
+                    },
+                    {
+                        "_text": "Ash Kyd's blog",
+                        "_title": "Ash Kyd's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ash.ms/atom.xml",
+                        "_htmlUrl": "https://ash.ms/"
+                    },
+                    {
+                        "_text": "Stefan Judis Web Development",
+                        "_title": "Stefan Judis Web Development",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.stefanjudis.com/rss.xml",
+                        "_htmlUrl": "https://www.stefanjudis.com/"
+                    },
+                    {
+                        "_text": "Craig Mod — Writer + Photographer",
+                        "_title": "Craig Mod — Writer + Photographer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://craigmod.com/index.xml",
+                        "_htmlUrl": "https://craigmod.com/"
+                    },
+                    {
+                        "_text": "Kutomo",
+                        "_title": "Kutomo",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kutomo.com/rss/",
+                        "_htmlUrl": "https://kutomo.com/app-defaults-for-2024/"
+                    },
+                    {
+                        "_text": "Werd I/O",
+                        "_title": "Werd I/O",
+                        "_type": "rss",
+                        "_xmlUrl": "https://werd.io/?_t=rss",
+                        "_htmlUrl": "https://werd.io/"
+                    },
+                    {
+                        "_text": "read.write.as",
+                        "_title": "read.write.as",
+                        "_type": "rss",
+                        "_xmlUrl": "https://read.write.as/feed/",
+                        "_htmlUrl": "https://read.write.as/"
+                    },
+                    {
+                        "_text": "AirlineReporter",
+                        "_title": "AirlineReporter",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.airlinereporter.com/feed/",
+                        "_htmlUrl": "https://www.airlinereporter.com/"
+                    },
+                    {
+                        "_text": "Jules Hedges",
+                        "_title": "Jules Hedges",
+                        "_type": "rss",
+                        "_xmlUrl": "https://julesh.com/feed/",
+                        "_htmlUrl": "https://julesh.com/"
+                    },
+                    {
+                        "_text": "Phil Gyford’s website: Everything",
+                        "_title": "Phil Gyford’s website: Everything",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.gyford.com/phil/feeds/everything/rss/",
+                        "_htmlUrl": "https://www.gyford.com/"
+                    },
+                    {
+                        "_text": "Matthew Reinbold",
+                        "_title": "Matthew Reinbold",
+                        "_type": "rss",
+                        "_xmlUrl": "https://matthewreinbold.com/feed.xml",
+                        "_htmlUrl": "http://localhost:4000/"
+                    },
+                    {
+                        "_text": "Zara Rahman",
+                        "_title": "Zara Rahman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://zararah.net/atom.xml",
+                        "_htmlUrl": "https://zararah.net/"
+                    },
+                    {
+                        "_text": "Something Odd!",
+                        "_title": "Something Odd!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://odd.blog/feed/",
+                        "_htmlUrl": "https://odd.blog/"
+                    },
+                    {
+                        "_text": "Donncha",
+                        "_title": "Donncha",
+                        "_type": "rss",
+                        "_xmlUrl": "https://donncha.wordpress.com/feed/",
+                        "_htmlUrl": "https://donncha.wordpress.com"
+                    },
+                    {
+                        "_text": "Sidetracked",
+                        "_title": "Sidetracked",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.sidetracked.com/feed/",
+                        "_htmlUrl": "https://www.sidetracked.com/"
+                    },
+                    {
+                        "_text": "WWAC",
+                        "_title": "WWAC",
+                        "_type": "rss",
+                        "_xmlUrl": "https://womenwriteaboutcomics.com/feed/",
+                        "_htmlUrl": "https://womenwriteaboutcomics.com/"
+                    },
+                    {
+                        "_text": "Rob Pegoraro",
+                        "_title": "Rob Pegoraro",
+                        "_type": "rss",
+                        "_xmlUrl": "https://robpegoraro.com/feed/",
+                        "_htmlUrl": "https://robpegoraro.com/"
+                    },
+                    {
+                        "_text": "House of Kyle",
+                        "_title": "House of Kyle",
+                        "_type": "rss",
+                        "_xmlUrl": "https://houseofkyle.com/feed/",
+                        "_htmlUrl": "https://houseofkyle.com/2023/12/02/default-apps-2023/"
+                    },
+                    {
+                        "_text": "Indieseek.xyz Indie Web Directory",
+                        "_title": "Indieseek.xyz Indie Web Directory",
+                        "_type": "rss",
+                        "_xmlUrl": "https://indieseek.xyz/feed/",
+                        "_htmlUrl": "https://indieseek.xyz"
+                    },
+                    {
+                        "_text": "Manuel Moreale RSS Feed",
+                        "_title": "Manuel Moreale RSS Feed",
+                        "_type": "rss",
+                        "_xmlUrl": "https://manuelmoreale.com/feed/rss",
+                        "_htmlUrl": "https://manuelmoreale.com/"
+                    },
+                    {
+                        "_text": "Posts on abhinavsarkar.net",
+                        "_title": "Posts on abhinavsarkar.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://abhinavsarkar.net/feed.atom",
+                        "_htmlUrl": "https://abhinavsarkar.net/"
+                    },
+                    {
+                        "_text": "Pepys' Diary - Encyclopedia Topics",
+                        "_title": "Pepys' Diary - Encyclopedia Topics",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.feedburner.com/PepysDiary-Encyclopedia",
+                        "_htmlUrl": "https://www.pepysdiary.com/"
+                    },
+                    {
+                        "_text": "News feed",
+                        "_title": "News feed",
+                        "_type": "rss",
+                        "_xmlUrl": "https://inkscape.org/news/feed/",
+                        "_htmlUrl": "https://inkscape.org/en/news/"
+                    },
+                    {
+                        "_text": "Hypercritical",
+                        "_title": "Hypercritical",
+                        "_type": "rss",
+                        "_xmlUrl": "https://hypercritical.co/feeds/main",
+                        "_htmlUrl": "http://hypercritical.co/"
+                    },
+                    {
+                        "_text": "TwisterMc",
+                        "_title": "TwisterMc",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.twistermc.com/feed/",
+                        "_htmlUrl": "https://www.twistermc.com"
+                    },
+                    {
+                        "_text": "Chris Coyier",
+                        "_title": "Chris Coyier",
+                        "_type": "rss",
+                        "_xmlUrl": "https://chriscoyier.net/feed/",
+                        "_htmlUrl": "https://chriscoyier.net/"
+                    },
+                    {
+                        "_text": "ODonnellWeb",
+                        "_title": "ODonnellWeb",
+                        "_type": "rss",
+                        "_xmlUrl": "https://odonnellweb.com/pelican/feeds/all.atom.xml",
+                        "_htmlUrl": "https://odonnellweb.com/pelican/"
+                    },
+                    {
+                        "_text": "Vincent Ritter",
+                        "_title": "Vincent Ritter",
+                        "_type": "rss",
+                        "_xmlUrl": "https://vincentritter.com/feeds/all.rss",
+                        "_htmlUrl": "https://vincentritter.com/"
+                    },
+                    {
+                        "_text": "Hanselminutes with Scott Hanselman",
+                        "_title": "Hanselminutes with Scott Hanselman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.simplecast.com/gvtxUiIf",
+                        "_htmlUrl": "https://www.hanselminutes.com/"
+                    },
+                    {
+                        "_text": "Terence Eden’s Blog",
+                        "_title": "Terence Eden’s Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://shkspr.mobi/blog/feed/atom/",
+                        "_htmlUrl": "https://shkspr.mobi/blog"
+                    },
+                    {
+                        "_text": "Rhys Wynne",
+                        "_title": "Rhys Wynne",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.rhyswynne.co.uk/feed/",
+                        "_htmlUrl": "https://www.rhyswynne.co.uk/"
+                    },
+                    {
+                        "_text": "EVERYTHING on roytang.net",
+                        "_title": "EVERYTHING on roytang.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://roytang.net/index.xml",
+                        "_htmlUrl": "https://roytang.net/"
+                    },
+                    {
+                        "_text": "Tim Chambers",
+                        "_title": "Tim Chambers",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.timothychambers.net/feed.xml",
+                        "_htmlUrl": "https://www.timothychambers.net/"
+                    },
+                    {
+                        "_text": "Seeing the Forest",
+                        "_title": "Seeing the Forest",
+                        "_type": "rss",
+                        "_xmlUrl": "https://seeingtheforest.com/feed/",
+                        "_htmlUrl": "https://seeingtheforest.com/"
+                    },
+                    {
+                        "_text": "Popular Information",
+                        "_title": "Popular Information",
+                        "_type": "rss",
+                        "_xmlUrl": "https://popular.info/feed",
+                        "_htmlUrl": "https://popular.info/"
+                    },
+                    {
+                        "_text": "Marco Rogers",
+                        "_title": "Marco Rogers",
+                        "_type": "rss",
+                        "_xmlUrl": "https://marcorogers.com/blog?format=rss",
+                        "_htmlUrl": "https://marcorogers.com/"
+                    },
+                    {
+                        "_text": "Romain Guy",
+                        "_title": "Romain Guy",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.curious-creature.com/index.xml",
+                        "_htmlUrl": "https://www.curious-creature.com/"
+                    },
+                    {
+                        "_text": "DC Beer",
+                        "_title": "DC Beer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dcbeer.com/feed/",
+                        "_htmlUrl": "https://www.dcbeer.com/rss-page"
+                    },
+                    {
+                        "_text": "Botwiki",
+                        "_title": "Botwiki",
+                        "_type": "rss",
+                        "_xmlUrl": "https://botwiki.org/feed/",
+                        "_htmlUrl": "https://botwiki.org"
+                    },
+                    {
+                        "_text": "Jaanus",
+                        "_title": "Jaanus",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jaanus.com/feed.xml",
+                        "_htmlUrl": "https://jaanus.com/"
+                    },
+                    {
+                        "_text": "Philip Brewer",
+                        "_title": "Philip Brewer",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.philipbrewer.net/feed/",
+                        "_htmlUrl": "https://www.philipbrewer.net/"
+                    },
+                    {
+                        "_text": "trashpanda.cc",
+                        "_title": "trashpanda.cc",
+                        "_type": "rss",
+                        "_xmlUrl": "https://trashpanda.cc/index.xml",
+                        "_htmlUrl": "https://trashpanda.cc/"
+                    },
+                    {
+                        "_text": "Cassidy James Blaede",
+                        "_title": "Cassidy James Blaede",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cassidyjames.com/feed.xml",
+                        "_htmlUrl": "https://cassidyjames.com/"
+                    },
+                    {
+                        "_text": "Analog.Cafe",
+                        "_title": "Analog.Cafe",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.analog.cafe/rss",
+                        "_htmlUrl": "https://www.analog.cafe/"
+                    },
+                    {
+                        "_text": "Empty Coffee",
+                        "_title": "Empty Coffee",
+                        "_type": "rss",
+                        "_xmlUrl": "https://empty.coffee/rss/",
+                        "_htmlUrl": "https://empty.coffee/"
+                    },
+                    {
+                        "_text": "Carlo Zottmann",
+                        "_title": "Carlo Zottmann",
+                        "_type": "rss",
+                        "_xmlUrl": "https://zottmann.org/feed.xml",
+                        "_htmlUrl": "https://zottmann.org/"
+                    },
+                    {
+                        "_text": "Wimpy's World",
+                        "_title": "Wimpy's World",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpYmMp7EFaxuogUX1eAqyw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UChpYmMp7EFaxuogUX1eAqyw"
+                    },
+                    {
+                        "_text": "The Popehat Report",
+                        "_title": "The Popehat Report",
+                        "_type": "rss",
+                        "_xmlUrl": "https://popehat.substack.com/feed",
+                        "_htmlUrl": "https://popehat.substack.com/"
+                    },
+                    {
+                        "_text": "Jan-Lukas Else",
+                        "_title": "Jan-Lukas Else",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jlelse.blog/.rss",
+                        "_htmlUrl": "https://jlelse.blog/"
+                    },
+                    {
+                        "_text": "Alan Pope's blog",
+                        "_title": "Alan Pope's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://popey.com/blog/index.xml",
+                        "_htmlUrl": "https://popey.com/blog/"
+                    },
+                    {
+                        "_text": "Hearthside by Caleb Hearth",
+                        "_title": "Hearthside by Caleb Hearth",
+                        "_type": "rss",
+                        "_xmlUrl": "https://calebhearth.com/atom.xml",
+                        "_htmlUrl": "https://calebhearth.com/"
+                    },
+                    {
+                        "_text": "Home on Libre Arts",
+                        "_title": "Home on Libre Arts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://librearts.org/index.xml",
+                        "_htmlUrl": "https://librearts.org/"
+                    },
+                    {
+                        "_text": "Official site of Stephen Fry",
+                        "_title": "Official site of Stephen Fry",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.stephenfry.com/feed/",
+                        "_htmlUrl": "https://www.stephenfry.com/"
+                    },
+                    {
+                        "_text": "BuzzMachine",
+                        "_title": "BuzzMachine",
+                        "_type": "rss",
+                        "_xmlUrl": "https://buzzmachine.com/feed/",
+                        "_htmlUrl": "https://buzzmachine.com/"
+                    },
+                    {
+                        "_text": "ᕕ( ᐛ )ᕗ Herman's blog",
+                        "_title": "ᕕ( ᐛ )ᕗ Herman's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://herman.bearblog.dev/feed/?type=rss",
+                        "_htmlUrl": "http://herman.bearblog.dev/feed/?type=rss"
+                    },
+                    {
+                        "_text": "Robb Montgomery",
+                        "_title": "Robb Montgomery",
+                        "_type": "rss",
+                        "_xmlUrl": "https://robbmontgomery.com/feed/",
+                        "_htmlUrl": "https://robbmontgomery.com/"
+                    },
+                    {
+                        "_text": "https://mikestone.me/feed.xml",
+                        "_title": "https://mikestone.me/feed.xml",
+                        "_type": "rss",
+                        "_xmlUrl": "https://mikestone.me/feed.xml",
+                        "_htmlUrl": "https://mikestone.me/"
+                    },
+                    {
+                        "_text": "Andy Bell",
+                        "_title": "Andy Bell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://andy-bell.co.uk/feed.xml",
+                        "_htmlUrl": "https://andy-bell.co.uk/"
+                    },
+                    {
+                        "_text": "This day’s portion (a blog from Leon Paternoster)",
+                        "_title": "This day’s portion (a blog from Leon Paternoster)",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.thisdaysportion.com/feed/index.xml",
+                        "_htmlUrl": "https://www.thisdaysportion.com/"
+                    },
+                    {
+                        "_text": "SomeGadgetGuy",
+                        "_title": "SomeGadgetGuy",
+                        "_type": "rss",
+                        "_xmlUrl": "https://somegadgetguy.com/feed/",
+                        "_htmlUrl": "https://somegadgetguy.com"
+                    },
+                    {
+                        "_text": "TechHut",
+                        "_title": "TechHut",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+                        "_htmlUrl": "http://www.youtube.com/channel/UCjSEJkpGbcZhvo0lr-44X_w"
+                    },
+                    {
+                        "_text": "Simon Willison TIL",
+                        "_title": "Simon Willison TIL",
+                        "_type": "rss",
+                        "_xmlUrl": "https://til.simonwillison.net/tils/feed.atom",
+                        "_htmlUrl": "https://til.simonwillison.net/tils/feed.atom"
+                    },
+                    {
+                        "_text": "Jeff Bridgforth",
+                        "_title": "Jeff Bridgforth",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jeffbridgforth.com/feed/",
+                        "_htmlUrl": "https://jeffbridgforth.com/"
+                    },
+                    {
+                        "_text": "Out of Ambit – Diane Duane's weblog",
+                        "_title": "Out of Ambit – Diane Duane's weblog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.dianeduane.com/outofambit/feed/",
+                        "_htmlUrl": "https://dianeduane.com/outofambit"
+                    },
+                    {
+                        "_text": "Jedi-Bibliothek",
+                        "_title": "Jedi-Bibliothek",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jedi-bibliothek.de/feed/",
+                        "_htmlUrl": "https://jedi-bibliothek.de/"
+                    },
+                    {
+                        "_text": "Vintage Computing and Gaming",
+                        "_title": "Vintage Computing and Gaming",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.vintagecomputing.com/index.php/feed/atom",
+                        "_htmlUrl": "https://www.vintagecomputing.com"
+                    },
+                    {
+                        "_text": "Matthew Skelton",
+                        "_title": "Matthew Skelton",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.matthewskelton.net/feed/",
+                        "_htmlUrl": "https://blog.matthewskelton.net"
+                    },
+                    {
+                        "_text": "Beautiful Flower Pictures Blog",
+                        "_title": "Beautiful Flower Pictures Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.beautifulflowerpictures.com/blog/feed/",
+                        "_htmlUrl": "https://www.beautifulflowerpictures.com/blog"
+                    },
+                    {
+                        "_text": "Justin Pot",
+                        "_title": "Justin Pot",
+                        "_type": "rss",
+                        "_xmlUrl": "https://justinpot.com/feed/",
+                        "_htmlUrl": "https://justinpot.com/"
+                    },
+                    {
+                        "_text": "Charlotte's Web Thoughts",
+                        "_title": "Charlotte's Web Thoughts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://charlotteclymer.substack.com/feed",
+                        "_htmlUrl": "https://charlotteclymer.substack.com"
+                    },
+                    {
+                        "_text": "Teri Kanefield",
+                        "_title": "Teri Kanefield",
+                        "_type": "rss",
+                        "_xmlUrl": "https://terikanefield.com/feed/",
+                        "_htmlUrl": "https://terikanefield.com"
+                    },
+                    {
+                        "_text": "Phish.Net",
+                        "_title": "Phish.Net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://phish.net/feed/index.xml",
+                        "_htmlUrl": "https://phish.net/"
+                    },
+                    {
+                        "_text": "Dennis Schubert - Blog",
+                        "_title": "Dennis Schubert - Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://overengineer.dev/blog/feeds/all.xml",
+                        "_htmlUrl": "https://overengineer.dev"
+                    },
+                    {
+                        "_text": "nashp.com",
+                        "_title": "nashp.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://nashp.com/feed.rss",
+                        "_htmlUrl": "https://nashp.com"
+                    },
+                    {
+                        "_text": "SessionTV",
+                        "_title": "SessionTV",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7LL0dEffQ7FSjbY5wwlnw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCN7LL0dEffQ7FSjbY5wwlnw"
+                    },
+                    {
+                        "_text": "{micro maique}",
+                        "_title": "{micro maique}",
+                        "_type": "rss",
+                        "_xmlUrl": "https://maique.eu/feed.xml",
+                        "_htmlUrl": "https://maique.eu/"
+                    },
+                    {
+                        "_text": "menno.io",
+                        "_title": "menno.io",
+                        "_type": "rss",
+                        "_xmlUrl": "https://menno.io/atom.xml",
+                        "_htmlUrl": "https://menno.io/"
+                    },
+                    {
+                        "_text": "Taylor Jadin",
+                        "_title": "Taylor Jadin",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jadin.me/index.xml",
+                        "_htmlUrl": "https://jadin.me/"
+                    },
+                    {
+                        "_text": "Abhinav's Notes",
+                        "_title": "Abhinav's Notes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://notes.abhinavsarkar.net/feed.atom",
+                        "_htmlUrl": "https://notes.abhinavsarkar.net/"
+                    },
+                    {
+                        "_text": "Diane Duane",
+                        "_title": "Diane Duane",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dduane.tumblr.com/rss",
+                        "_htmlUrl": "https://dduane.tumblr.com/"
+                    },
+                    {
+                        "_text": "Things That Caught My Attention",
+                        "_title": "Things That Caught My Attention",
+                        "_type": "rss",
+                        "_xmlUrl": "https://newsletter.danhon.com/rss.xml",
+                        "_htmlUrl": "https://newsletter.danhon.com/"
+                    },
+                    {
+                        "_text": "bigl.es",
+                        "_title": "bigl.es",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bigl.es/rss/",
+                        "_htmlUrl": "https://bigl.es/"
+                    },
+                    {
+                        "_text": "Minutes to Midnight",
+                        "_title": "Minutes to Midnight",
+                        "_type": "rss",
+                        "_xmlUrl": "https://minutestomidnight.co.uk/feed.xml",
+                        "_htmlUrl": "https://minutestomidnight.co.uk/"
+                    },
+                    {
+                        "_text": "Nonsense · Sam Henri Gold",
+                        "_title": "Nonsense · Sam Henri Gold",
+                        "_type": "rss",
+                        "_xmlUrl": "https://samhenri.gold/feed.xml",
+                        "_htmlUrl": "https://samhenri.gold/"
+                    },
+                    {
+                        "_text": "Side Of Burritos",
+                        "_title": "Side Of Burritos",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCij1VEjDb88RCbqsvZ1gqaw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCij1VEjDb88RCbqsvZ1gqaw"
+                    },
+                    {
+                        "_text": "Blog on Luke's Wild Website",
+                        "_title": "Blog on Luke's Wild Website",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.lkhrs.com/blog/index.xml",
+                        "_htmlUrl": "https://luke.work/"
+                    },
+                    {
+                        "_text": "indieblog.page daily random posts",
+                        "_title": "indieblog.page daily random posts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://indieblog.page/dailyfeed?num=10",
+                        "_htmlUrl": "https://indieblog.page/"
+                    },
+                    {
+                        "_text": "Blog on Sudo",
+                        "_title": "Blog on Sudo",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.sudo.ws/posts/index.xml",
+                        "_htmlUrl": "https://www.sudo.ws/posts/"
+                    },
+                    {
+                        "_text": "tins ::: Rick Klau's blog",
+                        "_title": "tins ::: Rick Klau's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tins.rklau.com/feed/",
+                        "_htmlUrl": "https://tins.rklau.com/"
+                    },
+                    {
+                        "_text": "Noted",
+                        "_title": "Noted",
+                        "_type": "rss",
+                        "_xmlUrl": "https://noted.lol/rss/",
+                        "_htmlUrl": "https://noted.lol/"
+                    },
+                    {
+                        "_text": "Humancode.us",
+                        "_title": "Humancode.us",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.humancode.us/feed/",
+                        "_htmlUrl": "https://www.humancode.us/"
+                    },
+                    {
+                        "_text": "Brewster Kahle's Blog",
+                        "_title": "Brewster Kahle's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://brewster.kahle.org/feed/",
+                        "_htmlUrl": "https://brewster.kahle.org/"
+                    },
+                    {
+                        "_text": "Lloyd Atkinson's Articles",
+                        "_title": "Lloyd Atkinson's Articles",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.lloydatkinson.net/rss.xml",
+                        "_htmlUrl": "https://lloydatkinson.net/"
+                    },
+                    {
+                        "_text": "Andrey Konovalov",
+                        "_title": "Andrey Konovalov",
+                        "_type": "rss",
+                        "_xmlUrl": "https://xairy.io/feed.xml",
+                        "_htmlUrl": "https://xairy.io/"
+                    },
+                    {
+                        "_text": "bbbhltz",
+                        "_title": "bbbhltz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bbbhltz.codeberg.page/rss.xml",
+                        "_htmlUrl": "https://bbbhltz.codeberg.page/rss.xml"
+                    },
+                    {
+                        "_text": "A Good Enough Newsletter",
+                        "_title": "A Good Enough Newsletter",
+                        "_type": "rss",
+                        "_xmlUrl": "https://goodenoughnews.substack.com/feed",
+                        "_htmlUrl": "https://goodenoughnews.substack.com/"
+                    },
+                    {
+                        "_text": "Sunday - Jack Cheng",
+                        "_title": "Sunday - Jack Cheng",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.jackcheng.com/sunday/rss/",
+                        "_htmlUrl": "https://www.jackcheng.com/"
+                    },
+                    {
+                        "_text": "Paolo Amoroso's Journal",
+                        "_title": "Paolo Amoroso's Journal",
+                        "_type": "rss",
+                        "_xmlUrl": "https://journal.paoloamoroso.com/feed/",
+                        "_htmlUrl": "https://journal.paoloamoroso.com/"
+                    },
+                    {
+                        "_text": "Kwon.nyc",
+                        "_title": "Kwon.nyc",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kwon.nyc/index.xml",
+                        "_htmlUrl": "https://kwon.nyc/"
+                    },
+                    {
+                        "_text": "scvalex.net",
+                        "_title": "scvalex.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://scvalex.net/atom.xml",
+                        "_htmlUrl": "https://scvalex.net/"
+                    },
+                    {
+                        "_text": "Serious Trouble",
+                        "_title": "Serious Trouble",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.serioustrouble.show/feed",
+                        "_htmlUrl": "https://www.serioustrouble.show/"
+                    },
+                    {
+                        "_text": "Open Web Advocacy posts",
+                        "_title": "Open Web Advocacy posts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://open-web-advocacy.org/feed.xml",
+                        "_htmlUrl": "https://open-web-advocacy.org/"
+                    },
+                    {
+                        "_text": "localghost",
+                        "_title": "localghost",
+                        "_type": "rss",
+                        "_xmlUrl": "https://localghost.dev/feed.xml",
+                        "_htmlUrl": "https://localghost.dev/"
+                    },
+                    {
+                        "_text": "Courtney Rosenthal",
+                        "_title": "Courtney Rosenthal",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.crosenthal.com/chrome/feed.xml",
+                        "_htmlUrl": "https://www.crosenthal.com/"
+                    },
+                    {
+                        "_text": "The Present Age",
+                        "_title": "The Present Age",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.readtpa.com/feed",
+                        "_htmlUrl": "https://www.readtpa.com/"
+                    },
+                    {
+                        "_text": "TimeMachiner",
+                        "_title": "TimeMachiner",
+                        "_type": "rss",
+                        "_xmlUrl": "https://timemachiner.io/feed/",
+                        "_htmlUrl": "https://timemachiner.io/"
+                    },
+                    {
+                        "_text": "Bear Blog Trending Posts",
+                        "_title": "Bear Blog Trending Posts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bearblog.dev/discover/feed/",
+                        "_htmlUrl": "https://bearblog.dev/discover/"
+                    },
+                    {
+                        "_text": "George Dinwiddie's blog",
+                        "_title": "George Dinwiddie's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.gdinwiddie.com/feed/",
+                        "_htmlUrl": "https://blog.gdinwiddie.com/"
+                    },
+                    {
+                        "_text": "AdamW on Linux and more",
+                        "_title": "AdamW on Linux and more",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.happyassassin.net/rss.xml",
+                        "_htmlUrl": "https://www.happyassassin.net/"
+                    },
+                    {
+                        "_text": "Ruth Kitchin Tillman",
+                        "_title": "Ruth Kitchin Tillman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ruthtillman.com/index.xml",
+                        "_htmlUrl": "https://ruthtillman.com/"
+                    },
+                    {
+                        "_text": "Jorge Castro",
+                        "_title": "Jorge Castro",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyT3AcQaRx_yl1yYLa5ikXQ",
+                        "_htmlUrl": "http://www.youtube.com/channel/UCyT3AcQaRx_yl1yYLa5ikXQ"
+                    },
+                    {
+                        "_text": "PwnAllTheThings",
+                        "_title": "PwnAllTheThings",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.pwnallthethings.com/feed",
+                        "_htmlUrl": "https://www.pwnallthethings.com/"
+                    },
+                    {
+                        "_text": "Aeracode",
+                        "_title": "Aeracode",
+                        "_type": "rss",
+                        "_xmlUrl": "https://aeracode.org/feed/atom/",
+                        "_htmlUrl": "https://aeracode.org/feed/atom/"
+                    },
+                    {
+                        "_text": "tane.dev",
+                        "_title": "tane.dev",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tane.dev/index.xml",
+                        "_htmlUrl": "https://tane.dev/"
+                    },
+                    {
+                        "_text": "TechHut Media",
+                        "_title": "TechHut Media",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.techhut.tv/rss/",
+                        "_htmlUrl": "https://www.techhut.tv/"
+                    },
+                    {
+                        "_text": "Making software better without sacrificing user experience.",
+                        "_title": "Making software better without sacrificing user experience.",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bt.ht/atom.xml",
+                        "_htmlUrl": "https://bt.ht/"
+                    },
+                    {
+                        "_text": "feedle | Top Stories",
+                        "_title": "feedle | Top Stories",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedle.world/top-stories/rss",
+                        "_htmlUrl": "https://feedle.world/top-stories"
+                    },
+                    {
+                        "_text": "ooh.directory recently added blogs",
+                        "_title": "ooh.directory recently added blogs",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ooh.directory/feeds/recently-added.xml",
+                        "_htmlUrl": "https://ooh.directory/"
+                    },
+                    {
+                        "_text": "ooh.directory blog",
+                        "_title": "ooh.directory blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ooh.directory/blog/feeds/posts.xml",
+                        "_htmlUrl": "https://ooh.directory/blog/"
+                    },
+                    {
+                        "_text": "Alex Roddie",
+                        "_title": "Alex Roddie",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.alexroddie.com/blog/rss/",
+                        "_htmlUrl": "https://www.alexroddie.com/"
+                    },
+                    {
+                        "_text": "Martin Fieber's Blog",
+                        "_title": "Martin Fieber's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://martin-fieber.de/feed.xml",
+                        "_htmlUrl": "https://martin-fieber.de/blog/"
+                    },
+                    {
+                        "_text": "dnsprincess",
+                        "_title": "dnsprincess",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.dnsprincess.com/feeds/posts/default",
+                        "_htmlUrl": "https://www.dnsprincess.com/"
+                    },
+                    {
+                        "_text": "Hey, it's Jason!",
+                        "_title": "Hey, it's Jason!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://grepjason.sh/rss.xml",
+                        "_htmlUrl": "https://grepjason.sh/"
+                    },
+                    {
+                        "_text": "Kev Quirk",
+                        "_title": "Kev Quirk",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kevquirk.com/feed",
+                        "_htmlUrl": "https://kevquirk.com/"
+                    },
+                    {
+                        "_text": "Baty.net",
+                        "_title": "Baty.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://baty.net/feed",
+                        "_htmlUrl": "https://baty.net/"
+                    },
+                    {
+                        "_text": "Sara Joy",
+                        "_title": "Sara Joy",
+                        "_type": "rss",
+                        "_xmlUrl": "https://sarajoy.dev/rss.xml",
+                        "_htmlUrl": "https://sarajoy.dev/"
+                    },
+                    {
+                        "_text": "Cassidy's blog",
+                        "_title": "Cassidy's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.cassidoo.co/rss.xml",
+                        "_htmlUrl": "https://blog.cassidoo.co/"
+                    },
+                    {
+                        "_text": "Connectivity by Justin Pot",
+                        "_title": "Connectivity by Justin Pot",
+                        "_type": "rss",
+                        "_xmlUrl": "https://buttondown.email/justinpot/rss",
+                        "_htmlUrl": "https://buttondown.email/justinpot"
+                    },
+                    {
+                        "_text": "Adam Argyle",
+                        "_title": "Adam Argyle",
+                        "_type": "rss",
+                        "_xmlUrl": "https://nerdy.dev/rss.xml",
+                        "_htmlUrl": "https://nerdy.dev/"
+                    },
+                    {
+                        "_text": "Ted's Salmagundi",
+                        "_title": "Ted's Salmagundi",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tedssalmagundi.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://tedssalmagundi.blogspot.com/"
+                    },
+                    {
+                        "_text": "👩‍💻 Ellie's Notes",
+                        "_title": "👩‍💻 Ellie's Notes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ellie.wtf/index.xml",
+                        "_htmlUrl": "https://ellie.wtf/"
+                    },
+                    {
+                        "_text": "The Intercept",
+                        "_title": "The Intercept",
+                        "_type": "rss",
+                        "_xmlUrl": "https://theintercept.com/staff/micah-lee/feed/",
+                        "_htmlUrl": "https://theintercept.com/"
+                    },
+                    {
+                        "_text": "Magic + Loss",
+                        "_title": "Magic + Loss",
+                        "_type": "rss",
+                        "_xmlUrl": "https://virginiaheffernan.substack.com/feed",
+                        "_htmlUrl": "https://virginiaheffernan.substack.com/"
+                    },
+                    {
+                        "_text": "The Fediverse Report",
+                        "_title": "The Fediverse Report",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fediversereport.com/feed/",
+                        "_htmlUrl": "https://fediversereport.com/"
+                    },
+                    {
+                        "_text": "Andre Franca",
+                        "_title": "Andre Franca",
+                        "_type": "rss",
+                        "_xmlUrl": "https://abf.li/feed.xml",
+                        "_htmlUrl": "https://abf.li/posts/default-apps-at-the-beginning-of-2024/"
+                    },
+                    {
+                        "_text": "Colin Walker - Daily Feed",
+                        "_title": "Colin Walker - Daily Feed",
+                        "_type": "rss",
+                        "_xmlUrl": "https://colinwalker.blog/dailyfeed.xml",
+                        "_htmlUrl": "https://colinwalker.blog/"
+                    },
+                    {
+                        "_text": "andi",
+                        "_title": "andi",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cohost.org/mcc/rss/public.atom",
+                        "_htmlUrl": "https://cohost.org/mcc"
+                    },
+                    {
+                        "_text": "Thelma Michelle Moore",
+                        "_title": "Thelma Michelle Moore",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tmichellemoore.com/feed/",
+                        "_htmlUrl": "https://tmichellemoore.com/"
+                    },
+                    {
+                        "_text": "The Art of Curation",
+                        "_title": "The Art of Curation",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feeds.simplecast.com/4SAP0GXB",
+                        "_htmlUrl": "https://art-of-curation.simplecast.com/"
+                    },
+                    {
+                        "_text": "Zef+",
+                        "_title": "Zef+",
+                        "_type": "rss",
+                        "_xmlUrl": "https://zef.plus/rss/",
+                        "_htmlUrl": "https://zef.plus/"
+                    },
+                    {
+                        "_text": "PhotoGabble",
+                        "_title": "PhotoGabble",
+                        "_type": "rss",
+                        "_xmlUrl": "https://photogabble.co.uk/writing/feed.xml",
+                        "_htmlUrl": "https://photogabble.co.uk/"
+                    },
+                    {
+                        "_text": "Open Indie",
+                        "_title": "Open Indie",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.erlend.sh/feed/",
+                        "_htmlUrl": "https://blog.erlend.sh/"
+                    },
+                    {
+                        "_text": "Lee Petersen",
+                        "_title": "Lee Petersen",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.lwpetersen.com/feed/",
+                        "_htmlUrl": "https://www.lwpetersen.com/"
+                    },
+                    {
+                        "_text": "Anil Dash",
+                        "_title": "Anil Dash",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.anildash.com/feed.xml",
+                        "_htmlUrl": "https://anildash.com/"
+                    },
+                    {
+                        "_text": "Alex Hyett Blog",
+                        "_title": "Alex Hyett Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.alexhyett.com/rss.xml",
+                        "_htmlUrl": "https://www.alexhyett.com/"
+                    },
+                    {
+                        "_text": "ttntm.me - Blog",
+                        "_title": "ttntm.me - Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ttntm.me/feed.xml",
+                        "_htmlUrl": "https://ttntm.me/"
+                    },
+                    {
+                        "_text": "Jeff Sikes",
+                        "_title": "Jeff Sikes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://box464.com/feed.xml",
+                        "_htmlUrl": "https://box464.com/"
+                    },
+                    {
+                        "_text": "Stefan Bohacek",
+                        "_title": "Stefan Bohacek",
+                        "_type": "rss",
+                        "_xmlUrl": "https://stefanbohacek.com/feed/",
+                        "_htmlUrl": "https://stefanbohacek.com/"
+                    },
+                    {
+                        "_text": "Good Enough",
+                        "_title": "Good Enough",
+                        "_type": "rss",
+                        "_xmlUrl": "https://goodenough.us/feed.xml",
+                        "_htmlUrl": "https://goodenough.us/"
+                    },
+                    {
+                        "_text": "AI Genealogy Insights",
+                        "_title": "AI Genealogy Insights",
+                        "_type": "rss",
+                        "_xmlUrl": "https://aigenealogyinsights.com/feed/",
+                        "_htmlUrl": "https://aigenealogyinsights.com/"
+                    },
+                    {
+                        "_text": "foreverliketh.is",
+                        "_title": "foreverliketh.is",
+                        "_type": "rss",
+                        "_xmlUrl": "https://foreverliketh.is/blog/index.xml",
+                        "_htmlUrl": "https://foreverliketh.is/blog/"
+                    },
+                    {
+                        "_text": "MalwareTech",
+                        "_title": "MalwareTech",
+                        "_type": "rss",
+                        "_xmlUrl": "https://malwaretech.com/feed.xml",
+                        "_htmlUrl": "https://malwaretech.com/"
+                    },
+                    {
+                        "_text": "Chamline",
+                        "_title": "Chamline",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.chamline.net/rss/",
+                        "_htmlUrl": "https://www.chamline.net/default-apps/"
+                    },
+                    {
+                        "_text": "Undecided with Matt Ferrell",
+                        "_title": "Undecided with Matt Ferrell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://undecidedmf.com/feed/",
+                        "_htmlUrl": "https://undecidedmf.com/"
+                    },
+                    {
+                        "_text": "Side Of Burritos - blog",
+                        "_title": "Side Of Burritos - blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://sideofburritos.com/blog/atom.xml",
+                        "_htmlUrl": "https://sideofburritos.com/blog/"
+                    },
+                    {
+                        "_text": "Advisorator",
+                        "_title": "Advisorator",
+                        "_type": "rss",
+                        "_xmlUrl": "https://advisorator.com/members/feed/",
+                        "_htmlUrl": "https://advisorator.com/members"
+                    },
+                    {
+                        "_text": "Ten Forward's Blog",
+                        "_title": "Ten Forward's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tenforward.blog/feed/",
+                        "_htmlUrl": "https://tenforward.blog/"
+                    },
+                    {
+                        "_text": "BAE Eats",
+                        "_title": "BAE Eats",
+                        "_type": "rss",
+                        "_xmlUrl": "https://buttondown.email/skinnylatte/rss",
+                        "_htmlUrl": "https://buttondown.email/skinnylatte"
+                    },
+                    {
+                        "_text": "sticky comics",
+                        "_title": "sticky comics",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.stickycomics.com/feed/",
+                        "_htmlUrl": "https://www.stickycomics.com/"
+                    },
+                    {
+                        "_text": "Games At Work dot Biz",
+                        "_title": "Games At Work dot Biz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://gamesatwork.biz/feed/podcast/",
+                        "_htmlUrl": "https://gamesatwork.biz"
+                    },
+                    {
+                        "_text": "Flamed Fury",
+                        "_title": "Flamed Fury",
+                        "_type": "rss",
+                        "_xmlUrl": "https://flamedfury.com/feed.xml",
+                        "_htmlUrl": "https://flamedfury.com/"
+                    },
+                    {
+                        "_text": "The Curiously Dead Cat",
+                        "_title": "The Curiously Dead Cat",
+                        "_type": "rss",
+                        "_xmlUrl": "https://curiouslydeadcat.com/feed/",
+                        "_htmlUrl": "https://curiouslydeadcat.com/"
+                    },
+                    {
+                        "_text": "Lisa Melton",
+                        "_title": "Lisa Melton",
+                        "_type": "rss",
+                        "_xmlUrl": "https://lisamelton.net/feed/",
+                        "_htmlUrl": "https://lisamelton.net/"
+                    },
+                    {
+                        "_text": "Oliver Willis Explains",
+                        "_title": "Oliver Willis Explains",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.oliverexplains.com/feed",
+                        "_htmlUrl": "https://www.oliverexplains.com/"
+                    },
+                    {
+                        "_text": "Feed for https://jamesg.blog/",
+                        "_title": "Feed for https://jamesg.blog/",
+                        "_type": "rss",
+                        "_xmlUrl": "https://granary.io/url?input=html&output=rss&url=https://jamesg.blog",
+                        "_htmlUrl": "https://jamesg.blog/"
+                    },
+                    {
+                        "_text": "Heather Buchel",
+                        "_title": "Heather Buchel",
+                        "_type": "rss",
+                        "_xmlUrl": "https://heather-buchel.com/feed/feed.xml",
+                        "_htmlUrl": "https://heather-buchel.com/"
+                    },
+                    {
+                        "_text": "Spencer Harston",
+                        "_title": "Spencer Harston",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.spencerharston.com/feed.xml",
+                        "_htmlUrl": "https://www.spencerharston.com/feed.xml"
+                    },
+                    {
+                        "_text": "JP | Home",
+                        "_title": "JP | Home",
+                        "_type": "rss",
+                        "_xmlUrl": "https://moddedbear.com/index.xml",
+                        "_htmlUrl": "https://moddedbear.com/"
+                    },
+                    {
+                        "_text": "We Got Family",
+                        "_title": "We Got Family",
+                        "_type": "rss",
+                        "_xmlUrl": "https://wegot.family/feed.xml",
+                        "_htmlUrl": "https://wegot.family/"
+                    },
+                    {
+                        "_text": "JJTech",
+                        "_title": "JJTech",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jjtech.dev/feed.xml",
+                        "_htmlUrl": "http://jjtech.dev/"
+                    },
+                    {
+                        "_text": "Unelected Representative",
+                        "_title": "Unelected Representative",
+                        "_type": "rss",
+                        "_xmlUrl": "https://sheril.substack.com/feed",
+                        "_htmlUrl": "https://sheril.substack.com/"
+                    },
+                    {
+                        "_text": "Untitled",
+                        "_title": "Untitled",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.michalzelazny.com/feed/",
+                        "_htmlUrl": "https://www.michalzelazny.com/"
+                    },
+                    {
+                        "_text": "Rust in Peace",
+                        "_title": "Rust in Peace",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blogs.gnome.org/alatiera/feed/",
+                        "_htmlUrl": "https://blogs.gnome.org/alatiera"
+                    },
+                    {
+                        "_text": "Broximar",
+                        "_title": "Broximar",
+                        "_type": "rss",
+                        "_xmlUrl": "https://broximar.com/feed/",
+                        "_htmlUrl": "https://www.broximar.com"
+                    },
+                    {
+                        "_text": "Bryan Maniotakis",
+                        "_title": "Bryan Maniotakis",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bryanmanio.com/feed/",
+                        "_htmlUrl": "https://bryanmanio.com/"
+                    },
+                    {
+                        "_text": "Marcus Hutchins",
+                        "_title": "Marcus Hutchins",
+                        "_type": "rss",
+                        "_xmlUrl": "https://marcushutchins.com/feed.xml",
+                        "_htmlUrl": "https://marcushutchins.com/"
+                    },
+                    {
+                        "_text": "Cory Dransfeldt",
+                        "_title": "Cory Dransfeldt",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedpress.me/coryd",
+                        "_htmlUrl": "https://coryd.dev/webrings"
+                    },
+                    {
+                        "_text": "Kagi Small Web Appreciated",
+                        "_title": "Kagi Small Web Appreciated",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kagi.com/smallweb/appreciated",
+                        "_htmlUrl": "https://kagi.com/smallweb/appreciated"
+                    },
+                    {
+                        "_text": "Glenn Fleishman’s Projects",
+                        "_title": "Glenn Fleishman’s Projects",
+                        "_type": "rss",
+                        "_xmlUrl": "https://buttondown.email/glennf/rss",
+                        "_htmlUrl": "https://buttondown.email/glennf"
+                    },
+                    {
+                        "_text": "Josh Austin",
+                        "_title": "Josh Austin",
+                        "_type": "rss",
+                        "_xmlUrl": "https://joshaustin.tech/index.xml",
+                        "_htmlUrl": "https://joshaustin.tech/"
+                    },
+                    {
+                        "_text": "NASA",
+                        "_title": "NASA",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.nasa.gov/feed/",
+                        "_htmlUrl": "https://www.nasa.gov/"
+                    },
+                    {
+                        "_text": "Joel's Log Files",
+                        "_title": "Joel's Log Files",
+                        "_type": "rss",
+                        "_xmlUrl": "https://joelchrono.xyz/feed.xml",
+                        "_htmlUrl": "https://joelchrono.xyz/"
+                    },
+                    {
+                        "_text": "Star Shaped",
+                        "_title": "Star Shaped",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.star-shaped.org/feed.xml",
+                        "_htmlUrl": "https://www.star-shaped.org/"
+                    },
+                    {
+                        "_text": "The Coffee Nerds",
+                        "_title": "The Coffee Nerds",
+                        "_type": "rss",
+                        "_xmlUrl": "https://thecoffeenerds.co/feed/",
+                        "_htmlUrl": "https://thecoffeenerds.co/"
+                    },
+                    {
+                        "_text": "brandont.dev",
+                        "_title": "brandont.dev",
+                        "_type": "rss",
+                        "_xmlUrl": "https://brandont.dev/atom.xml",
+                        "_htmlUrl": "https://brandont.dev/"
+                    },
+                    {
+                        "_text": "marco's µ.blog",
+                        "_title": "marco's µ.blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://mb.esamecar.net/feed.xml",
+                        "_htmlUrl": "https://mb.esamecar.net/2023/11/04/app-defaults.html"
+                    },
+                    {
+                        "_text": "App Defaults",
+                        "_title": "App Defaults",
+                        "_type": "rss",
+                        "_xmlUrl": "https://defaults.rknight.me/feed.xml",
+                        "_htmlUrl": "https://defaults.rknight.me/"
+                    },
+                    {
+                        "_text": "82MHz",
+                        "_title": "82MHz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://82mhz.net/index.xml",
+                        "_htmlUrl": "https://82mhz.net/"
+                    },
+                    {
+                        "_text": "The Linkfest",
+                        "_title": "The Linkfest",
+                        "_type": "rss",
+                        "_xmlUrl": "https://buttondown.email/clivethompson/rss",
+                        "_htmlUrl": "https://buttondown.email/clivethompson"
+                    },
+                    {
+                        "_text": "All Things Jason",
+                        "_title": "All Things Jason",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jasonhowell.substack.com/feed",
+                        "_htmlUrl": "https://jasonhowell.substack.com/"
+                    },
+                    {
+                        "_text": "Lyokolux's blog",
+                        "_title": "Lyokolux's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.lyokolux.space/rss.xml",
+                        "_htmlUrl": "https://blog.lyokolux.space/"
+                    },
+                    {
+                        "_text": "I Hit The Button",
+                        "_title": "I Hit The Button",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ihitthebutton.com/feed/",
+                        "_htmlUrl": "https://ihitthebutton.com"
+                    },
+                    {
+                        "_text": "Jeff Triplett",
+                        "_title": "Jeff Triplett",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jefftriplett.com/feed.xml",
+                        "_htmlUrl": "https://jefftriplett.com/2023/default-apps-2023/"
+                    },
+                    {
+                        "_text": "Alex's Adventures on the Infobahn",
+                        "_title": "Alex's Adventures on the Infobahn",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.bennee.com/~alex/blog/feeds/all.atom.xml",
+                        "_htmlUrl": "https://www.bennee.com/~alex/"
+                    },
+                    {
+                        "_text": "Flamed Fury bookmarks",
+                        "_title": "Flamed Fury bookmarks",
+                        "_type": "rss",
+                        "_xmlUrl": "https://flamedfury.com/bookmarks-feed.xml",
+                        "_htmlUrl": "https://flamedfury.com/posts/app-defaults"
+                    },
+                    {
+                        "_text": "Robb Knight • Posts • Atom Feed",
+                        "_title": "Robb Knight • Posts • Atom Feed",
+                        "_type": "rss",
+                        "_xmlUrl": "https://rknight.me/subscribe/posts/atom.xml",
+                        "_htmlUrl": "https://rknight.me"
+                    },
+                    {
+                        "_text": "Luis Quintanilla Blog",
+                        "_title": "Luis Quintanilla Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.luisquintanilla.me/posts/index.xml",
+                        "_htmlUrl": "https://www.lqdev.me/feed/app-defaults-2023"
+                    },
+                    {
+                        "_text": "Home on TechTea",
+                        "_title": "Home on TechTea",
+                        "_type": "rss",
+                        "_xmlUrl": "https://techtea.io/index.xml",
+                        "_htmlUrl": "https://techtea.io/articles/2023/app-defaults/"
+                    },
+                    {
+                        "_text": "8bit's weblog",
+                        "_title": "8bit's weblog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.8bit.lol/rss.xml",
+                        "_htmlUrl": "https://blog.8bit.lol/2023/12/defaults"
+                    },
+                    {
+                        "_text": "Czar's blogs",
+                        "_title": "Czar's blogs",
+                        "_type": "rss",
+                        "_xmlUrl": "https://text.tchncs.de/czars-blogs/feed/",
+                        "_htmlUrl": "https://text.tchncs.de/czars-blogs/apps-i-use"
+                    },
+                    {
+                        "_text": "n3wjack's blog",
+                        "_title": "n3wjack's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://n3wjack.net/feed/",
+                        "_htmlUrl": "https://n3wjack.net/"
+                    },
+                    {
+                        "_text": "CRASH THE ARCADE",
+                        "_title": "CRASH THE ARCADE",
+                        "_type": "rss",
+                        "_xmlUrl": "https://crashthearcade.com/feed/",
+                        "_htmlUrl": "https://crashthearcade.com"
+                    },
+                    {
+                        "_text": "delroth's homepage",
+                        "_title": "delroth's homepage",
+                        "_type": "rss",
+                        "_xmlUrl": "https://delroth.net/index.xml",
+                        "_htmlUrl": "https://delroth.net/"
+                    },
+                    {
+                        "_text": "Cody Dostal",
+                        "_title": "Cody Dostal",
+                        "_type": "rss",
+                        "_xmlUrl": "https://codydostal.com/rss/",
+                        "_htmlUrl": "https://codydostal.com/"
+                    },
+                    {
+                        "_text": "The Hive",
+                        "_title": "The Hive",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.vzqk50.com/index.xml",
+                        "_htmlUrl": "https://www.vzqk50.com/"
+                    },
+                    {
+                        "_text": "tiny notes",
+                        "_title": "tiny notes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://notes.maique.eu/feed.atom",
+                        "_htmlUrl": "https://notes.maique.eu/"
+                    },
+                    {
+                        "_text": "Adamsdesk",
+                        "_title": "Adamsdesk",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.adamsdesk.com/feed/blog.xml",
+                        "_htmlUrl": "https://www.adamsdesk.com/"
+                    },
+                    {
+                        "_text": "Ayo’s Blog",
+                        "_title": "Ayo’s Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ayos.blog/feed.xml",
+                        "_htmlUrl": "https://ayos.blog/"
+                    },
+                    {
+                        "_text": "Al Abut",
+                        "_title": "Al Abut",
+                        "_type": "rss",
+                        "_xmlUrl": "https://alabut.com/rss.xml",
+                        "_htmlUrl": "https://alabut.com/"
+                    },
+                    {
+                        "_text": "Sarah Burrini",
+                        "_title": "Sarah Burrini",
+                        "_type": "rss",
+                        "_xmlUrl": "https://sarahburrini.com/feed/",
+                        "_htmlUrl": "https://sarahburrini.com/"
+                    },
+                    {
+                        "_text": "Ed Leeman",
+                        "_title": "Ed Leeman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://edleeman.co.uk/index.xml",
+                        "_htmlUrl": "https://edleeman.co.uk/"
+                    },
+                    {
+                        "_text": "[Gabz/mL]",
+                        "_title": "[Gabz/mL]",
+                        "_type": "rss",
+                        "_xmlUrl": "https://gabz.blog/feed.atom",
+                        "_htmlUrl": "https://gabz.blog/"
+                    },
+                    {
+                        "_text": "join-lemmy.org News",
+                        "_title": "join-lemmy.org News",
+                        "_type": "rss",
+                        "_xmlUrl": "https://join-lemmy.org/feed.xml",
+                        "_htmlUrl": "https://join-lemmy.org/"
+                    },
+                    {
+                        "_text": "Boo!",
+                        "_title": "Boo!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://boo.maique.eu/rss/",
+                        "_htmlUrl": "https://boo.maique.eu/"
+                    },
+                    {
+                        "_text": "David Moll's blog",
+                        "_title": "David Moll's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.davidmoll.net/feed.xml",
+                        "_htmlUrl": "https://blog.davidmoll.net"
+                    },
+                    {
+                        "_text": "localghost.dev - all articles",
+                        "_title": "localghost.dev - all articles",
+                        "_type": "rss",
+                        "_xmlUrl": "https://localghost.dev/articles.xml",
+                        "_htmlUrl": "https://localghost.dev/"
+                    },
+                    {
+                        "_text": "localghost.dev - posts about recipes",
+                        "_title": "localghost.dev - posts about recipes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://localghost.dev/recipes.xml",
+                        "_htmlUrl": "https://localghost.dev/recipes.xml"
+                    },
+                    {
+                        "_text": "localghost.dev - posts about podcasts",
+                        "_title": "localghost.dev - posts about podcasts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://localghost.dev/podcasts.xml",
+                        "_htmlUrl": "https://localghost.dev/podcasts.xml"
+                    },
+                    {
+                        "_text": "Simon Dobson",
+                        "_title": "Simon Dobson",
+                        "_type": "rss",
+                        "_xmlUrl": "https://simondobson.org/rss.xml",
+                        "_htmlUrl": "https://simondobson.org/"
+                    },
+                    {
+                        "_text": "Analog Dreams",
+                        "_title": "Analog Dreams",
+                        "_type": "rss",
+                        "_xmlUrl": "https://analogdreams.blog/feed/",
+                        "_htmlUrl": "https://analogdreams.blog/"
+                    },
+                    {
+                        "_text": "Links // Cory Dransfeldt",
+                        "_title": "Links // Cory Dransfeldt",
+                        "_type": "rss",
+                        "_xmlUrl": "https://feedpress.me/coryd-links",
+                        "_htmlUrl": "https://coryd.dev/links"
+                    },
+                    {
+                        "_text": "Citation Needed",
+                        "_title": "Citation Needed",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.citationneeded.news/rss/",
+                        "_htmlUrl": "https://www.citationneeded.news/"
+                    },
+                    {
+                        "_text": "I am BARRY HESS",
+                        "_title": "I am BARRY HESS",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bjhess.com/posts_feed",
+                        "_htmlUrl": "https://bjhess.com/"
+                    },
+                    {
+                        "_text": "localghost.dev - posts about musics",
+                        "_title": "localghost.dev - posts about musics",
+                        "_type": "rss",
+                        "_xmlUrl": "https://localghost.dev/musics.xml",
+                        "_htmlUrl": "https://localghost.dev/musics.xml"
+                    },
+                    {
+                        "_text": "Hey Fluxay!",
+                        "_title": "Hey Fluxay!",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fluxtaposed.com/posts_feed",
+                        "_htmlUrl": "https://fluxtaposed.com/"
+                    },
+                    {
+                        "_text": "Explore Latest Posts | Scribbles",
+                        "_title": "Explore Latest Posts | Scribbles",
+                        "_type": "rss",
+                        "_xmlUrl": "https://scribbles.page/explore/feed.atom",
+                        "_htmlUrl": "https://scribbles.page/explore"
+                    },
+                    {
+                        "_text": "A Whole Lotta Nothing",
+                        "_title": "A Whole Lotta Nothing",
+                        "_type": "rss",
+                        "_xmlUrl": "https://a.wholelottanothing.org/rss/",
+                        "_htmlUrl": "https://a.wholelottanothing.org/"
+                    },
+                    {
+                        "_text": "Net API Notes",
+                        "_title": "Net API Notes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://netapinotes.com/rss/",
+                        "_htmlUrl": "https://netapinotes.com/"
+                    },
+                    {
+                        "_text": "AllThingsTech",
+                        "_title": "AllThingsTech",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.allthingstech.social/feed/",
+                        "_htmlUrl": "https://blog.allthingstech.social/"
+                    },
+                    {
+                        "_text": "https://popagandhi.com/feed.xml",
+                        "_title": "https://popagandhi.com/feed.xml",
+                        "_type": "rss",
+                        "_xmlUrl": "https://popagandhi.com/feed.xml",
+                        "_htmlUrl": "https://popagandhi.com/"
+                    },
+                    {
+                        "_text": "IT Notes",
+                        "_title": "IT Notes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://it-notes.dragas.net/index.xml",
+                        "_htmlUrl": "https://it-notes.dragas.net/"
+                    },
+                    {
+                        "_text": "squeaki.sh",
+                        "_title": "squeaki.sh",
+                        "_type": "rss",
+                        "_xmlUrl": "https://squeaki.sh/rss.xml",
+                        "_htmlUrl": "https://squeaki.sh/"
+                    },
+                    {
+                        "_text": "Molly White's Shortform Reading List",
+                        "_title": "Molly White's Shortform Reading List",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.mollywhite.net/reading/shortform/feed.xml",
+                        "_htmlUrl": "https://mollywhite.net/reading/shortform"
+                    },
+                    {
+                        "_text": "Cole's Blog",
+                        "_title": "Cole's Blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://coleb.blog/posts_feed",
+                        "_htmlUrl": "https://coleb.blog/"
+                    },
+                    {
+                        "_text": "Dušan's blog",
+                        "_title": "Dušan's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dusanmitrovic.xyz/rss",
+                        "_htmlUrl": "https://dusanmitrovic.xyz/rss"
+                    },
+                    {
+                        "_text": "R.L. Dane",
+                        "_title": "R.L. Dane",
+                        "_type": "rss",
+                        "_xmlUrl": "https://rldane.space/feeds/all.atom.xml",
+                        "_htmlUrl": "https://rldane.space/"
+                    },
+                    {
+                        "_text": "jacqueline's blog",
+                        "_title": "jacqueline's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jacqueline.id.au/atom.xml",
+                        "_htmlUrl": "https://jacqueline.id.au/atom.xml"
+                    },
+                    {
+                        "_text": "Mark Pitblado",
+                        "_title": "Mark Pitblado",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.markpitblado.me/feed.xml",
+                        "_htmlUrl": "https://www.markpitblado.me/blog"
+                    },
+                    {
+                        "_text": "shellsharks",
+                        "_title": "shellsharks",
+                        "_type": "rss",
+                        "_xmlUrl": "https://shellsharks.com/feeds/feed.xml",
+                        "_htmlUrl": "https://shellsharks.com/"
+                    },
+                    {
+                        "_text": "Jason Journals",
+                        "_title": "Jason Journals",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jasonjournals.com/posts_feed",
+                        "_htmlUrl": "https://jasonjournals.com/"
+                    },
+                    {
+                        "_text": "scribblanity",
+                        "_title": "scribblanity",
+                        "_type": "rss",
+                        "_xmlUrl": "https://scribblanity.blog/feed.atom",
+                        "_htmlUrl": "https://scribblanity.blog/"
+                    },
+                    {
+                        "_text": "Sfumato Farm",
+                        "_title": "Sfumato Farm",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.sfumatofarm.com/rss/",
+                        "_htmlUrl": "https://www.sfumatofarm.com"
+                    },
+                    {
+                        "_text": "Andrea Grandi",
+                        "_title": "Andrea Grandi",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.andreagrandi.it/index.xml",
+                        "_htmlUrl": "https://www.andreagrandi.it/"
+                    },
+                    {
+                        "_text": "Dismal Manor Dispatches",
+                        "_title": "Dismal Manor Dispatches",
+                        "_type": "rss",
+                        "_xmlUrl": "https://retired-moocher-dave.org/feed/",
+                        "_htmlUrl": "https://retired-moocher-dave.org/"
+                    },
+                    {
+                        "_text": "Katherine Yang",
+                        "_title": "Katherine Yang",
+                        "_type": "rss",
+                        "_xmlUrl": "https://kayserifserif.place/feed.xml",
+                        "_htmlUrl": "https://kayserifserif.place/"
+                    },
+                    {
+                        "_text": "Michał Sapka's website",
+                        "_title": "Michał Sapka's website",
+                        "_type": "rss",
+                        "_xmlUrl": "https://michal.sapka.me/emacs/rss.xml",
+                        "_htmlUrl": "https://michal.sapka.me/emacs/"
+                    },
+                    {
+                        "_text": "The Alperovitch Institute",
+                        "_title": "The Alperovitch Institute",
+                        "_type": "rss",
+                        "_xmlUrl": "https://alperovitch.sais.jhu.edu/feed/",
+                        "_htmlUrl": "https://alperovitch.sais.jhu.edu/"
+                    },
+                    {
+                        "_text": "Lucas Freeman",
+                        "_title": "Lucas Freeman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bytes.omg.lol/feed.atom",
+                        "_htmlUrl": "https://bytes.omg.lol/"
+                    },
+                    {
+                        "_text": "Raccoon Bits",
+                        "_title": "Raccoon Bits",
+                        "_type": "rss",
+                        "_xmlUrl": "https://maho.dev/index.xml",
+                        "_htmlUrl": "https://maho.dev/"
+                    },
+                    {
+                        "_text": "I versus AI",
+                        "_title": "I versus AI",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDvWmbYNzQt8lMNXYRgV9Eg",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCDvWmbYNzQt8lMNXYRgV9Eg"
+                    },
+                    {
+                        "_text": "Blake Hensley",
+                        "_title": "Blake Hensley",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY_LG2PDPLgpzGDNaXM5iaA",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCY_LG2PDPLgpzGDNaXM5iaA"
+                    },
+                    {
+                        "_text": "erinfluorescent's timeline",
+                        "_title": "erinfluorescent's timeline",
+                        "_type": "rss",
+                        "_xmlUrl": "https://akko.erincandescent.net/users/erinfluorescent/feed.atom",
+                        "_htmlUrl": "https://akko.erincandescent.net/users/erinfluorescent/feed.atom"
+                    },
+                    {
+                        "_text": "B's Gaming and Music",
+                        "_title": "B's Gaming and Music",
+                        "_type": "rss",
+                        "_xmlUrl": "https://binarydigit.stream/feed.atom",
+                        "_htmlUrl": "https://binarydigit.stream"
+                    },
+                    {
+                        "_text": "ahoneybun.net",
+                        "_title": "ahoneybun.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://ahoneybun.net/feed.xml",
+                        "_htmlUrl": "https://ahoneybun.net/"
+                    },
+                    {
+                        "_text": "Alex Hyett",
+                        "_title": "Alex Hyett",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm6lURZOeBVCZ5hJpqlUB-g",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCm6lURZOeBVCZ5hJpqlUB-g"
+                    },
+                    {
+                        "_text": "adam’s statuslog",
+                        "_title": "adam’s statuslog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://adam.status.lol/feed",
+                        "_htmlUrl": "https://adam.status.lol/feed"
+                    },
+                    {
+                        "_text": "from SimonCox.com",
+                        "_title": "from SimonCox.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.simoncox.com/feed.xml",
+                        "_htmlUrl": "https://www.simoncox.com/"
+                    },
+                    {
+                        "_text": "ln --help",
+                        "_title": "ln --help",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.mei-home.net/index.xml",
+                        "_htmlUrl": "https://blog.mei-home.net/"
+                    },
+                    {
+                        "_text": "Cham•Informal",
+                        "_title": "Cham•Informal",
+                        "_type": "rss",
+                        "_xmlUrl": "https://habibcham.net/feed.atom",
+                        "_htmlUrl": "https://habibcham.net/"
+                    },
+                    {
+                        "_text": "Tyler Deitz",
+                        "_title": "Tyler Deitz",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.are.na/tyler-deitz/feed/rss",
+                        "_htmlUrl": "https://www.are.na/tyler-deitz"
+                    },
+                    {
+                        "_text": "podiBlog",
+                        "_title": "podiBlog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://podiboq.weblog.lol/rss.xml",
+                        "_htmlUrl": "https://podiboq.weblog.lol/"
+                    },
+                    {
+                        "_text": "Alessio Pomaro",
+                        "_title": "Alessio Pomaro",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.alessiopomaro.it/rss/",
+                        "_htmlUrl": "https://www.alessiopomaro.it/"
+                    },
+                    {
+                        "_text": "Austin Kocher",
+                        "_title": "Austin Kocher",
+                        "_type": "rss",
+                        "_xmlUrl": "https://austinkocher.substack.com/feed",
+                        "_htmlUrl": "https://austinkocher.substack.com/"
+                    },
+                    {
+                        "_text": "Thoughts and stuff",
+                        "_title": "Thoughts and stuff",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.eke.li/feed.xml",
+                        "_htmlUrl": "https://www.eke.li/"
+                    },
+                    {
+                        "_text": "Nate Angell",
+                        "_title": "Nate Angell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://xolotl.org/feed/",
+                        "_htmlUrl": "https://xolotl.org"
+                    },
+                    {
+                        "_text": "zu1k",
+                        "_title": "zu1k",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog-rss.zu1k.com/rss.xml",
+                        "_htmlUrl": "https://zu1k.com/"
+                    },
+                    {
+                        "_text": "Holland Albright",
+                        "_title": "Holland Albright",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCooN8iy0Cn9XjtF2p7K73OQ",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCooN8iy0Cn9XjtF2p7K73OQ"
+                    },
+                    {
+                        "_text": "Amateur Nuclear Physics",
+                        "_title": "Amateur Nuclear Physics",
+                        "_type": "rss",
+                        "_xmlUrl": "https://gigabecquerel.wordpress.com/feed/",
+                        "_htmlUrl": "https://gigabecquerel.wordpress.com/"
+                    },
+                    {
+                        "_text": "photovotary",
+                        "_title": "photovotary",
+                        "_type": "rss",
+                        "_xmlUrl": "https://photovotary.mataroa.blog/rss/",
+                        "_htmlUrl": "https://photovotary.mataroa.blog/"
+                    },
+                    {
+                        "_text": "techbits.io",
+                        "_title": "techbits.io",
+                        "_type": "rss",
+                        "_xmlUrl": "https://techbits.io/rss/",
+                        "_htmlUrl": "https://techbits.io/"
+                    },
+                    {
+                        "_text": "Pachli",
+                        "_title": "Pachli",
+                        "_type": "rss",
+                        "_xmlUrl": "https://pachli.app/feed.xml",
+                        "_htmlUrl": "https://pachli.app/"
+                    },
+                    {
+                        "_text": "DarkUFO - LOST Homepage",
+                        "_title": "DarkUFO - LOST Homepage",
+                        "_type": "rss",
+                        "_xmlUrl": "https://darkufo.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "https://darkufo.blogspot.com/"
+                    },
+                    {
+                        "_text": "Corey Snipes",
+                        "_title": "Corey Snipes",
+                        "_type": "rss",
+                        "_xmlUrl": "https://coreysnipes.com/feed/",
+                        "_htmlUrl": "https://coreysnipes.com/"
+                    },
+                    {
+                        "_text": "Twomile Heavy Industries, Inc.",
+                        "_title": "Twomile Heavy Industries, Inc.",
+                        "_type": "rss",
+                        "_xmlUrl": "https://twomile.com/feed/",
+                        "_htmlUrl": "https://twomile.com/"
+                    },
+                    {
+                        "_text": "Geek Vibes Nation",
+                        "_title": "Geek Vibes Nation",
+                        "_type": "rss",
+                        "_xmlUrl": "https://geekvibesnation.com/feed/",
+                        "_htmlUrl": "https://geekvibesnation.com/"
+                    },
+                    {
+                        "_text": "Fiction 500 | Short Stories",
+                        "_title": "Fiction 500 | Short Stories",
+                        "_type": "rss",
+                        "_xmlUrl": "https://fiction500.com/feed/?type=rss",
+                        "_htmlUrl": "https://fiction500.com/"
+                    },
+                    {
+                        "_text": "hndrk's blog",
+                        "_title": "hndrk's blog",
+                        "_type": "rss",
+                        "_xmlUrl": "https://hndrk.blog/rss/",
+                        "_htmlUrl": "https://hndrk.blog/"
+                    },
+                    {
+                        "_text": "g3rv4",
+                        "_title": "g3rv4",
+                        "_type": "rss",
+                        "_xmlUrl": "https://g3rv4.com/atom.xml",
+                        "_htmlUrl": "https://g3rv4.com/"
+                    },
+                    {
+                        "_text": "Forking Mad",
+                        "_title": "Forking Mad",
+                        "_type": "rss",
+                        "_xmlUrl": "https://forkingmad.uk/feed.atom",
+                        "_htmlUrl": "https://forkingmad.uk/"
+                    },
+                    {
+                        "_text": "Cup of Cosmology",
+                        "_title": "Cup of Cosmology",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2co-dAbWREqtUpv_4hHS_w",
+                        "_htmlUrl": "https://www.youtube.com/channel/UC2co-dAbWREqtUpv_4hHS_w"
+                    },
+                    {
+                        "_text": "Sum Random Knowledge",
+                        "_title": "Sum Random Knowledge",
+                        "_type": "rss",
+                        "_xmlUrl": "https://blog.pagebypagebooks.com/feeds/posts/default",
+                        "_htmlUrl": "https://blog.pagebypagebooks.com/"
+                    },
+                    {
+                        "_text": "Cabfolio",
+                        "_title": "Cabfolio",
+                        "_type": "rss",
+                        "_xmlUrl": "https://cabfolio.com/feed/",
+                        "_htmlUrl": "https://cabfolio.com/"
+                    },
+                    {
+                        "_text": "DebugPoint.com",
+                        "_title": "DebugPoint.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivg8IikXyn_a2plFoL5Tzw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCivg8IikXyn_a2plFoL5Tzw"
+                    },
+                    {
+                        "_text": "The Nivenly Foundation – The Nivenly Foundation",
+                        "_title": "The Nivenly Foundation – The Nivenly Foundation",
+                        "_type": "rss",
+                        "_xmlUrl": "https://nivenly.org/index.xml",
+                        "_htmlUrl": "https://nivenly.org/"
+                    },
+                    {
+                        "_text": "Drew Harwell",
+                        "_title": "Drew Harwell",
+                        "_type": "rss",
+                        "_xmlUrl": "https://drewharwell.com/rss/",
+                        "_htmlUrl": "https://drewharwell.com/"
+                    },
+                    {
+                        "_text": "Book of Adam Z",
+                        "_title": "Book of Adam Z",
+                        "_type": "rss",
+                        "_xmlUrl": "https://bookofadamz.com/feed/",
+                        "_htmlUrl": "https://bookofadamz.com"
+                    },
+                    {
+                        "_text": "Libre Arts",
+                        "_title": "Libre Arts",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaFEFu2OMlGWnE7WrmhQj-w",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCaFEFu2OMlGWnE7WrmhQj-w"
+                    },
+                    {
+                        "_text": "Mason Pelt",
+                        "_title": "Mason Pelt",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.masonpelt.com/feed/",
+                        "_htmlUrl": "https://www.masonpelt.com/"
+                    },
+                    {
+                        "_text": "Push ROI, Inc.",
+                        "_title": "Push ROI, Inc.",
+                        "_type": "rss",
+                        "_xmlUrl": "https://pushroi.com/feed/",
+                        "_htmlUrl": "https://pushroi.com/"
+                    },
+                    {
+                        "_text": "eirenicon llc",
+                        "_title": "eirenicon llc",
+                        "_type": "rss",
+                        "_xmlUrl": "https://eirenicon.org/feed/",
+                        "_htmlUrl": "https://eirenicon.org/"
+                    },
+                    {
+                        "_text": "Evan Prodromou",
+                        "_title": "Evan Prodromou",
+                        "_type": "rss",
+                        "_xmlUrl": "https://social.openearth.org/@evan.rss",
+                        "_htmlUrl": "https://social.openearth.org/@evan"
+                    },
+                    {
+                        "_text": "The Culture Desk",
+                        "_title": "The Culture Desk",
+                        "_type": "rss",
+                        "_xmlUrl": "https://flipboard.com/@theculturedesk.rss",
+                        "_htmlUrl": "https://flipboard.com/@theculturedesk"
+                    },
+                    {
+                        "_text": "Laurens Hof",
+                        "_title": "Laurens Hof",
+                        "_type": "rss",
+                        "_xmlUrl": "https://laurenshof.online/feed/",
+                        "_htmlUrl": "https://laurenshof.online/"
+                    },
+                    {
+                        "_text": "Ted Curran.net",
+                        "_title": "Ted Curran.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://tedcurran.net/feed/",
+                        "_htmlUrl": "https://tedcurran.net/"
+                    },
+                    {
+                        "_text": "siduction Linux",
+                        "_title": "siduction Linux",
+                        "_type": "rss",
+                        "_xmlUrl": "https://siduction.org/feed/",
+                        "_htmlUrl": "https://siduction.org/"
+                    },
+                    {
+                        "_text": "SeerOfSouls",
+                        "_title": "SeerOfSouls",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.seerofsouls.com/feed/",
+                        "_htmlUrl": "https://www.seerofsouls.com/"
+                    },
+                    {
+                        "_text": "The Newsguy -- Steve Herman",
+                        "_title": "The Newsguy -- Steve Herman",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.steveherman.press/feed",
+                        "_htmlUrl": "https://www.steveherman.press/"
+                    },
+                    {
+                        "_text": "Christopher Masto",
+                        "_title": "Christopher Masto",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjMKIo9bpe8Nf5j8U3YIrw",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCwjMKIo9bpe8Nf5j8U3YIrw"
+                    },
+                    {
+                        "_text": "Scopique's",
+                        "_title": "Scopique's",
+                        "_type": "rss",
+                        "_xmlUrl": "https://scopique.com/feed/",
+                        "_htmlUrl": "https://scopique.com/"
+                    },
+                    {
+                        "_text": "G-Nitro",
+                        "_title": "G-Nitro",
+                        "_type": "rss",
+                        "_xmlUrl": "https://g-nitro.com/feed",
+                        "_htmlUrl": "https://g-nitro.com/"
+                    },
+                    {
+                        "_text": "The Future is Open",
+                        "_title": "The Future is Open",
+                        "_type": "rss",
+                        "_xmlUrl": "https://donwatkins.info/feed/",
+                        "_htmlUrl": "https://donwatkins.info"
+                    },
+                    {
+                        "_text": "Coin Concede: A Hearthstone Podcast",
+                        "_title": "Coin Concede: A Hearthstone Podcast",
+                        "_type": "rss",
+                        "_xmlUrl": "https://coinconcede.libsyn.com/rss",
+                        "_htmlUrl": "https://www.coinconcede.com/"
+                    },
+                    {
+                        "_text": "WeirdBeerGirl.com",
+                        "_title": "WeirdBeerGirl.com",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.lisagrimm.com/feed/",
+                        "_htmlUrl": "https://www.lisagrimm.com/"
+                    },
+                    {
+                        "_text": "seanthegeek.net",
+                        "_title": "seanthegeek.net",
+                        "_type": "rss",
+                        "_xmlUrl": "https://seanthegeek.net/feed/",
+                        "_htmlUrl": "https://seanthegeek.net/"
+                    },
+                    {
+                        "_text": "Tech Bacon",
+                        "_title": "Tech Bacon",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvzDpE0fSGv4mkgng9ycdqA",
+                        "_htmlUrl": "https://www.youtube.com/channel/UCvzDpE0fSGv4mkgng9ycdqA"
+                    },
+                    {
+                        "_text": "Alex Winter",
+                        "_title": "Alex Winter",
+                        "_type": "rss",
+                        "_xmlUrl": "https://alexwinter.com/feed/",
+                        "_htmlUrl": "https://alexwinter.com/"
+                    },
+                    {
+                        "_text": "Daddy’s Grounded",
+                        "_title": "Daddy’s Grounded",
+                        "_type": "rss",
+                        "_xmlUrl": "https://daddysgrounded.com/feed/",
+                        "_htmlUrl": "https://daddysgrounded.com"
+                    },
+                    {
+                        "_text": "Newspaper Heroes on the Air",
+                        "_title": "Newspaper Heroes on the Air",
+                        "_type": "rss",
+                        "_xmlUrl": "https://jheroes.com/feed/",
+                        "_htmlUrl": "https://jheroes.com/"
+                    },
+                    {
+                        "_text": "Bob Stepno's Other Journalism",
+                        "_title": "Bob Stepno's Other Journalism",
+                        "_type": "rss",
+                        "_xmlUrl": "https://stepno.wordpress.com/feed/",
+                        "_htmlUrl": "https://stepno.wordpress.com/"
+                    },
+                    {
+                        "_text": "God",
+                        "_title": "God",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OjPndAMD8SvX01Kvlhnrg",
+                        "_htmlUrl": "http://www.youtube.com/channel/UC4OjPndAMD8SvX01Kvlhnrg"
+                    },
+                    {
+                        "_text": "Danny Sullivan",
+                        "_title": "Danny Sullivan",
+                        "_type": "rss",
+                        "_xmlUrl": "https://dannysullivan.com/feed",
+                        "_htmlUrl": "https://dannysullivan.com/"
+                    },
+                    {
+                        "_text": "Oliver Willis",
+                        "_title": "Oliver Willis",
+                        "_type": "rss",
+                        "_xmlUrl": "https://oliverwillis.com/feed/",
+                        "_htmlUrl": "https://oliverwillis.com/"
+                    },
+                    {
+                        "_text": "From the Writer's Desk - Vicki KYRIAKAKIS",
+                        "_title": "From the Writer's Desk - Vicki KYRIAKAKIS",
+                        "_type": "rss",
+                        "_xmlUrl": "https://www.vickikyriakakis.com/blog?format=rss",
+                        "_htmlUrl": "https://www.vickikyriakakis.com/blog/"
+                    },
+                    {
+                        "_text": "ViewSink",
+                        "_title": "ViewSink",
+                        "_type": "rss",
+                        "_xmlUrl": "https://viewsink.com/rss/",
+                        "_htmlUrl": "https://viewsink.com/"
+                    },
+                    {
+                        "_text": "The Cafe",
+                        "_title": "The Cafe",
+                        "_type": "rss",
+                        "_xmlUrl": "https://binarydigit.cafe/feed.xml",
+                        "_htmlUrl": "https://binarydigit.cafe/"
+                    }
+                ],
+                "_text": "Blogroll",
+                "_title": "Blogroll"
+            }
+        },
+        "_version": "1.0"
+    }
+}

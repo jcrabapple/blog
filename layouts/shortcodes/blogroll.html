@@ -1,8 +1,6 @@
-{{ range $.Site.Data.blogroll.body.outline }}
-    <h2>{{ index . "-text" }}</h2>
-    <ul>
-    {{ range index . "outline" }}
-        <li><a href='{{ index . "-htmlUrl" }}'>{{ index . "-text" }}</a>(<a href='{{ index . "-xmlUrl" }}'>feed</a>)</li>
+<ul>
+    {{ $opmlJson := index .Site.Data.opml "opml" "body" "outline" "outline" }}
+    {{ range sort $opmlJson "_title" "asc" }}
+    <li><a href="{{ ._htmlUrl }}" target="_blank">{{ ._title }}</a></li>
     {{ end }}
-    </ul>
-{{ end }}
+</ul>

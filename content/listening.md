@@ -9,3 +9,5 @@ showWordCount: false
 showDate: false
 ---
 {{< nowplaying >}}
+
+{{< listeninghistory >}}

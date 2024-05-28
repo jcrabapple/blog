@@ -1,0 +1,44 @@
+<script>
+    async function fetchListeningHistory() {
+        const apiKey = '7ef62a8b03150f58e3faa5c113eca40f';
+        const username = 'jcrabapple';
+        const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${username}&api_key=${apiKey}&format=json&limit=5`;
+    
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+    
+            if (data.recenttracks && data.recenttracks.track && data.recenttracks.track.length > 0) {
+                const tracks = data.recenttracks.track;
+                let trackList = '';
+    
+                tracks.forEach(track => {
+                    const nowPlaying = track["@attr"] && track["@attr"].nowplaying;
+                    trackList += `
+                        <div>
+                            ${nowPlaying ? "<strong>Now Playing:</strong>" : "<strong>Recently Played:</strong>"}
+                            <br>
+                            <strong>Track:</strong> ${track.name}<br>
+                            <strong>Artist:</strong> ${track.artist["#text"]}<br>
+                            ${track.album["#text"] ? `<strong>Album:</strong> ${track.album["#text"]}<br>` : ''}
+                            ${track.image && track.image.length > 0 ? `<img src="${track.image[2]['#text']}" alt="${track.name}">` : ''}
+                        </div>
+                        <hr>
+                    `;
+                });
+    
+                document.getElementById('listening-history').innerHTML = trackList;
+            } else {
+                document.getElementById('listening-history').innerHTML = "No recent tracks found.";
+            }
+        } catch (error) {
+            console.error('Error fetching listening history data:', error);
+            document.getElementById('listening-history').innerHTML = "Error fetching data.";
+        }
+    }
+    
+    document.addEventListener('DOMContentLoaded', fetchListeningHistory);
+    </script>
+    
+    <div id="listening-history">Loading...</div>
+    

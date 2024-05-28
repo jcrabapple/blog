@@ -65,4 +65,5 @@ title = "cool as heck"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
      { ko-fi = "https://ko-fi.com/jcrabapple" },
+     { rss = "https://cool-as-heck.blog/index.xml" },
    ]

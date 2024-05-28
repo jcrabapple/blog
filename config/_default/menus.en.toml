@@ -67,10 +67,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 35
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 35
 
 
 # -- Footer Menu --

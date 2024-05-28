@@ -8,7 +8,9 @@ showReadingTime: false
 showWordCount: false
 showDate: false
 ---
-This is a collection of products and services that work best for me. These are my defaults. This changes a lot as I try different things. Let me know if you have a recommendation for me. Inspired by Derek Sivers and Robb Knight.
+This is a collection of products and services that work best for me. These are my defaults. This changes a lot as I try different things. Let me know if you have a recommendation for me.
+
+*Inspired by [Derek Sivers](https://sive.rs/uses) and [Robb Knight](https://defaults.rknight.me/).*
 
 ### My apps and services
 

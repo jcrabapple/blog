@@ -30,3 +30,29 @@
     display: block;
     margin-top: 10px;
 }
+
+.track-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.album-art {
+    margin-right: 15px;
+}
+
+.album-art img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+}
+
+.track-info {
+    flex: 1;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+}

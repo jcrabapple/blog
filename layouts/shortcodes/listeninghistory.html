@@ -15,15 +15,19 @@
                 tracks.forEach(track => {
                     const nowPlaying = track["@attr"] && track["@attr"].nowplaying;
                     trackList += `
-                        <div>
+                    <div class="track-item">
+                        <div class="album-art">
+                            ${track.image && track.image.length > 0 ? `<img src="${track.image[2]['#text']}" alt="${track.name}">` : ''}
+                        </div>
+                        <div class="track-info">
                             ${nowPlaying ? "<strong>Now Playing:</strong>" : "<strong>Recently Played:</strong>"}
                             <br>
                             <strong>Track:</strong> ${track.name}<br>
                             <strong>Artist:</strong> ${track.artist["#text"]}<br>
                             ${track.album["#text"] ? `<strong>Album:</strong> ${track.album["#text"]}<br>` : ''}
-                            ${track.image && track.image.length > 0 ? `<img src="${track.image[2]['#text']}" alt="${track.name}">` : ''}
                         </div>
-                        <hr>
+                    </div>
+                    <hr>
                     `;
                 });
     

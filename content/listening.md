@@ -8,6 +8,5 @@ showReadingTime: false
 showWordCount: false
 showDate: false
 ---
-{{< nowplaying >}}
 
 {{< listeninghistory >}}

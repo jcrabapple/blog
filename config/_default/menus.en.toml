@@ -25,7 +25,7 @@
   pageRef = "notes"
   weight = 20
 
-[[Now]]
+[[main]]
   name = "Now"
   pageRef = "now"
   weight = 25

@@ -8,5 +8,6 @@ showReadingTime: false
 showWordCount: false
 showDate: false
 ---
+Here's what I've been listening to lately:
 
 {{< listeninghistory >}}

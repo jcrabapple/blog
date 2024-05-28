@@ -7,4 +7,8 @@ tags: ["Blogroll","Slash Pages"]
 showReadingTime: false
 showWordCount: false
 ---
+These are the feeds I subscribe to in my Blogroll folder.
+
+*Credit to Jan-Luke Else for the [guide](https://jlelse.blog/dev/auto-blogroll-hugo) on creating this page from an OPML export.*
+
 {{< blogroll >}}

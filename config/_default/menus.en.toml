@@ -18,17 +18,22 @@
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 15
 
 [[main]]
   name = "Notes"
   pageRef = "notes"
   weight = 20
 
+[[Now]]
+  name = "Now"
+  pageRef = "now"
+  weight = 25
+
 [[main]]
   name = "Listening"
   pageRef = "listening"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "example sub-menu 2"
@@ -55,7 +60,7 @@
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 30
+  weight = 35
 
 
 # -- Footer Menu --

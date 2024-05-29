@@ -37,8 +37,8 @@ It seemed like a good subject for a blog post, so here we are. These are some op
 	- [DuckDuckGo](https://duckduckgo.com/)(Note: DDG gets its results from Bing)
 	- [Ecosia](https://www.ecosia.org/)(Note: Ecosia gets its results from Bing)
 	- [StartPage](https://www.startpage.com/)(Note: StartPage gets its results from Google and Bing)
-	- [Kagi](https://kagi.com/)(Note: Though Kagi does have its own search index, it supplements this with results from Google and Bing. Kagi is a paid, private search engine and requires an account.)
-	- [Mojeek](https://mojeek.com)(Note: Mojeek has its own search index but optionally supplements this with results from Google and Bing.)
+	- [Kagi](https://kagi.com/)(Note: Though Kagi does have its own search index, it supplements this with results from Google, Bing, and Mojeek. Kagi is a paid, private search engine and requires an account.)
+	- [Mojeek](https://mojeek.com)(Note: Mojeek has its own search index, but gives users the option to search Google, Bing, and others from the Mojeek website.)
 - Photos
 	- [Ente](https://ente.io/)
 	- [Flickr](https://www.flickr.com/)

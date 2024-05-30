@@ -4,5 +4,5 @@ description: "I'm Jason a.k.a. jcrabapple, and this is my personal blog about my
 ---
 my personal blog about my life and my interests
 
-## Latest Status
+<h2>Latest Status</h2>
 {{< statuslog >}}

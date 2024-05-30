@@ -62,3 +62,9 @@ hr {
     border-top: 1px solid #ddd;
     margin: 10px 0;
 }
+
+.statuslol {
+    background-color: transparent;
+    color: white;
+    border-color: #efefef;
+  }

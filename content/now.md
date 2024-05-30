@@ -18,6 +18,7 @@ showDate: false
 - The Good Wife
 - Shoresy
 - Loot
+- Hacks
 
 ### What I'm listening to
 
@@ -25,7 +26,7 @@ showDate: false
 - Spiritbox
 - Ankor
 - Harbour
-- Night Verses
+- Intervals
 - Novelists
 - Red Handed Denial
 

@@ -9,11 +9,10 @@ showWordCount: false
 ---
 You can contact me using any of the methods below:
 
-{{< button href="xmpp:jcrabapple@social.lol" target="_self">}}
-{{< icon "comment" >}} XMPP
-{{< /button >}}
+{{< button href="xmpp:jcrabapple@social.lol" target="_self">}}XMPP{{< /button >}}
 
-{{< icon "mastodon" >}} [Mastodon](https://dmv.community/@jcrabapple)
+{{< button href="https://dmv.community/@jcrabapple" target="_self">}}Mastodon{{< /button >}}
+
 {{< icon "comment" >}}  [Signal](https://signal.me/#eu/h2IcllQmgft21GUX9JPkOm4Qun840HuEAlrTTwK3nc9D5k7IxItEGbAdAQF1jdfj)
 {{< icon "envelope" >}} [Email](mailto:jcrabapple@dmv.community)
 

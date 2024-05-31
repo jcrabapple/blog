@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2024-05-24
+date: 2024-05-31
 description: "I'm Jason a.k.a. jcrabapple, and this is my personal blog about my life and my interests."
 summary: "Learn more about me and my blog."
 tags: ["about-me"]

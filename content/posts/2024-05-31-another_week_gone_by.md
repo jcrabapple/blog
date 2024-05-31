@@ -24,4 +24,4 @@ Tomorrow the weather is looking nice for a late-morning hike! High of 80 and par
     <img src="img/DSC01281.arw.jpg" class="grid-w33">
     <img src="img/DSC01289.arw.jpg" class="grid-w33">
     <img src="img/DSC01293.arw.jpg" class="grid-w33">
-{{< /gallery > }}
+{{< /gallery >}}

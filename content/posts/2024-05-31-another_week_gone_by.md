@@ -21,7 +21,7 @@ This week at work was exhausting. It was nice to have Monday off, but as always,
 Tomorrow the weather is looking nice for a late-morning hike! High of 80 and partly cloudy. We plan to get the kids up and do the trail at the [Shenandoah University River Campus at Cool Spring Battlefield](https://www.su.edu/cool-spring/). It's close, it has plenty of parking, and a nice paved trail loop next to the river. However, if you continue on past the loop you can hike the dirt path through the woods and down to a small waterfall in Rocky Branch. We always end up going above the waterfall and upstream a bit to explore. It's a really nice hike and I'm looking forward to it. I'll include some photos from past hikes there at the bottom of this post. Sunday the weather forecast is calling for rain, so we'll probably spend most of the day in the house getting things done, playing video games, and watching movies.
 
 {{< gallery >}}
-    <img src="/img/DSC01281.arw.jpg" class="grid-w33">
-    <img src="/img/DSC01289.arw.jpg" class="grid-w33">
-    <img src="/img/DSC01293.arw.jpg" class="grid-w33">
+    <img src="DSC01281.arw.jpg" class="grid-w33">
+    <img src="DSC01289.arw.jpg" class="grid-w33">
+    <img src="DSC01293.arw.jpg" class="grid-w33">
 {{< /gallery >}}

@@ -12,4 +12,4 @@ Here's some of what I've been listening to lately! [More here!](https://www.last
 
 {{< listeninghistory >}}
 
-{{< listeningreport >}}
+{{< listeningreport "jcrabapple" 5 >}}

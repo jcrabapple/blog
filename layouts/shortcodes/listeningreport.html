@@ -1,22 +1,25 @@
 <script>
     // static/js/top-artists.js
-document.addEventListener('DOMContentLoaded', function() {
-    const apiKey = '7ef62a8b03150f58e3faa5c113eca40f';
-    const user = 'jcrabapple';
-    const url = `https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=${user}&api_key=${apiKey}&format=json`;
+    async function fetchTopArtists() {
+        const apiKey = '7ef62a8b03150f58e3faa5c113eca40f';
+        const user = 'jcrabapple';
+        const url = `https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=${user}&api_key=${apiKey}&format=json`;
 
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            const artists = data.topartists.artist.slice(0, 10);
-            const artistsList = document.getElementById('lastfm-top-artists');
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                const artists = data.topartists.artist.slice(0, 10);
+                const artistsList = document.getElementById('lastfm-top-artists');
 
-            artists.forEach(artist => {
-                const artistItem = document.createElement('li');
-                artistItem.textContent = `${artist.name} (${artist.playcount} plays)`;
-                artistsList.appendChild(artistItem);
-            });
-        })
-        .catch(error => console.error('Error fetching top artists:', error));
-});
+                artists.forEach(artist => {
+                    const artistItem = document.createElement('li');
+                    artistItem.textContent = `${artist.name} (${artist.playcount} plays)`;
+                    artistsList.appendChild(artistItem);
+                });
+            })
+            .catch(error => console.error('Error fetching top artists:', error));
+}
+        document.addEventListener('DOMContentLoaded', fetchTopArtists);
 </script>
+
+<div id="listening-report">Loading...</div>

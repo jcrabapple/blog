@@ -1,25 +1,22 @@
-{{ $user := .Get 0 }}
-{{ $limit := .Get 1 | default 10 }}
-<div class="lastfm-topartists-widget">
-  <h3>Top Artists for {{ $user }} on Last.fm</h3>
-  <ul>
-    {{ $url := printf "https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=%s&api_key=%s&format=json&limit=%d" $user "7ef62a8b03150f58e3faa5c113eca40f" $limit }}
-    {{ $response := getJSON $url }}
-    {{ range $response.topartists.artist }}
-      <li>
-        {{ $imageUrl := "" }}
-          {{ with .image.2 }}
-            {{ $imageUrl = .text }}
-          {{ else }}
-            {{ with .image.1 }}
-              {{ $imageUrl = .text }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
-        <img src="{{ $imageUrl }}" alt="{{ .name }} avatar" width="64" height="64">
-        <span class="artist-name">{{ .name }}</span>
-        <span class="play-count">{{ .playcount }} plays</span>
-      </li>
-    {{ end }}
-  </ul>
-</div>
+<script>
+    // static/js/top-artists.js
+document.addEventListener('DOMContentLoaded', function() {
+    const apiKey = '7ef62a8b03150f58e3faa5c113eca40f';
+    const user = 'jcrabapple';
+    const url = `https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=${user}&api_key=${apiKey}&format=json`;
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            const artists = data.topartists.artist.slice(0, 10);
+            const artistsList = document.getElementById('lastfm-top-artists');
+
+            artists.forEach(artist => {
+                const artistItem = document.createElement('li');
+                artistItem.textContent = `${artist.name} (${artist.playcount} plays)`;
+                artistsList.appendChild(artistItem);
+            });
+        })
+        .catch(error => console.error('Error fetching top artists:', error));
+});
+</script>

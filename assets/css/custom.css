@@ -62,3 +62,15 @@ hr {
     border-top: 1px solid #ddd;
     margin: 10px 0;
 }
+
+/* static/css/styles.css */
+#lastfm-top-artists {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#lastfm-top-artists li {
+    padding: 5px 0;
+    font-size: 1.2em;
+}

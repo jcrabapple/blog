@@ -7,7 +7,19 @@
     {{ $response := getJSON $url }}
     {{ range $response.topartists.artist }}
       <li>
-        <img src="{{ .image.3.text }}" alt="{{ .name }} avatar" width="64" height="64">
+        {{ $imageUrl := "" }}
+        {{ with .image.3 }}
+          {{ $imageUrl = .text }}
+        {{ else }}
+          {{ with .image.2 }}
+            {{ $imageUrl = .text }}
+          {{ else }}
+            {{ with .image.1 }}
+              {{ $imageUrl = .text }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        <img src="{{ $imageUrl }}" alt="{{ .name }} avatar" width="64" height="64">
         <span class="artist-name">{{ .name }}</span>
         <span class="play-count">{{ .playcount }} plays</span>
       </li>

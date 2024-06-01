@@ -8,9 +8,6 @@
     {{ range $response.topartists.artist }}
       <li>
         {{ $imageUrl := "" }}
-        {{ with .image.3 }}
-          {{ $imageUrl = .text }}
-        {{ else }}
           {{ with .image.2 }}
             {{ $imageUrl = .text }}
           {{ else }}

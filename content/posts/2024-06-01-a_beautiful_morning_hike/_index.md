@@ -3,7 +3,6 @@ title: "A Beautiful Morning Hike"
 description: "A morning hike with the kids along the Shenandoah River."
 date: 2024-06-01
 tags: ["Life","Family","Outdoors","Hiking"]
-draft: false
 ---
 This morning we managed to get 2/3 of the children up and out the door at 9am for a hike. One of the teenagers decided she would rather sleep in.
 

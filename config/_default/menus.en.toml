@@ -11,24 +11,23 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
   name = "About"
   pageRef = "about"
+  weight = 14
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
   weight = 15
+
+[[main]]
+  name = "Notes"
+  pageRef = "notes"
+  weight = 16
 
 [[main]]
   name = "/More..."
   weight = 17
-
-[[main]]
-  name = "Notes"
-  parent = "/More..."
-  pageRef = "notes"
-  weight = 20
 
 [[main]]
   name = "Now"

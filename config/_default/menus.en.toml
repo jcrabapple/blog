@@ -21,42 +21,42 @@
   weight = 15
 
 [[main]]
-  name = "&nbsp;/&nbsp;"
+  name = "_/_"
   weight = 17
 
 [[main]]
   name = "Notes"
-  parent = "&nbsp;/&nbsp;"
+  parent = "_/_"
   pageRef = "notes"
   weight = 20
 
 [[main]]
   name = "Now"
-  parent = "&nbsp;/&nbsp;"
+  parent = "_/_"
   pageRef = "now"
   weight = 25
 
 [[main]]
   name = "Uses"
-  parent = "&nbsp;/&nbsp;"
+  parent = "_/_"
   pageRef = "uses"
   weight = 26
 
 [[main]]
   name = "Listening"
-  parent = "&nbsp;/&nbsp;"
+  parent = "_/_"
   pageRef = "listening"
   weight = 30
 
 [[main]]
   name = "Blogroll"
-  parent = "&nbsp;/&nbsp;"
+  parent = "_/_"
   pageRef = "blogroll"
   weight = 31
 
 [[main]]
   name = "Hello"
-  parent = "&nbsp;/&nbsp;"
+  parent = "_/_"
   pageRef = "hello"
   weight = 32
 

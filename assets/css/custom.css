@@ -70,8 +70,12 @@ hr {
 }
 
 #lastfm-top-artists li {
+    list-style-type: none;
     padding: 5px;
     margin: 5px;
     font-size: 1.2em;
     border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #3f3f3f;
+    text-align: center;
 }

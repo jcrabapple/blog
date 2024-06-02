@@ -66,10 +66,10 @@ hr {
 /* static/css/styles.css */
 #lastfm-top-artists {
     padding: 0;
-    margin: 0;
+    margin: 0 0 0 10px;
 }
 
-#lastfm-top-artists ol li {
+#lastfm-top-artists li {
     padding: 5px;
     margin: 5px;
     font-size: 1.2em;

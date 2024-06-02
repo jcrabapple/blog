@@ -26,27 +26,36 @@
   weight = 16
 
 [[main]]
+  name = " / "
+  weight = 17
+
+[[main]]
   name = "Notes"
+  parent = " / "
   pageRef = "notes"
   weight = 20
 
 [[main]]
   name = "Now"
+  parent = " / "
   pageRef = "now"
   weight = 25
 
 [[main]]
   name = "Uses"
+  parent = " / "
   pageRef = "uses"
   weight = 26
 
 [[main]]
   name = "Listening"
+  parent = " / "
   pageRef = "listening"
   weight = 30
 
 [[main]]
   name = "Blogroll"
+  parent = " / "
   pageRef = "blogroll"
   weight = 31
 

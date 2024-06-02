@@ -10,6 +10,8 @@ showDate: false
 ---
 Here's some of what I've been listening to lately! [More here!](https://www.last.fm/user/jcrabapple/library)
 
+## My Recent Scrobbles
 {{< listeninghistory >}}
 
+## My All Time Top Artists
 {{< listeningreport >}}

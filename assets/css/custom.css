@@ -80,6 +80,6 @@ hr {
     text-align: center;
 }
 
-.rss-feed li {
+#rss-feed li {
     list-style-image: url(/themes/blowfish/assets/icons/star.svg);
 }

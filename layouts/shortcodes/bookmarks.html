@@ -24,12 +24,12 @@
             day: 'numeric'
         });
         html += "<li>";
-        html += "<a href='" + link + "'>" + title + "</a>";
+        html += "<a href='" + link + "'>" + title + "</a><br />";
         if (author) {
-            html += "<br />By: " + author + " / ";
+            html += "<span style='font-weight:bold'>By:</span> " + author + " / ";
           }
           if (pubDate) {
-            html += "Date: " + date;
+            html += "<span style='font-weight:bold'>Date:</span> " + date;
           }
         html += "</li>";
         });

@@ -1,8 +1,8 @@
 <!-- Include jQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
 
 <!-- HTML element to hold the RSS feed -->
-<div id="rss-feed"></div>
+<!--<div id="rss-feed"></div>
 
 <script>
   $(document).ready(function() {
@@ -43,4 +43,13 @@
     });
   });
 
-</script>
+</script>-->
+{{ with resources.Get "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites?sort=New" | transform.Unmarshal }}
+<ul>
+    {{ range .channel.item }}
+    <li>
+      <a href="{{ .link }}">{{ .title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

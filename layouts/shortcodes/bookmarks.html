@@ -1,13 +1,10 @@
+
 {{ with resources.GetRemote "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" | transform.Unmarshal }}
 <ul>
-    {{ with range .channel.item }}
-    {{ $title := index .item "title" }}
-    {{ $link := index .item "link" }}
-    {{ $date := index .item "pubDate" }}
-    {{ $author := index .item "dc:creator" }}
+    {{ range .channel.item }}
     <li>
-      <a href="{{ $link }}">{{ $title }}</a>
-      <br />Date: {{ $date }} / By: {{ $author }}
+      <a href="{{ .link }}">{{ .title }}</a>
+      <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }}
     </li>
     {{ end }}
   </ul>

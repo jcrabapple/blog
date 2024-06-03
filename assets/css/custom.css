@@ -81,10 +81,9 @@ hr {
 }
 
 #rss-feed ul {
-    list-style-image: url(/themes/blowfish/assets/icons/star.svg);
+    list-style: url(/themes/blowfish/assets/icons/star.svg) disc inside;
 }
 
 .prose :where(ul):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    list-style-image: url(/themes/blowfish/assets/icons/star.svg);
-    list-style-type: unset;
+    list-style: url(/themes/blowfish/assets/icons/star.svg) disc inside;
 }

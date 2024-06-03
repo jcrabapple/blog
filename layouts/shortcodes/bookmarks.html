@@ -1,56 +1,12 @@
-<!-- Include jQuery -->
-<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
-
-<!-- HTML element to hold the RSS feed -->
-<!--<div id="rss-feed"></div>
-
-<script>
-  $(document).ready(function() {
-    $.ajax({
-      url: 'https://corsproxy.io/?https://www.inoreader.com/stream/user/1005679699/tag/user-favorites',
-      cache: 'false',
-      type: 'GET',
-      dataType: 'xml',
-      success: function(data) {
-        var items = $(data).find("item");
-        var html = "<ul>";
-        items.each(function() {
-          var title = $(this).find("title").text();
-          var link = $(this).find("link").text();
-          var author = $(this).find("dc\\:creator").text();
-          var pubDate = $(this).find("pubDate").text();
-          var date = new Date(pubDate).toLocaleDateString("en-US", {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-        });
-        html += "<li>";
-        html += "<a href='" + link + "'>" + title + "</a><br />";
-        if (author) {
-            html += "<span style='font-weight:bold'>By:</span> " + author + " / ";
-          }
-          if (pubDate) {
-            html += "<span style='font-weight:bold'>Date:</span> " + date;
-          }
-        html += "</li>";
-        });
-        html += "</ul>";
-        $("#rss-feed").html(html);
-      },
-      error: function() {
-        $("#rss-feed").html("Error loading RSS feed");
-      }
-    });
-  });
-
-</script>-->
-{{ with resources.GetRemote "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" | transform.Unmarshal }}
-<ul>
+{{ $url := "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" }}
+{{ $replacedXml := replaceRE ":([a-zA-Z0-9_]+)" "_$1" $url }}
+{{ with resources.GetRemote $replacedXml | transform.Unmarshal }}
+  <ul>
     {{ range .channel.item }}
-    <li>
-      <a href="{{ .link }}">{{ .title }}</a>
-      <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }} / By: {{ .dc\\:creator }}
-    </li>
+     <li>
+       <a href="{{ .link }}">{{ .title }}</a>
+       <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }} / By: {{ .dc_creator }}
+     </li>
     {{ end }}
   </ul>
 {{ end }}

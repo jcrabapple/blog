@@ -8,6 +8,7 @@
   $(document).ready(function() {
     $.ajax({
       url: 'https://corsproxy.io/?https://www.inoreader.com/stream/user/1005679699/tag/user-favorites',
+      cache: 'false',
       type: 'GET',
       dataType: 'xml',
       success: function(data) {

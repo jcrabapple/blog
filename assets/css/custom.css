@@ -83,3 +83,8 @@ hr {
 #rss-feed ul {
     list-style-image: url(/themes/blowfish/assets/icons/star.svg);
 }
+
+.prose :where(ul):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    list-style-image: url(/themes/blowfish/assets/icons/star.svg);
+    list-style-type: unset;
+}

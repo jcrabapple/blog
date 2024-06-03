@@ -44,7 +44,7 @@
   });
 
 </script>-->
-{{ with resources.Get "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites/view/json" | transform.Unmarshal }}
+{{ with resources.GetRemote "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites/view/json" | transform.Unmarshal }}
 <ul>
     {{ range .channel.item }}
     <li>

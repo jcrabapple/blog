@@ -80,10 +80,12 @@ hr {
     text-align: center;
 }
 
-#rss-feed ul {
-    list-style-image: url(/img/star.svg);
-}
-
-#rss-feed ul li:before {
-    color: white;
+#rss-feed li {
+    padding: 5px;
+    margin: 5px;
+    font-size: 1.2em;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #3f3f3f;
+    text-align: center;
 }

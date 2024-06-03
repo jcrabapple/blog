@@ -81,5 +81,9 @@ hr {
 }
 
 #rss-feed ul {
-    list-style-image: url(img/star.svg);
+    list-style-image: url(/img/star.svg);
+}
+
+#rss-feed ul li:before {
+    color: white;
 }

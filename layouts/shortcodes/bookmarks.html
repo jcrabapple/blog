@@ -49,7 +49,7 @@
     {{ range .channel.item }}
     <li>
       <a href="{{ .link }}">{{ .title }}</a>
-      <br />Date: {{ .pubDate }}
+      <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }}
     </li>
     {{ end }}
   </ul>

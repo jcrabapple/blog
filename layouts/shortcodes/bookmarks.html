@@ -1,15 +1,14 @@
-{{ $url := "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" }}
-{{ $replacedXml := replaceRE ":([a-zA-Z0-9_]+)" "_$1" $url }}
-{{ with resources.GetRemote $replacedXml }}
-  {{ $data := . | transform.Unmarshal  }}
-  <pre>{{ debug.Dump $data }}</pre>
-  {{ with $data.channel.item }}
-    <ul>
-      {{ range . }}
-      <li>
-        <a href="{{ .link }}">{{ .title }}</a>
-        <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }} / 
-      </li>
-      {{ end }}
-    </ul>
+{{ with resources.GetRemote "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" | transform.Unmarshal }}
+<ul>
+    {{ range .channel.item }}
+    {{ $titles := index .item "title" }}
+    {{ $link := index .item "link" }}
+    {{ $date := index .item "pubDate" }}
+    {{ $author := index .item "dc:creator" }}
+    <li>
+      <a href="{{ $link }}">{{ $title }}</a>
+      <br />Date: {{ time.Format "Jan. 2, 2006" $date }} / By: {{ $author }}
+    </li>
+    {{ end }}
+  </ul>
 {{ end }}

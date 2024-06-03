@@ -5,7 +5,7 @@
     {{ range .channel.item }}
      <li>
        <a href="{{ .link }}">{{ .title }}</a>
-       <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }} / By: {{ .dc_creator }}
+       <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }} / From: {{ .source }}
      </li>
     {{ end }}
   </ul>

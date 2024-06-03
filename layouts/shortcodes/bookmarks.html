@@ -16,10 +16,28 @@
         items.each(function() {
           var title = $(this).find("title").text();
           var link = $(this).find("link").text();
-          html += "<li><a href='" + link + "'>" + title + "</a></li>";
+          var author = $(this).find("author").text();
+          var pubDate = $(this).find("pubDate").text();
+          var date = new Date(pubDate).toLocaleDateString("en-US", {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+        html += "<li>";
+        html += "<a href='" + link + "'>" + title + "</a>";
+        if (author) {
+            html += "<p>By: " + author + "</p>";
+          }
+          if (pubDate) {
+            html += "<p>Date: " + date + "</p>";
+          }
+        html += "</li>";
         });
         html += "</ul>";
         $("#rss-feed").html(html);
+      },
+      error: function() {
+        $("#rss-feed").html("Error loading RSS feed");
       }
     });
   });

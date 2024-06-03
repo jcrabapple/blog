@@ -1,6 +1,6 @@
 {{ with resources.GetRemote "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" | transform.Unmarshal }}
 <ul>
-    {{ range .item }}
+    {{ with range .channel.item }}
     {{ $title := index .item "title" }}
     {{ $link := index .item "link" }}
     {{ $date := index .item "pubDate" }}

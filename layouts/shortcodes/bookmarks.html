@@ -6,8 +6,8 @@
 
 <script>
   $(document).ready(function() {
-    // Generate a unique cache-busting parameter
-    var cacheBuster = new Date().getTime();
+    // Generate a random cache-busting parameter
+    var cacheBuster = Math.floor(Math.random() * 1000000);
 
     $.ajax({
       url: 'https://corsproxy.io/?https://www.inoreader.com/stream/user/1005679699/tag/user-favorites' + cacheBuster,

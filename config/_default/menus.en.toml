@@ -54,10 +54,16 @@
   weight = 31
 
 [[main]]
+  name = "Bookmarks"
+  parent = "/More..."
+  pageRef = "bookmarks"
+  weight = 32
+
+[[main]]
   name = "Hello"
   parent = "/More..."
   pageRef = "hello"
-  weight = 32
+  weight = 33
 
 #[[main]]
 #  name = "example sub-menu 2"

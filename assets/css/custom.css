@@ -81,9 +81,5 @@ hr {
 }
 
 #rss-feed ul {
-    list-style-type: none;
-}
-
-.prose :where(ul):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    list-style-type:none;
+    list-style-image: url(img/star.svg);
 }

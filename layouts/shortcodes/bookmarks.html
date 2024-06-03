@@ -7,7 +7,7 @@
     {{ $author := index .item "dc:creator" }}
     <li>
       <a href="{{ $link }}">{{ $title }}</a>
-      <br />Date: {{ time.Format "Jan. 2, 2006" $date }} / By: {{ $author }}
+      <br />Date: {{ $date }} / By: {{ $author }}
     </li>
     {{ end }}
   </ul>

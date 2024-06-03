@@ -83,3 +83,7 @@ hr {
 #rss-feed ul {
     list-style-image: url(img/star.svg);
 }
+
+.prose :where(ul):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    list-style-image: url(img/star.svg);
+}

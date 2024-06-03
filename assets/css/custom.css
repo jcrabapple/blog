@@ -79,3 +79,7 @@ hr {
     background-color: #3f3f3f;
     text-align: center;
 }
+
+.rss-feed ul li {
+    list-style-image: url({{< icon "star" >}});
+}

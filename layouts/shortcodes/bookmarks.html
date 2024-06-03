@@ -1,0 +1,26 @@
+<!-- Include jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- HTML element to hold the RSS feed -->
+<div id="rss-feed"></div>
+
+<script>
+  $(document).ready(function() {
+    $.ajax({
+      url: 'https://www.inoreader.com/stream/user/1005679699/tag/user-favorites',
+      type: 'GET',
+      dataType: 'xml',
+      success: function(data) {
+        var items = $(data).find("item");
+        var html = "<ul>";
+        items.each(function() {
+          var title = $(this).find("title").text();
+          var link = $(this).find("link").text();
+          html += "<li><a href='" + link + "'>" + title + "</a></li>";
+        });
+        html += "</ul>";
+        $("#rss-feed").html(html);
+      }
+    });
+  });
+</script>

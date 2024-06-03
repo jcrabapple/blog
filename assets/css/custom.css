@@ -81,5 +81,5 @@ hr {
 }
 
 .rss-feed ul li {
-    list-style-image: url({{< icon "star" >}});
+    list-style-image: url(themes/assets/icons/star.svg);
 }

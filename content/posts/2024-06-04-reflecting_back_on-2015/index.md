@@ -17,7 +17,7 @@ They continued sleeping in the car until we hit NYC. They had never been to NYC 
 
 Over the next several days, we explored the town of Bar Harbor, its cute shops, and delicious restaurants. We visited a couple of the lighthouses around Mt. Desert Island. We spent some time at a laundromat drying our blankets and sleeping bags, after our tent leaked during a torrential downpour. Mostly, though, we spent our time exploring Acadia National Park. I haven't been a lot of places, but that is one of the most beautiful places I've ever been. I think that statement would hold true no matter how many places I had been to. It was breathtaking. We visited many of the highlights of the park: the seaside cliffs, the clear blue lakes, the pristine beaches, and the challenging but rewarding hikes. Some of my favorite memories are of watching the girls run around and explore freely.
 
-{{< gallery>}}
+{{< gallery >}}
     <img src="img/cliffs1.jpg" class="grid-w33" />
     <img src="img/cliffs2.jpg" class="grid-w33" />
     <img src="img/dinks_taxi.jpg" class="grid-w33" />

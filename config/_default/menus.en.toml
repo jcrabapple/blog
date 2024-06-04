@@ -60,10 +60,16 @@
   weight = 32
 
 [[main]]
+  name = "Carry"
+  parent = "/More..."
+  pageRef = "carry"
+  weight = 33
+
+[[main]]
   name = "Hello"
   parent = "/More..."
   pageRef = "hello"
-  weight = 33
+  weight = 34
 
 #[[main]]
 #  name = "example sub-menu 2"

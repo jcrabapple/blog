@@ -1,13 +1,13 @@
 ---
 title: "Everyday Carry"
 date: 2024-06-04
-description: "Things I carry with me all or most of the time"
+description: "Things I carry with me all (or some) of the time"
 tags: ["Everyday Carry","Slash Pages"]
 showReadingTime: false
 showWordCount: false
 ---
 {{< lead >}}
-These are the things I carry with me all (or most) of the time!
+These are the things I carry with me all (or some) of the time!
 {{< /lead >}}
 
 ## Tech

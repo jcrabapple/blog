@@ -10,12 +10,23 @@ I kind of decided on a whim that I wanted to go to Maine, and I wanted to take t
 
 They continued sleeping in the car until we hit NYC. They had never been to NYC so they were in awe of the skyline as we came up I-95 and crossed the George Washington Bridge. I don't remember the exact route we took but I remember being scared we were going to die in Massachusetts. I thought people in Virginia drove aggressively. Wow. I also forgot how huge the state of Maine is. We reached the Maine border and still had about 5.5 hours to go to reach Acadia National Park. Anyway, after a few bathroom breaks and food breaks, we reached our destination around 7:30 PM. 15.5 hours in the car, with three (thankfully) very patient little girls. It was quite the journey, but it was worth it.
 
-{{< carousel images="{img/campsite.jpg, img/sunset.jpg}" aspectRatio="21-9" >}}
+{{< gallery >}}
+    <img src="img/campsite.jpg" class="grid-w33" />
+    <img src="img/sunset.jpg" class="grid-w33" />
+{{< /gallery >}}
 
 Over the next several days, we explored the town of Bar Harbor, its cute shops, and delicious restaurants. We visited a couple of the lighthouses around Mt. Desert Island. We spent some time at a laundromat drying our blankets and sleeping bags, after our tent leaked during a torrential downpour. Mostly, though, we spent our time exploring Acadia National Park. I haven't been a lot of places, but that is one of the most beautiful places I've ever been. I think that statement would hold true no matter how many places I had been to. It was breathtaking. We visited many of the highlights of the park: the seaside cliffs, the clear blue lakes, the pristine beaches, and the challenging but rewarding hikes. Some of my favorite memories are of watching the girls run around and explore freely.
 
-{{< carousel images="{img/cliffs1.jpg, img/cliffs2.jpg, img/dinks_taxi.jpg, img/girls_lake.jpg, img/girls_on_cliff.jpg, img/girls_uno.jpg, img/Peyton_Clarity_breakfast.jpg, img/twins_garden.jpg}" aspectRatio="21-9" >}}
-
+{{< gallery>}}
+    <img src="img/cliffs1.jpg" class="grid-w33" />
+    <img src="img/cliffs2.jpg" class="grid-w33" />
+    <img src="img/dinks_taxi.jpg" class="grid-w33" />
+    <img src="img/girls_lake.jpg" class="grid-w33" />
+    <img src="img/girls_on_cliff.jpg" class="grid-w33" />
+    <img src="img/girls_uno.jpg" class="grid-w33" />
+    <img src="img/Peyton_Clarity_breakfast.jpg" class="grid-w33" />
+    <img src="img/twins_garden.jpg" class="grid-w33" />
+{{< /gallery >}}
 
 That trip was iconic for my kids and I. I feel like it was a turning point to a new chapter not only in my life, but theirs as well. It helped me realize that I was going to be OK, and I also think it helped the kids to see that I was going to be just fine. The timing couldn't have been better, because later that year I met the woman who is now my wife. My second chance. I don't know that I would have been in a good emotional and mental state to meet someone new had I not taken that trip to Maine. I needed that perspective, that view of a world outside of the one my mind had been stuck in for so long.
 

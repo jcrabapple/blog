@@ -5,7 +5,7 @@ date: 2024-02-04
 tags: ["Tech","Life","Personal History"]
 ---
 {{< lead >}}
-This is a post from April 2024 about how I got into tech, computers, and the web, from my archive over at my [old Scribbles blog](https://scribbles.page/znd9ix_p). 
+This is a post from February 2024 about how I got into tech, computers, and the web, from my archive over at my [old Scribbles blog](https://scribbles.page/znd9ix_p). 
 {{< /lead >}}
 
 When I was in 6th or 7th grade (1993-1994) my parents bought a Packard Bell. If my memory serves me it was a Legend model with something close to the following specs:

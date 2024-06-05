@@ -2,7 +2,7 @@
 title: "A Crooked Smile and a Dodgy Eye"
 description: "My bout with Bell's Palsy"
 date: 2024-04-20
-tags: ["Indieweb","Junited"]
+tags: ["Health","Life"]
 ---
 {{< lead >}}
 This is a post from April 2024 about my experience with Bell's Palsy, from my archive over at my [old Scribbles blog](https://scribbles.page/znd9ix_p). 

@@ -1,3 +1,7 @@
-<div class="footer-image">
-  <img src="img/WrittenByAHuman_08.png" alt="Made By A Human">
-</div>
+{{ $footerImage := resources.Get "img/WrittenByAHuman_08.png" }}
+    <!-- Existing footer content -->
+
+    <!-- Add your image here -->
+    <div class="footer-image">
+        <img src="{{ $footerImage.RelPermalink }}" alt="Written By A Human">
+    </div>

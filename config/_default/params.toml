@@ -49,9 +49,9 @@ disableTextInHeader = false
 [article]
   showDate = true
   showViews = false
-  showLikes = false
+  showLikes = true
   showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   # showAuthorBottom = false
   showHero = false

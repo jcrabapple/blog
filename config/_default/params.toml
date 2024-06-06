@@ -34,6 +34,7 @@ disableTextInHeader = false
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
+  image = "WrittenByAHuman_08.png"
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom

@@ -16,4 +16,6 @@ I took this to heart and carried it into my current marriage. My wife and I don'
 
 There are many other things that go into making a solid, lasting relationship or marriage, but this has been one piece of advice that I'm glad I was given.
 
+> Comment below or reply on [Mastodon](https://dmv.community/@jcrabapple/112576968270272277)!
+
 {{< chat cool-as-heck-on-relationships >}}

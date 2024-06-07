@@ -146,7 +146,3 @@ disableTextInHeader = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
-
-[comments]
-  host = "dmv.community"
-  username = "jcrabapple"

@@ -5,7 +5,7 @@ date: 2024-06-07
 tags: ["Life","Marriage","Relationships"]
 ---
 {{< lead >}}
-One of the best pieces of advice someone has ever give me...
+One of the best pieces of advice someone has ever given me...
 {{< /lead >}}
 
 Is that to make a relationship work, you don't necessarily have to have everything in common, you just have to share the same goals.

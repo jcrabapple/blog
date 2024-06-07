@@ -36,3 +36,5 @@ Now my wife and I are planning a trip back there next year, with all four of our
 
 ![A panorama of the seaside cliffs of Maine](img/cliffs_pano.jpg)
 ![Another panorama of the seaside cliffs of Maine](img/cliffs_pano2.jpg)
+
+{{< chat cool-as-heck >}}

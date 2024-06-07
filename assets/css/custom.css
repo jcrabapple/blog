@@ -82,3 +82,7 @@ hr {
 
 #rss-feed li {
 }
+
+.cactus-comment-avatar {
+    display: none;
+}

@@ -3,6 +3,11 @@ title: "Reflecting Back on 2015"
 description: "A trip to Maine with my girls was exactly what we needed."
 date: 2024-06-04
 tags: ["Life","Family","Outdoors","Hiking","Travel","Maine"]
+
+comments:
+  host: dmv.community
+  username: jcrabapple
+  id: 112559433539091209
 ---
 2015 was quite a year for me for a number of reasons. At that point in my life I had been separated from my ex-wife for about 3 years. That whole experience was a bit traumatic for me. It took me a long time to heal and move on physically, emotionally, and mentally. One major motivator for me was a trip to Maine in June of 2015.
 

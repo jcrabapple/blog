@@ -84,5 +84,5 @@ hr {
 }
 
 .cactus-comment-avatar {
-    display: none;
+    display: none !important;
 }

@@ -70,6 +70,12 @@
   parent = "/More..."
   pageRef = "hello"
   weight = 34
+  
+[[main]]
+  name = "Nope"
+  parent = "/More..."
+  pageRef = "nope"
+  weight = 35
 
 #[[main]]
 #  name = "example sub-menu 2"

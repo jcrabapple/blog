@@ -28,3 +28,7 @@ These are some things I don't like.
 - cocky people
 - doing laundry
 - Apple and Apple products
+- Toxic Star Wars fans
+- non-breakfast foods for breakfast
+- chocolate or peanut butter cereals
+- cotton balls

@@ -27,3 +27,4 @@ These are some things I don't like.
 - cold
 - cocky people
 - doing laundry
+- Apple and Apple products

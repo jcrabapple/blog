@@ -32,3 +32,4 @@ These are some things I don't like.
 - non-breakfast foods for breakfast
 - chocolate or peanut butter cereals
 - cotton balls
+- entitled people

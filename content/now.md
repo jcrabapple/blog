@@ -29,6 +29,7 @@ showDate: false
 - Intervals
 - Novelists
 - Red Handed Denial
+- Talking Points
 
 ### What I’m making
 

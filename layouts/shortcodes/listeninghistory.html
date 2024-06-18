@@ -14,6 +14,8 @@
     
                 tracks.forEach(track => {
                     const nowPlaying = track["@attr"] && track["@attr"].nowplaying;
+                    const artistName = track.artist["#text"];
+                    const artistUrl = `https://www.last.fm/music/${encodeURIComponent(artistName)}`;
                     trackList += `
                     <div class="track-item">
                         <div class="album-art">

@@ -13,7 +13,10 @@
 
                 artists.forEach(artist => {
                     const artistItem = document.createElement('li');
+                    const artistLink = document.createElement('a');
+                    artistLink.href = `https://www.last.fm/music/${encodeURIComponent(artist.name)}`;
                     artistItem.textContent = `${artist.name} (${artist.playcount} plays)`;
+                    artistItem.appendChild(artistLink);
                     artistsList.appendChild(artistItem);
                 });
             })

@@ -25,7 +25,7 @@
                             ${nowPlaying ? "<strong>Now Playing:</strong>" : "<strong>Recently Played:</strong>"}
                             <br>
                             <strong>Track:</strong> ${track.name}<br>
-                            <strong>Artist:</strong> ${track.artist["#text"]}<br>
+                            <strong>Artist:</strong> <a href="${artistUrl}" target="_blank">${artistName}</a><br>
                             ${track.album["#text"] ? `<strong>Album:</strong> ${track.album["#text"]}<br>` : ''}
                         </div>
                     </div>

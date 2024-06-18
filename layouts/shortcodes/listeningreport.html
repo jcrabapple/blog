@@ -16,10 +16,11 @@
                     
                     const artistLink = document.createElement('a');
                     artistLink.href = `https://www.last.fm/music/${encodeURIComponent(artist.name)}`;
-                    artistLink.textContent = `${artist.name} (${artist.playcount} plays)`;
+                    artistLink.textContent = artist.name;
                     artistLink.target = '_blank'; // Opens link in a new tab
 
                     artistItem.appendChild(artistLink);
+                    artistItem.appendChild(document.createTextNode(` (${artist.playcount} plays)`));
                     artistsList.appendChild(artistItem);
                 });
             })
@@ -28,11 +29,6 @@
 
     document.addEventListener('DOMContentLoaded', fetchTopArtists);
 </script>
-
-<aside>
-    <ul id="lastfm-top-artists"></ul>
-</aside>
-
 
 <aside>
     <ul id="lastfm-top-artists"></ul>

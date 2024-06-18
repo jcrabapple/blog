@@ -8,7 +8,9 @@ showReadingTime: false
 showWordCount: false
 showDate: false
 ---
+{{< lead >}}
 Here's some of what I've been listening to lately! [More here!](https://www.last.fm/user/jcrabapple/library)
+{{< /lead >}}
 
 ## My Recent Scrobbles
 {{< listeninghistory >}}

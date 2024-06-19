@@ -2,35 +2,39 @@
     Loading watch history...
   </div>
   
-  <script>
-    async function fetchWatchHistory() {
-      const apiKey = '21c50e173e5c4af396f213250ebc8139'; // Replace with your Tautulli API key
-      const userId = '405622'; // Replace with the specific user ID
-      const url = `https://tautulli.totallylegit.video/api/v2?apikey=${apiKey}&cmd=get_history&user_id=${userId}`;
-  
-      try {
-        const response = await fetch(url);
-        const data = await response.json();
-  
-        if (data.response && data.response.data) {
-          const history = data.response.data.data;
-          let html = '<ul>';
-  
-          history.forEach(item => {
-            html += `<li>${item.date} - ${item.full_title}</li>`;
-          });
-  
-          html += '</ul>';
-          document.getElementById('tautulli-watch-history').innerHTML = html;
-        } else {
-          document.getElementById('tautulli-watch-history').innerHTML = 'No watch history found.';
-        }
-      } catch (error) {
-        document.getElementById('tautulli-watch-history').innerHTML = 'Error loading watch history.';
-        console.error('Error fetching watch history:', error);
+<script>
+  async function fetchWatchHistory() {
+    const apiKey = '21c50e173e5c4af396f213250ebc8139'; // Replace with your Tautulli API key
+    const userId = '405622'; // Replace with the specific user ID
+    const url = `https://tautulli.totallylegit.video/api/v2?apikey=${apiKey}&cmd=get_history&user_id=${userId}&length=20`;
+
+    try {
+      const response = await fetch(url);
+      const data = await response.json();
+
+      if (data.response && data.response.data) {
+        const history = data.response.data.data;
+        let html = '<ul>';
+
+        history.forEach(item => {
+          const posterUrl = `https://tautulli.totallylegit.video/${item.thumb}`;
+          html += `
+            <li>
+              <img src="${posterUrl}" alt="${item.full_title}" style="width:100px;height:auto;">
+              ${item.date} - ${item.full_title}
+            </li>`;
+        });
+
+        html += '</ul>';
+        document.getElementById('tautulli-watch-history').innerHTML = html;
+      } else {
+        document.getElementById('tautulli-watch-history').innerHTML = 'No watch history found.';
       }
+    } catch (error) {
+      document.getElementById('tautulli-watch-history').innerHTML = 'Error loading watch history.';
+      console.error('Error fetching watch history:', error);
     }
-  
-    fetchWatchHistory();
-  </script>
-  
+  }
+
+  fetchWatchHistory();
+</script>

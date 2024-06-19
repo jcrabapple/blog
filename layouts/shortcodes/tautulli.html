@@ -22,17 +22,16 @@
           // Check if it's a movie
           if (item.media_type === 'movie') {
             title = item.full_title; // Display full_title for movies
+            tmdbUrl = `https://www.themoviedb.org/movie/${item.rating_key}`; // Generate TMDb movie URL
           }
           // Check if it's a TV show
           else if (item.media_type === 'episode') {
             title = `${item.grandparent_title} - ${item.title}`; // Display show name and episode title for TV shows
+            tmdbUrl = `https://www.themoviedb.org/tv/${item.grandparent_rating_key}/episode/${item.rating_key}`; // Generate TMDb episode URL
           }
 
-          // Generate IMDb URL
-          imdbUrl = `https://www.imdb.com/find?q=${encodeURIComponent(title)}`;
-
           // Create list item with link
-          html += `<li><a href="${imdbUrl}" target="_blank">${title}</a></li>`;
+          html += `<li><a href="${tmdbUrl}" target="_blank">${title}</a></li>`;
         });
 
         html += '</ul>';

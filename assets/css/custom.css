@@ -111,11 +111,11 @@ hr {
 }
 
 .link-preview-content {
-    padding: 10px;
+    padding: 0 0 0 15px;
 }
 
 .link-preview-content h3 {
-    margin: 10px 0 5px;
+    margin: 0;
     font-size: 16px;
 }
 

@@ -4,7 +4,9 @@
 
 <script>
   async function fetchWatchHistory() {
-    const url = `https://tautulli.totallylegit.video/api?apikey=21c50e173e5c4af396f213250ebc8139&cmd=get_history&user_id=405622&length=20`;
+    const apiKey = '21c50e173e5c4af396f213250ebc8139'; // Replace with your Tautulli API key
+    const userId = '405622'; // Replace with the specific user ID
+    const url = `https://tautulli.totallylegit.video/api/v2?apikey=${apiKey}&cmd=get_history&user_id=${userId}&limit=20`;
 
     try {
       const response = await fetch(url);
@@ -14,7 +16,7 @@
         const history = data.response.data.data;
         let html = '<ul>';
 
-        history.forEach(item => {
+          history.forEach(item => {
           const title = item.full_title.split(' - ')[1]; // Extracting the title, assuming format is "ID - Title"
           html += `<li>${title}</li>`;
         });

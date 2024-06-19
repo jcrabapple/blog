@@ -17,7 +17,13 @@
         let html = '<ul>';
 
           history.forEach(item => {
-          const title = item.full_title.split(' - ')[1]; // Extracting the title, assuming format is "ID - Title"
+          let title = item.full_title;
+
+          // Check if the title contains " - " for movies and TV shows
+          if (title.includes(' - ')) {
+            title = title.split(' - ')[1]; // Extracting the title part after " - "
+          }
+
           html += `<li>${title}</li>`;
         });
 

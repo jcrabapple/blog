@@ -17,7 +17,7 @@
         let html = '<ul>';
 
         history.forEach(item => {
-          const posterUrl = `https://tautulli.totallylegit.video/${item.thumb}`;
+          const posterUrl = `https://tautulli.totallylegit.video${item.thumb}`;
           html += `
             <li>
               <img src="${posterUrl}" alt="${item.full_title}" style="width:100px;height:auto;">

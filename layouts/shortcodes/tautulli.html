@@ -17,11 +17,15 @@
         let html = '<ul>';
 
           history.forEach(item => {
-          let title = item.full_title;
+          let title = '';
 
-          // Check if the title contains " - " for movies and TV shows
-          if (title.includes(' - ')) {
-            title = title.split(' - ')[1]; // Extracting the title part after " - "
+          // Check if it's a movie
+          if (item.media_type === 'movie') {
+            title = item.full_title; // Display full_title for movies
+          }
+          // Check if it's a TV show
+          else if (item.media_type === 'episode') {
+            title = `${item.grandparent_title} - ${item.title}`; // Display show name and episode title for TV shows
           }
 
           html += `<li>${title}</li>`;

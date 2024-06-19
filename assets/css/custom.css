@@ -115,11 +115,11 @@ hr {
 }
 
 .link-preview-content h3 {
-    margin: 0 0 5px;
+    margin: 10px 0 5px;
     font-size: 16px;
 }
 
 .link-preview-content p {
     margin: 0;
-    color: #555;
+    color: #ddd;
 }

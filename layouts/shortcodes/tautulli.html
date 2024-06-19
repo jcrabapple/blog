@@ -5,7 +5,8 @@
   <script>
     async function fetchWatchHistory() {
       const apiKey = '21c50e173e5c4af396f213250ebc8139'; // Replace with your Tautulli API key
-      const url = `https://tautulli.totallylegit.video/api/v2?apikey=${apiKey}&cmd=get_history`;
+      const userId = '405622'; // Replace with the specific user ID
+      const url = `https://tautulli.totallylegit.video/api/v2?apikey=${apiKey}&cmd=get_history&user_id=${userId}`;
   
       try {
         const response = await fetch(url);

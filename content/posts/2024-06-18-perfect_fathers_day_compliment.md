@@ -3,6 +3,8 @@ title: "The Perfect Father's Day Compliment"
 description: "I must be doing something right"
 date: 2024-06-18
 tags: ["Life","Parenting","Relationships","Marriage"]
+images:
+- coolasheck.png
 ---
 {{< lead >}}
 I must be doing something right.

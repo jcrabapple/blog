@@ -13,7 +13,14 @@
       
       if (data.response && data.response.data) {
         const metadata = data.response.data;
-        return metadata.guid.split('tmdb://')[1]; // Extract TMDb ID from guid
+        console.log('Metadata:', metadata); // Log metadata for debugging
+        const tmdbGuid = metadata.guid.split('://').find(guid => guid.startsWith('tmdb'));
+        if (tmdbGuid) {
+          return tmdbGuid.split('/')[1]; // Extract TMDb ID from guid
+        } else {
+          console.error('TMDb GUID not found for rating key:', ratingKey);
+          return null;
+        }
       } else {
         console.error('No metadata found for rating key:', ratingKey);
         return null;
@@ -37,7 +44,7 @@
         const history = data.response.data.data;
         let html = '<ul>';
 
-          for (const item of history) {
+        for (const item of history) {
           let title = '';
           let tmdbId = null;
           let tmdbUrl = '';
@@ -46,17 +53,21 @@
           if (item.media_type === 'movie') {
             title = item.full_title; // Display full_title for movies
             tmdbId = await fetchMetadata(item.rating_key); // Get TMDb ID for movie
-            tmdbUrl = `https://www.themoviedb.org/movie/${tmdbId}`; // Generate TMDb movie URL
+            if (tmdbId) {
+              tmdbUrl = `https://www.themoviedb.org/movie/${tmdbId}`; // Generate TMDb movie URL
+            }
           }
           // Check if it's a TV show
           else if (item.media_type === 'episode') {
             title = `${item.grandparent_title} - ${item.title}`; // Display show name and episode title for TV shows
             tmdbId = await fetchMetadata(item.grandparent_rating_key); // Get TMDb ID for TV show
-            tmdbUrl = `https://www.themoviedb.org/tv/${tmdbId}/episode/${item.rating_key}`; // Generate TMDb episode URL
+            if (tmdbId) {
+              tmdbUrl = `https://www.themoviedb.org/tv/${tmdbId}/episode/${item.rating_key}`; // Generate TMDb episode URL
+            }
           }
 
           // Create list item with link
-          if (tmdbId) {
+          if (tmdbUrl) {
             html += `<li><a href="${tmdbUrl}" target="_blank">${title}</a></li>`;
           } else {
             html += `<li>${title} (TMDb link not found)</li>`;

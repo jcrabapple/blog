@@ -28,7 +28,11 @@
             title = `${item.grandparent_title} - ${item.title}`; // Display show name and episode title for TV shows
           }
 
-          html += `<li>${title}</li>`;
+          // Generate IMDb URL
+          imdbUrl = `https://www.imdb.com/find?q=${encodeURIComponent(title)}`;
+
+          // Create list item with link
+          html += `<li><a href="${imdbUrl}" target="_blank">${title}</a></li>`;
         });
 
         html += '</ul>';

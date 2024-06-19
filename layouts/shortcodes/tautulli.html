@@ -1,12 +1,10 @@
 <div id="tautulli-watch-history">
-    Loading watch history...
-  </div>
-  
+  Loading watch history...
+</div>
+
 <script>
   async function fetchWatchHistory() {
-    const apiKey = '21c50e173e5c4af396f213250ebc8139'; // Replace with your Tautulli API key
-    const userId = '405622'; // Replace with the specific user ID
-    const url = `https://tautulli.totallylegit.video/api/v2?apikey=${apiKey}&cmd=get_history&user_id=${userId}&length=20`;
+    const url = `http://localhost:3000/api?apikey=21c50e173e5c4af396f213250ebc8139&cmd=get_history&user_id=405622&length=20`;
 
     try {
       const response = await fetch(url);
@@ -17,12 +15,8 @@
         let html = '<ul>';
 
         history.forEach(item => {
-          const posterUrl = `https://tautulli.totallylegit.video${item.thumb}`;
-          html += `
-            <li>
-              <img src="${posterUrl}" alt="${item.full_title}" style="width:100px;height:auto;">
-              ${item.date} - ${item.full_title}
-            </li>`;
+          const title = item.full_title.split(' - ')[1]; // Extracting the title, assuming format is "ID - Title"
+          html += `<li>${title}</li>`;
         });
 
         html += '</ul>';

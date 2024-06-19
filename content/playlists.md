@@ -15,3 +15,5 @@ These are custom playlists I have created in YouTube Music.
 {{< linkpreview url="https://playlist.link/good_shit" >}}
 
 {{< linkpreview url="https://playlist.link/covers" >}}
+
+{{< linkpreview url="https://playlist.link/instrumental_progressive_metal" >}}

@@ -91,7 +91,7 @@ hr {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    padding: 10px 20px 10px 20px;
+    padding: 5px 20px 5px 20px;
     border: 2px solid #c9c9c9;
     border-radius: 10px;
     background-color: #3f3f3f;
@@ -115,8 +115,8 @@ hr {
 }
 
 .link-preview-content h3 {
-    margin: 10px 0 5px;
-    font-size: 16px;
+    margin: 15px 0 5px;
+    font-size: 18px;
 }
 
 .link-preview-content p {

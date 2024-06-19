@@ -89,10 +89,13 @@ hr {
 
 .link-preview {
     display: flex;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px 20px 10px 20px;
+    border: 2px solid #c9c9c9;
+    border-radius: 10px;
+    background-color: #3f3f3f;
     overflow: hidden;
-    margin: 10px 0;
 }
 
 .link-preview a {

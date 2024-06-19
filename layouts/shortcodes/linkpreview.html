@@ -1,8 +1,8 @@
 {{ $url := .Get "url" }}
 {{ $response := getJSON (printf "https://api.linkpreview.net/?key=dc4d5f6bef9dc25b17c5410dd65ea24f&q=%s" $url) }}
 <div class="link-preview">
+    <img src="{{ $response.image }}" alt="{{ $response.title }}" class="link-preview-image"/>
     <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">
-        <img src="{{ $response.image }}" alt="{{ $response.title }}" class="link-preview-image"/>
         <div class="link-preview-content">
             <h3>{{ $response.title }}</h3>
             <p>{{ $response.description }}</p>

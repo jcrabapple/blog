@@ -1,4 +1,3 @@
-
 {{ with resources.GetRemote "https://www.inoreader.com/stream/user/1005679699/tag/user-favorites" | transform.Unmarshal }}
 <ul>
     {{ range .channel.item }}

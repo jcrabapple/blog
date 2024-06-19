@@ -86,3 +86,37 @@ hr {
 .cactus-comment-avatar {
     display: none !important;
 }
+
+.link-preview {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 10px 0;
+}
+
+.link-preview a {
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+}
+
+.link-preview-image {
+    width: 120px;
+    height: auto;
+    object-fit: cover;
+}
+
+.link-preview-content {
+    padding: 10px;
+}
+
+.link-preview-content h3 {
+    margin: 0 0 5px;
+    font-size: 16px;
+}
+
+.link-preview-content p {
+    margin: 0;
+    color: #555;
+}

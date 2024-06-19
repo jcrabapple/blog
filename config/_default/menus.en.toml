@@ -77,6 +77,12 @@
   pageRef = "nope"
   weight = 35
 
+[[main]]
+  name = "Playlists"
+  parent = "/More..."
+  pageRef = "playlists"
+  weight = 36
+
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"

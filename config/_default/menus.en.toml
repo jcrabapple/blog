@@ -83,6 +83,12 @@
   pageRef = "playlists"
   weight = 36
 
+[[main]]
+  name = "Watching"
+  parent = "/More..."
+  pageRef = "watching"
+  weight = 37
+
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"

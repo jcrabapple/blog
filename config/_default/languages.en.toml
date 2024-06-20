@@ -8,9 +8,9 @@ title = "cool as heck"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/author.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-   description = "my personal blog"
+  description = "my personal blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]

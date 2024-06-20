@@ -25,7 +25,17 @@ async function displayTraktActivity() {
 
     activity.forEach(item => {
       const listItem = document.createElement('li');
-      listItem.textContent = `${item.action} ${item.type}: ${item[item.type].title}`;
+      const itemType = item.type;
+      const action = item.action;
+      
+      if (itemType === 'episode') {
+        const showTitle = item.show.title;
+        const episodeTitle = item.episode.title;
+        listItem.textContent = `${showTitle}: ${episodeTitle}`;
+      } else {
+        listItem.textContent = `${action} ${itemType}: ${item[itemType].title}`;
+      }
+      
       activityContainer.appendChild(listItem);
     });
   } catch (error) {

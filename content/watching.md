@@ -12,4 +12,4 @@ showDate: false
 TV shows and movies that my wife and I have been watching.
 {{< /lead >}}
 
-{{< tautulli >}}
+{{< watching >}}

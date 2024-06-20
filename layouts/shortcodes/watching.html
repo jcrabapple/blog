@@ -1,0 +1,38 @@
+<script>
+    const clientId = '08e9a926f8ab9f33cf257e9a65e685ec036ba6ffc3c575143f15f8cc63294b18';
+
+async function fetchTraktActivity() {
+  const response = await fetch('https://api.trakt.tv/users/jcrabapple/history', {
+    headers: {
+      'Content-Type': 'application/json',
+      'trakt-api-version': '2',
+      'trakt-api-key': clientId
+    }
+  });
+  
+  if (!response.ok) {
+    throw new Error('Network response was not ok');
+  }
+  
+  return response.json();
+}
+
+async function displayTraktActivity() {
+  try {
+    const activity = await fetchTraktActivity();
+    const activityContainer = document.getElementById('trakt-activity');
+    activityContainer.innerHTML = '';
+
+    activity.forEach(item => {
+      const listItem = document.createElement('li');
+      listItem.textContent = `${item.action} ${item.type}: ${item[item.type].title}`;
+      activityContainer.appendChild(listItem);
+    });
+  } catch (error) {
+    console.error('Error fetching Trakt activity:', error);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', displayTraktActivity);
+
+</script>

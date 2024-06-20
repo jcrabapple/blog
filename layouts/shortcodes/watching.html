@@ -40,7 +40,7 @@ async function displayTraktActivity() {
         
         const link = document.createElement('a');
         link.href = episodeUrl;
-        link.textContent = `${showTitle}: ${episodeTitle}`;
+        link.textContent = `${showTitle}: ${episodeTitle} `;
         link.target = '_blank'; // Open link in new tab
 
         // Add TV icon
@@ -48,13 +48,14 @@ async function displayTraktActivity() {
         tvIcon.classList.add('ph-bold', 'ph-television'); // Adjust classes as needed
         
         listItem.appendChild(link);
+        listItem.appendChild(tvIcon);
       } else if (itemType === 'show') {
         const showTitle = item.show.title;
         const showUrl = `https://trakt.tv/shows/${item.show.ids.slug}`;
         
         const link = document.createElement('a');
         link.href = showUrl;
-        link.textContent = `${showTitle}`;
+        link.textContent = `${showTitle}` ;
         link.target = '_blank'; // Open link in new tab
         
         // Add TV icon
@@ -69,7 +70,7 @@ async function displayTraktActivity() {
         
         const link = document.createElement('a');
         link.href = movieUrl;
-        link.textContent = `${movieTitle}`;
+        link.textContent = `${movieTitle} `;
         link.target = '_blank'; // Open link in new tab
         
         // Add film reel icon

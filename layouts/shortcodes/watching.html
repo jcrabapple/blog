@@ -39,13 +39,19 @@ async function displayTraktActivity() {
         link.target = '_blank'; // Open link in new tab
         
         listItem.appendChild(link);
-      } else {
+      } else if (itemType === 'movie') {
+        const movieTitle = item.movie.title;
+        const movieUrl = `https://trakt.tv/movies/${item.movie.ids.slug}`;
+        
         const link = document.createElement('a');
-        link.href = `https://trakt.tv/${itemType}s/${item[itemType].ids.slug}`;
-        link.textContent = `${action} ${itemType}: ${item[itemType].title}`;
+        link.href = movieUrl;
+        link.textContent = `${movieTitle}`;
         link.target = '_blank'; // Open link in new tab
         
         listItem.appendChild(link);
+      } else {
+        // Handle other types (if needed)
+        listItem.textContent = `${action} ${itemType}: ${item[itemType].title}`;
       }
       
       activityContainer.appendChild(listItem);

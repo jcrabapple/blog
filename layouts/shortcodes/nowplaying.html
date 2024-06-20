@@ -6,7 +6,7 @@
     const track = data.recenttracks.track[0];
     const nowPlaying = track['@attr'] && track['@attr'].nowplaying ? 'Now playing' : 'Last played';
     document.getElementById('lastfm-now-playing').innerHTML = `
-      <strong>${nowPlaying}:</strong> 
+    <i class="ph ph-music-notes"></i><strong>${nowPlaying}:</strong> 
       <a href="${track.url}" target="_blank">${track.artist['#text']} - ${track.name}</a>
     `;
   }

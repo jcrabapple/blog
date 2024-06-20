@@ -42,6 +42,10 @@ async function displayTraktActivity() {
         link.href = episodeUrl;
         link.textContent = `${showTitle}: ${episodeTitle}`;
         link.target = '_blank'; // Open link in new tab
+
+        // Add TV icon
+        const tvIcon = document.createElement('i');
+        tvIcon.classList.add('ph-bold', 'ph-television'); // Adjust classes as needed
         
         listItem.appendChild(link);
       } else if (itemType === 'show') {

@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-Avb2QiuDEEvB4bZJYdft2mNjVShBftLdPG8FJ0V7irTLQ8Uo0qcPxh4Plq7G5tGm0rU+1SPhVotteLpBERwTkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/bold/style.css" />
 </head>
 
 <script>
@@ -55,7 +55,7 @@ async function displayTraktActivity() {
         
         // Add TV icon
         const tvIcon = document.createElement('i');
-        tvIcon.classList.add('fas', 'fa-tv', 'ml-2'); // Adjust classes as needed
+        tvIcon.classList.add('ph-bold', 'ph-television'); // Adjust classes as needed
         
         listItem.appendChild(link);
         listItem.appendChild(tvIcon);
@@ -70,7 +70,7 @@ async function displayTraktActivity() {
         
         // Add film reel icon
         const filmIcon = document.createElement('i');
-        filmIcon.classList.add('fas', 'fa-film', 'ml-2'); // Adjust classes as needed
+        filmIcon.classList.add('ph-bold', 'ph-film-slate'); // Adjust classes as needed
         
         listItem.appendChild(link);
         listItem.appendChild(filmIcon);

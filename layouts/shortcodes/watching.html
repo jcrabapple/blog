@@ -36,11 +36,13 @@ async function displayTraktActivity() {
       if (itemType === 'episode') {
         const showTitle = item.show.title;
         const episodeTitle = item.episode.title;
+        const seasonNumber = item.episode.season;
+        const episodeNumber = item.episode.number;
         const episodeUrl = `https://trakt.tv/shows/${item.show.ids.slug}/seasons/${item.episode.season}/episodes/${item.episode.number}`;
         
         const link = document.createElement('a');
         link.href = episodeUrl;
-        link.textContent = `${showTitle}: ${episodeTitle} `;
+        link.textContent = `${showTitle}: S${seasonNumber < 10 ? '0' + seasonNumber : seasonNumber}E${episodeNumber < 10 ? '0' + episodeNumber : episodeNumber} - ${episodeTitle}`;
         link.target = '_blank'; // Open link in new tab
 
         // Add TV icon

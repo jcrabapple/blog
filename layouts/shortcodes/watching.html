@@ -27,6 +27,7 @@ async function displayTraktActivity() {
       const listItem = document.createElement('li');
       const itemType = item.type;
       const action = item.action;
+      const watchedAt = new Date(item.watched_at).toLocaleDateString(); // Convert watched_at to readable date
       
       if (itemType === 'episode') {
         const showTitle = item.show.title;
@@ -35,23 +36,43 @@ async function displayTraktActivity() {
         
         const link = document.createElement('a');
         link.href = episodeUrl;
-        link.textContent = `${showTitle}: ${episodeTitle}`;
+        link.textContent = `${showTitle}: ${episodeTitle} (${watchedAt})`;
         link.target = '_blank'; // Open link in new tab
         
         listItem.appendChild(link);
+      } else if (itemType === 'show') {
+        const showTitle = item.show.title;
+        const showUrl = `https://trakt.tv/shows/${item.show.ids.slug}`;
+        
+        const link = document.createElement('a');
+        link.href = showUrl;
+        link.textContent = `${showTitle} (${watchedAt})`;
+        link.target = '_blank'; // Open link in new tab
+        
+        // Add TV icon
+        const tvIcon = document.createElement('i');
+        tvIcon.classList.add('fas', 'fa-tv', 'ml-2'); // Adjust classes as needed
+        
+        listItem.appendChild(link);
+        listItem.appendChild(tvIcon);
       } else if (itemType === 'movie') {
         const movieTitle = item.movie.title;
         const movieUrl = `https://trakt.tv/movies/${item.movie.ids.slug}`;
         
         const link = document.createElement('a');
         link.href = movieUrl;
-        link.textContent = `${movieTitle}`;
+        link.textContent = `${movieTitle} (${watchedAt})`;
         link.target = '_blank'; // Open link in new tab
         
+        // Add film reel icon
+        const filmIcon = document.createElement('i');
+        filmIcon.classList.add('fas', 'fa-film', 'ml-2'); // Adjust classes as needed
+        
         listItem.appendChild(link);
+        listItem.appendChild(filmIcon);
       } else {
         // Handle other types (if needed)
-        listItem.textContent = `${action} ${itemType}: ${item[itemType].title}`;
+        listItem.textContent = `${action} ${itemType}: ${item[itemType].title} (${watchedAt})`;
       }
       
       activityContainer.appendChild(listItem);
@@ -59,7 +80,7 @@ async function displayTraktActivity() {
   } catch (error) {
     console.error('Error fetching Trakt activity:', error);
   }
-}
+}   
 
 document.addEventListener('DOMContentLoaded', displayTraktActivity);
 

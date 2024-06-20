@@ -31,9 +31,21 @@ async function displayTraktActivity() {
       if (itemType === 'episode') {
         const showTitle = item.show.title;
         const episodeTitle = item.episode.title;
-        listItem.textContent = `${showTitle}: ${episodeTitle}`;
+        const episodeUrl = `https://trakt.tv/shows/${item.show.ids.slug}/seasons/${item.episode.season}/episodes/${item.episode.number}`;
+        
+        const link = document.createElement('a');
+        link.href = episodeUrl;
+        link.textContent = `${showTitle}: ${episodeTitle}`;
+        link.target = '_blank'; // Open link in new tab
+        
+        listItem.appendChild(link);
       } else {
-        listItem.textContent = `${action} ${itemType}: ${item[itemType].title}`;
+        const link = document.createElement('a');
+        link.href = `https://trakt.tv/${itemType}s/${item[itemType].ids.slug}`;
+        link.textContent = `${action} ${itemType}: ${item[itemType].title}`;
+        link.target = '_blank'; // Open link in new tab
+        
+        listItem.appendChild(link);
       }
       
       activityContainer.appendChild(listItem);

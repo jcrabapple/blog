@@ -4,10 +4,11 @@
     padding: 0 10px 15px 10px;
     border-color: rgb(256 256 256 / 0.25);
 }
-.logo {
+.my_logo {
     width: 250px;
     max-width: 100%;
     height: auto;
+    display: flex;
 }
 #now-playing {
     background-color: #000000;

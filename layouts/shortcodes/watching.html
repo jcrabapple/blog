@@ -46,7 +46,7 @@ async function displayTraktActivity() {
         
         const link = document.createElement('a');
         link.href = showUrl;
-        link.textContent = `${showTitle} (${watchedAt})`;
+        link.textContent = `${showTitle}`;
         link.target = '_blank'; // Open link in new tab
         
         // Add TV icon
@@ -61,7 +61,7 @@ async function displayTraktActivity() {
         
         const link = document.createElement('a');
         link.href = movieUrl;
-        link.textContent = `${movieTitle} (${watchedAt})`;
+        link.textContent = `${movieTitle}`;
         link.target = '_blank'; // Open link in new tab
         
         // Add film reel icon
@@ -74,6 +74,11 @@ async function displayTraktActivity() {
         // Handle other types (if needed)
         listItem.textContent = `${action} ${itemType}: ${item[itemType].title} (${watchedAt})`;
       }
+      
+      // Add watched date as plain text
+      const watchedDate = document.createElement('span');
+      watchedDate.textContent = ` (${watchedAt})`;
+      listItem.appendChild(watchedDate);
       
       activityContainer.appendChild(listItem);
     });

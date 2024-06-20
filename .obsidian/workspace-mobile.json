@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "06dda085d2c74c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e437e4fdadc91d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bfb0411436d57c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2024-06-04-junited_2024.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d5fa78873ab0cec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a971b3496ca42fe4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1b6f1bde4672cfa0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a66b653064d1d0c4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "34f2c10595e85a2e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "01f7edef7cfa1dfe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "043d9bbb759a9800",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/posts/2024-06-04-junited_2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "73013d698505f116",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/posts/2024-06-04-junited_2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fb107cc06b013b01",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/posts/2024-06-04-junited_2024.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8bfb0411436d57c2",
+  "lastOpenFiles": [
+    "layouts/shortcodes/watching.html",
+    "/layouts/shortcodes/watching.html",
+    "/content/watching.md",
+    "/themes/blowfish",
+    "/themes/ananke",
+    "static/coolasheck.png",
+    "layouts/shortcodes/tautulli.html",
+    "content/watching.md",
+    "/static/coolasheck.png",
+    "/layouts/shortcodes/tautulli.html",
+    "/layouts/shortcodes/bookmarks.html",
+    "/content/posts/2024-06-18-perfect_fathers_day_compliment.md",
+    "/config/_default/menus.en.toml",
+    "layouts/shortcodes/linkpreview.html",
+    "content/posts/2024-06-18-perfect_fathers_day_compliment.md",
+    "content/playlists.md",
+    "/layouts/shortcodes/listeningreport.html",
+    "/layouts/shortcodes/listeninghistory.html",
+    "/content/playlists.md",
+    "/content/listening.md",
+    "content/posts/2024-06-04-junited_2024.md",
+    "content/nope.md",
+    "content/now.md"
+  ]
+}

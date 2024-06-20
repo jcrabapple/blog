@@ -16,8 +16,7 @@ weight = 1
 [author]
    name = "jcrabapple"
    image = "img/author.png"
-   image = "img/logo.png"
-   #headline = "cool as heck"
+   headline = "cool as heck"
    bio = "husband, father, tech enthusiast"
    links = [
      { email = "mailto:jcrabapple@dmv.community" },

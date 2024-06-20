@@ -42,7 +42,7 @@ async function displayTraktActivity() {
         
         const link = document.createElement('a');
         link.href = episodeUrl;
-        link.textContent = `${showTitle}: S${seasonNumber < 10 ? '0' + seasonNumber : seasonNumber}E${episodeNumber < 10 ? '0' + episodeNumber : episodeNumber} - ${episodeTitle}`;
+        link.textContent = `${showTitle}: S${seasonNumber < 10 ? '0' + seasonNumber : seasonNumber}E${episodeNumber < 10 ? '0' + episodeNumber : episodeNumber} - ${episodeTitle} `;
         link.target = '_blank'; // Open link in new tab
 
         // Add TV icon

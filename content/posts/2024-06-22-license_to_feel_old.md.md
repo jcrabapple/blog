@@ -8,7 +8,7 @@ tags:
   - kids
 images:
   - coolasheck.png
-draft: true
+draft: false
 ---
 {{< lead >}}
 Another milestone of growing up and growing old. 

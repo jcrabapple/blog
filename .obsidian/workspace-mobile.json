@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e437e4fdadc91d66",
+        "id": "27425b72540385bf",
         "type": "tabs",
         "children": [
           {
-            "id": "8bfb0411436d57c2",
+            "id": "1ca382d5cfed7d40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-06-04-junited_2024.md",
-                "mode": "preview",
+                "file": "content/posts/2024-06-22-license_to_feel_old.md.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/2024-06-04-junited_2024.md",
+            "file": "content/posts/2024-06-22-license_to_feel_old.md.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/posts/2024-06-04-junited_2024.md",
+            "file": "content/posts/2024-06-22-license_to_feel_old.md.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/posts/2024-06-04-junited_2024.md"
+            "file": "content/posts/2024-06-22-license_to_feel_old.md.md"
           }
         }
       }
@@ -131,29 +131,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bfb0411436d57c2",
+  "active": "1ca382d5cfed7d40",
   "lastOpenFiles": [
+    "highest selling items on Amazon.md",
+    "content/posts/2024-06-22-license_to_feel_old.md.md",
+    "content/posts/2024-06-18-perfect_fathers_day_compliment.md",
+    "content/posts/2024-06-04-junited_2024.md",
+    "assets/img/logo.png",
+    "/static/coolasheck.png",
+    "/layouts/shortcodes/nowplaying.html",
+    "/content/_index.md",
+    "/config/_default/languages.en.toml",
+    "/assets/img/logo.png",
+    "/assets/css/custom.css",
+    "/themes/blowfish",
+    "/themes/ananke",
     "layouts/shortcodes/watching.html",
     "/layouts/shortcodes/watching.html",
     "/content/watching.md",
-    "/themes/blowfish",
-    "/themes/ananke",
     "static/coolasheck.png",
     "layouts/shortcodes/tautulli.html",
     "content/watching.md",
-    "/static/coolasheck.png",
     "/layouts/shortcodes/tautulli.html",
     "/layouts/shortcodes/bookmarks.html",
     "/content/posts/2024-06-18-perfect_fathers_day_compliment.md",
-    "/config/_default/menus.en.toml",
-    "layouts/shortcodes/linkpreview.html",
-    "content/posts/2024-06-18-perfect_fathers_day_compliment.md",
     "content/playlists.md",
-    "/layouts/shortcodes/listeningreport.html",
-    "/layouts/shortcodes/listeninghistory.html",
     "/content/playlists.md",
     "/content/listening.md",
-    "content/posts/2024-06-04-junited_2024.md",
     "content/nope.md",
     "content/now.md"
   ]

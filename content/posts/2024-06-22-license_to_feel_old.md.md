@@ -27,3 +27,5 @@ I have to say, we are lucky to have great kids. To our credit, we've done a good
 In my experience with kids at my age, their milestones become my milestones. I already turned 40, so there aren't really any milestones left for me until retirement age. So it's things like kids starting college, graduating high school, and getting their driver's license that continue to make me feel older (the back pain and that sound I make when I get up off the couch are also constant reminders). Even though I've already got one kid who got her driver's license 5 years ago and now has only a year of college left, it's been long enough that it feels fresh again. Plus, these kids are all such different people, it's always like experiencing it again for the first time. I'm already mentally preparing myself for the youngest one to take this step in 5 years, though I don't know how much good it will do. 
 
 No matter how far away they drive, and how little they might need me, I'll always be their dad and I'll always be here when they do.
+
+{{< chat cool-as-heck-license-to-feel-old >}}

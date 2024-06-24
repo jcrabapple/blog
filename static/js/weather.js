@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 icon = '<i class="ph-bold ph-sun"></i>';
             } else if (description.includes('cloud')) {
                 icon = '<i class="ph-bold ph-cloud"></i>';
+            } else if (description.includes('rain') || description.includes('shower')) {
+                icon = '<i class="ph-bold ph-cloud-rain"></i>';
             }
 
             weatherElement.innerHTML = `${icon} <strong>Current weather in Winchester, VA:</strong> ${temp}°F, ${description}`;

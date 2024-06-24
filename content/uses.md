@@ -21,10 +21,10 @@ This is a collection of products and services that work best for me. These are m
 * Calendar: Fastmail, Thunderbird, Samsung Calendar
 * Contacts: Fastmail, Samsung Contacts
 * RSS Reader: Inoreader
-* Launcher: OneUI launcher
+* Launcher: Niagara launcher
 * Cloud storage: Koofr, Google Drive
-* Photo library: Google Photos
-* Web Browser: Vivaldi desktop, Cromite mobile
+* Photo library: Google Photos, Immich
+* Web Browser: Vivaldi
 * Chat: Google Messages, Discord, Signal, Google Chat
 * Bookmarks: Hoarder
 * Reading: Kindle Paperwhite
@@ -33,7 +33,7 @@ This is a collection of products and services that work best for me. These are m
 * Fitness Tracking: Samsung Health (synced with Fitbit via Health Sync)
 * Music: YouTube Music
 * Podcasts: AntennaPod
-* Password Management: Bitwarden (self-hosted)
+* Password Management: Vaultwarden
 * Social Media: Mastodon, Pixelfed
 * Weather: Samsung Weather
 * Search: Kagi, Perplexity

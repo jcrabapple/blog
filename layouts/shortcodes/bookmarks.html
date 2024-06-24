@@ -2,7 +2,7 @@
 <ul>
     {{ range .channel.item }}
     <li>
-      <a href="{{ .link }}">{{ .title }}</a>
+      <a href="{{ .link }}" target="_blank">{{ .title }}</a>
       <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }}
     </li>
     {{ end }}

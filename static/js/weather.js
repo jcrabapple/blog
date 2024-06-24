@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             const temp = data.main.temp;
             const description = data.weather[0].description;
             const weatherElement = document.getElementById('weather');
-            weatherElement.innerHTML = `Current weather in Winchester, VA: ${temp}°F, ${description}`;
+            weatherElement.innerHTML = `<strong>Current weather in Winchester, VA:</strong> ${temp}°F, ${description}`;
         })
         .catch(error => console.error('Error fetching weather data:', error));
 });

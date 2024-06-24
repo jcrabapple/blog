@@ -3,6 +3,8 @@ title: "Blog Progress Update"
 description: "Having fun learning Hugo!"
 date: 2024-05-27
 tags: ["Blog","Hugo"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 In the ongoing effort to expand this blog and continue learning more about Hugo, I've made a few modifications.
 

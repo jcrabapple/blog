@@ -3,6 +3,8 @@ title: "More Thoughts on AI and LLMs in Search"
 description: "Some additional thoughts I had regarding the addition of AI and LLMs into web search."
 date: 2024-05-20
 tags: ["AI","LLMs","search","web","tech"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 My friend and I were discussing AI/LLM search, and while I think some LLM search can be useful, you have to make it work for you. I think this is a big change from traditional search, and with the way things are going and more people using AI search, either people need to learn how to use them correctly or the search companies need to make the search better. Or both.
 

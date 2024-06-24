@@ -7,7 +7,7 @@ tags:
   - Parenting
   - kids
 images:
-  - coolasheck.png
+  - cool-as-heck-gray-bg.png
 draft: false
 ---
 {{< lead >}}

@@ -3,6 +3,8 @@ title: "Face Status and More"
 description: "Slowly recovering from Bell's Palsy"
 date: 2024-05-09
 tags: ["Life","Health","Parenting","Family"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 I really got you with that title, huh? Update on the Bell's Palsy facial paralysis: It's mostly back to normal! I have mostly regained control of my right side. My face has gone from really goofy looking to just normal goofy looking. The only symptom really left is ear sensitivity to high pitched sounds, so when the dogs bark in the house or when someone clanks dishes together, it physically hurts me, but hopefully that resolves itself given a bit more time.
 

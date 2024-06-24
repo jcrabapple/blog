@@ -3,6 +3,8 @@ title: "Google Gemini and Unsustainable LLMs"
 description: "Google I/O got me thinking more about how LLMs source their content and how they present it."
 date: 2024-05-18
 tags: ["AI","LLMs","search","web","tech"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 Reading up on the announcements from Google I/O got me thinking more about how LLMs source their content and how they present it.
 

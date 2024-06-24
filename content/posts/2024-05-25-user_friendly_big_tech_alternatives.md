@@ -4,6 +4,8 @@ description: "Alternatives to big tech products that are simple, easy to use, an
 date: 2024-05-25
 lastmod: 2024-05-26
 tags: ["Tech"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 Update: I've updated the post with some notes and additional suggestions from folks on Mastodon! Thanks, everyone!
 

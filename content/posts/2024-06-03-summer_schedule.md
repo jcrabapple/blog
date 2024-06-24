@@ -3,6 +3,8 @@ title: "Summer Schedule"
 description: "The summer schedule with the kids"
 date: 2024-06-03
 tags: ["Life","Parenting"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 If you don't know, my wife and I have a blended family. We're both on our second marriage, and we have 4 girls between us. The oldest is a few years into college, so she stops by occasionally but she's usually doing her own thing. During the school year the kids are here every Tuesday and Thursday, and every other weekend. My kids live with their mom primarily, 30 minutes away from us, so there's a lot of back and forth during school.
 

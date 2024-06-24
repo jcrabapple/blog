@@ -3,6 +3,8 @@ title: "On Relationships"
 description: "Some advice that meant a lot to me"
 date: 2024-06-07
 tags: ["Life","Marriage","Relationships"]
+images:
+- cool-as-heck-gray-bg.png
 ---
 {{< lead >}}
 One of the best pieces of advice someone has ever given me...

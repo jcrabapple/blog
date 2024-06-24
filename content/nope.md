@@ -33,3 +33,4 @@ These are some things I don't like.
 - chocolate or peanut butter cereals
 - cotton balls
 - entitled people
+- vinegar

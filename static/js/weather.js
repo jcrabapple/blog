@@ -9,7 +9,16 @@ document.addEventListener('DOMContentLoaded', (event) => {
             const temp = Math.round(data.main.temp);  // Rounding the temperature
             const description = data.weather[0].description;
             const weatherElement = document.getElementById('weather');
-            weatherElement.innerHTML = `<strong>Current weather in Winchester, VA:</strong> ${temp}°F, ${description}`;
+
+            // Determine the icon
+            let icon = '';
+            if (description.includes('sun')) {
+                icon = '<i class="ph-bold ph-sun"></i>';
+            } else if (description.includes('cloud')) {
+                icon = '<i class="ph-bold ph-cloud"></i>';
+            }
+
+            weatherElement.innerHTML = `${icon} <strong>Current weather in Winchester, VA:</strong> ${temp}°F, ${description}`;
         })
         .catch(error => console.error('Error fetching weather data:', error));
 });

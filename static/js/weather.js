@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
             // Determine the icon
             let icon = '';
-            if (description.includes('sun')) {
+            if (description.includes('sun')) || description.includes('clear')) {
                 icon = '<i class="ph-bold ph-sun"></i>';
             } else if (description.includes('cloud')) {
                 icon = '<i class="ph-bold ph-cloud"></i>';

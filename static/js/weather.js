@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     fetch(url)
         .then(response => response.json())
         .then(data => {
-            const temp = data.main.temp;
+            const temp = Math.round(data.main.temp);  // Rounding the temperature
             const description = data.weather[0].description;
             const weatherElement = document.getElementById('weather');
             weatherElement.innerHTML = `<strong>Current weather in Winchester, VA:</strong> ${temp}°F, ${description}`;

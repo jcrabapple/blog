@@ -18,3 +18,5 @@ Click the playlist name to be taken to [Odesli](https://odesli.co) where you can
 {{< linkpreview url="https://playlist.link/covers" >}}
 
 {{< linkpreview url="https://playlist.link/instrumental_progressive_metal" >}}
+
+{{< linkpreview url="https://playlist.link/nineties" >}}

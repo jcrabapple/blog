@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     const apiKey = '6077287c07c1f075d8cb329546acf918';
     const city = '4794120';
-    const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`;
+    const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`;
 
     fetch(url)
         .then(response => response.json())

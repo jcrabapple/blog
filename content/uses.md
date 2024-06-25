@@ -14,12 +14,12 @@ This is a collection of products and services that work best for me. These are m
 
 ### My apps and services
 
-* Mail Service: Fastmail
-* Mail Client: Thunderbird, Fastmail
+* Mail Service: Mailbox.org
+* Mail Client: Thunderbird, K-9 Mail
 * Notes: Obsidian, Google Keep (shared notes)
 * To-Do: Obsidian, Samsung Reminders
-* Calendar: Fastmail, Thunderbird, Samsung Calendar
-* Contacts: Fastmail, Samsung Contacts
+* Calendar: Mailbox.org, Thunderbird, Samsung Calendar
+* Contacts: Mailbox.org, Samsung Contacts
 * RSS Reader: Inoreader
 * Launcher: Niagara launcher
 * Cloud storage: Koofr, Google Drive

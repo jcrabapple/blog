@@ -23,7 +23,7 @@ It seemed like a good subject for a blog post, so here we are. These are some op
 	- [Tuta](https://tuta.com/)
 - Browser:
 	- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
-	- [Vivaldi](https://vivaldi.com/)(Note: Vivaldi is based on the open-source Chromium browser which was created by and Google)
+	- [Vivaldi](https://vivaldi.com/)(Note: Vivaldi is based on the open-source Chromium browser which was created by Google)
 - Calendar:
 	- [Fastmail](https://fastmail.com)
 	- [TickTick](https://ticktick.com/)

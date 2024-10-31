@@ -26,66 +26,66 @@
   weight = 16
 
 [[main]]
-  name = "/More..."
+  name = "More..."
   weight = 17
 
 [[main]]
   name = "Now"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "now"
   weight = 25
 
 [[main]]
   name = "Uses"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "uses"
   weight = 26
 
 [[main]]
   name = "Listening"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "listening"
   weight = 30
 
 [[main]]
   name = "Blogroll"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "blogroll"
   weight = 31
 
 [[main]]
   name = "Bookmarks"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "bookmarks"
   weight = 32
 
 [[main]]
   name = "Carry"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "carry"
   weight = 33
 
 [[main]]
   name = "Hello"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "hello"
   weight = 34
   
 [[main]]
   name = "Nope"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "nope"
   weight = 35
 
 [[main]]
   name = "Playlists"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "playlists"
   weight = 36
 
 [[main]]
   name = "Watching"
-  parent = "/More..."
+  parent = "More..."
   pageRef = "watching"
   weight = 37
 

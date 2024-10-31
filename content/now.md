@@ -14,22 +14,29 @@ showDate: false
 
 ### What I’m watching
 
-- Madame Secretary
-- The Good Wife
-- Shoresy
-- Loot
-- Hacks
+- The Good Fight
+- Elsbeth
+- The Neighborhood
+- What We Do In The Shadows
+- High Potential
+- Brilliant Minds
+- Shrinking
+- Found
+- Abbott Elementary
+- English Teacher
+- Rings of Power
+- The Great British Baking Show
+- Agatha All Along
 
 ### What I'm listening to
 
 - Sleep Token
 - Spiritbox
 - Ankor
-- Harbour
+- Bilmuri
 - Intervals
-- Novelists
-- Red Handed Denial
-- Talking Points
+- South Arcade
+- Gore
 
 ### What I’m making
 
@@ -42,8 +49,7 @@ showDate: false
 ### What I’m enjoying
 
 - Reading all the amazing indieweb blogs
-- Playing Nintendo Switch Sports with my kids
-- Playing Horizon: Zero Dawn and Apex Legends on Steam
 - Blogging and Fediverse
 - Photography
 - Learning Hugo static site generator
+- Our recent trip to Pittsburgh

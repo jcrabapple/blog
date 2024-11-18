@@ -15,28 +15,28 @@ This is a collection of products and services that work best for me. These are m
 ### My apps and services
 
 * Mail Service: Mailbox.org
-* Mail Client: Thunderbird, K-9 Mail
+* Mail Client: Vivaldi Mail, Edison Mail
 * Notes: Obsidian, Google Keep (shared notes)
-* To-Do: Obsidian, Samsung Reminders
-* Calendar: Mailbox.org, Thunderbird, Samsung Calendar
-* Contacts: Mailbox.org, Samsung Contacts
+* To-Do: Taskito
+* Calendar: Mailbox.org, Google Calendar
+* Contacts: Mailbox.org, Google Contacts
 * RSS Reader: Inoreader
-* Launcher: Niagara launcher
+* Launcher: Smart Launcher
 * Cloud storage: Koofr, Google Drive
-* Photo library: Google Photos, Immich
+* Photo library: Google Photos, Ente Photos
 * Web Browser: Vivaldi
-* Chat: Google Messages, Discord, Signal, Google Chat
+* Chat: Google Messages, Discord, Signal
 * Bookmarks: Hoarder
 * Reading: Kindle Paperwhite
 * Shopping Lists: Obsidian, Google Keep
 * Personal Finance: Monzo
-* Fitness Tracking: Samsung Health (synced with Fitbit via Health Sync)
+* Fitness Tracking: Pixel Watch 3 + Fitbit
 * Music: YouTube Music
 * Podcasts: AntennaPod
 * Password Management: Vaultwarden
-* Social Media: Mastodon, Pixelfed
-* Weather: Samsung Weather
-* Search: Kagi, Perplexity
+* Social Media: Mastodon, Pixelfed, BlueSky, Threads
+* Weather: Pixel Weather
+* Search: Kagi
 * Code Editor: VSCode
 
 ### Hardware and devices
@@ -62,9 +62,9 @@ This is a collection of products and services that work best for me. These are m
     * AMD Ryzen 7
     * 8GB RAM
     * 500GB SSD
-* Google Pixel 8 Pro
-* Samsung Galaxy S23 Ultra
-* Samsung Galaxy Watch 5 Pro
+* Google Pixel 9 Pro XL
+* Pixel Watch 3
+* Samsung Galaxy Buds Live
 * Soundcore Space One headphones
 * Pixel Tablet
 * Sony a6000

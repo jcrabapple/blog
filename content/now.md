@@ -24,9 +24,7 @@ showDate: false
 - Found
 - Abbott Elementary
 - English Teacher
-- Rings of Power
 - The Great British Baking Show
-- Agatha All Along
 
 ### What I'm listening to
 
@@ -37,11 +35,14 @@ showDate: false
 - Intervals
 - South Arcade
 - Gore
+- Poppy
 
 ### What I’m making
 
 - This Hugo Blog
 - Shrediverse Music Blog
+- DMV.Community Mastodon instance
+- Shrediverse.net GoToSocial instance
 - Photography
 - Mechanical Keyboards
 - Home Improvement Projects
@@ -52,4 +53,5 @@ showDate: false
 - Blogging and Fediverse
 - Photography
 - Learning Hugo static site generator
-- Our recent trip to Pittsburgh
+- Playing Stardew Valley
+- Listening to music

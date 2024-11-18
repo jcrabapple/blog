@@ -8,4 +8,4 @@ showReadingTime: false
 showWordCount: false
 showDate: false
 ---
-{{< bookmarks url="https://www.inoreader.com/stream/user/1005679699/tag/web-pages" limit="10">}}
+{{< bookmarks url="https://www.inoreader.com/stream/user/1005679699/tag/web-pages" limit="10" >}}

@@ -2,13 +2,14 @@
   {{ $url := .Get "url" }}
   {{ $limit := .Get "limit" }}
 
-{{ with resources.GetRemote $url | transform.Unmarshal }}
-<ul>
-    {{ range .channel.item }}
-    <li>
-      <a href="{{ .link }}" target="_blank">{{ .title }}</a>
-      <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }}
-    </li>
+    {{ with resources.GetRemote $url | transform.Unmarshal }}
+    <ul>
+        {{ range .channel.item }}
+        <li>
+        <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+        <br />Date: {{ time.Format "Jan. 2, 2006" .pubDate }}
+        </li>
+        {{ end }}
+    </ul>
     {{ end }}
-</ul>
 {{ end }}

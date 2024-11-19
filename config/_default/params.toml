@@ -37,7 +37,7 @@ disableTextInHeader = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "background.gif" # used in: hero, and card
+  #homepageImage = "img/background.gif" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true

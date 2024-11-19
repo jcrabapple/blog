@@ -5,6 +5,3 @@
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
-[submodule "themes/lightbi-hugo"]
-	path = themes/lightbi-hugo
-	url = https://github.com/binokochumolvarghese/lightbi-hugo

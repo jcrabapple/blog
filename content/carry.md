@@ -6,9 +6,9 @@ tags: ["Everyday Carry","Slash Pages"]
 showReadingTime: false
 showWordCount: false
 ---
-{{< lead >}}
+
 These are the things I carry with me all (or some) of the time!
-{{< /lead >}}
+
 
 ## Tech
 - **Phone**: Google Pixel 9 Pro XL

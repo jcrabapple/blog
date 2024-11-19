@@ -4,9 +4,9 @@ description: "Dev Patel's directorial debut inspired by John Wick"
 date: 2024-04-07
 tags: ["Movies"]
 ---
-{{< lead >}}
+
 This is a post from April 2024 about my feelings on the movie "Monkey Man", from my archive over at my [old Scribbles blog](https://scribbles.page/znd9ix_p). 
-{{< /lead >}}
+
 
 This weekend my 16-year-old daughter and I went to the Alamo Drafthouse to see Dev Patel's directorial debut "Monkey Man". You may know Dev Patel as an actor from the British TV series "Skins", or the 2008 Danny Boyle directed drama film "Slumdog Millionaire". Most recently, Patel starred in the epic medieval fantasy movie "The Green Knight" from cult favorite production company A24.
 

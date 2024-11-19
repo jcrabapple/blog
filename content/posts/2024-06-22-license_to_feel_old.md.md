@@ -10,9 +10,9 @@ images:
   - cool-as-heck-gray-bg.png
 draft: false
 ---
-{{< lead >}}
+
 Another milestone of growing up and growing old. 
-{{< /lead >}}
+
 
 Today was a big day. Not just for my 16-year-old twin girls, but for me as well. After about a year of driving practice that included some yelling, a few tears, and many tire-marked curbs, their mom and I took them to the DMV to get their driver's licenses.
 

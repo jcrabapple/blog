@@ -8,8 +8,8 @@ showReadingTime: false
 showWordCount: false
 showDate: false
 ---
-{{< lead >}}
+
 TV shows and movies that my wife and I have been watching.
-{{< /lead >}}
+
 
 {{< watching >}}

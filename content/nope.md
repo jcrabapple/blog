@@ -7,9 +7,9 @@ tags: ["Nope","Slash Pages"]
 showReadingTime: false
 showWordCount: false
 ---
-{{< lead >}}
+
 NOPE.
-{{< /lead >}}
+
 
 These are some things I don't like.
 

@@ -11,9 +11,9 @@ images:
   - cool-as-heck-gray-bg.png
 draft: false
 ---
-{{< lead >}}
+
 Fastmail? More like Pastmail.
-{{< /lead >}}
+
 
 I've been a Fastmail customer for about a year now, after having left Gmail as one of the first steps to remove Google from my tech life. I was a big fan of Fastmail. It was *fast*, flexible, reliable, and seemed like a company of decent people. I guess I was wrong because shortly after [Fastmail employees decided to form a union](https://union.place/@fastmailunited/111563614375789166), [much of the bargaining unit was let go](https://union.place/@fastmailunited/112672408714595554). Fastmail's response claims that this was not because of unionization, but I find it hard to believe it's a coincidence. Maybe they were just "restructuring", but on the off chance that this was some shitty union-busting behavior by their management, I don't want to be a supporter of it. Email isn't such an integral part of my life that I can't easily move to another provider.
 

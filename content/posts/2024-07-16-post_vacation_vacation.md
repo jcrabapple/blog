@@ -4,9 +4,9 @@ description: "I always forget to give myself recovery time"
 date: 2024-07-16
 tags: ["Travel","Vacation","Life"]
 ---
-{{< lead >}}
+
 I always forget to give myself some time to recover and readjust after traveling.
-{{< /lead >}}
+
 
 I'm lucky enough to have unlimited PTO. I should remember to take a buffer day after traveling and family vacations. It's a lot traveling with 3-4 kids and 2 dogs, even just to go to the eastern shore for a few days. Coming back and going to work the very next morning sucks.
 

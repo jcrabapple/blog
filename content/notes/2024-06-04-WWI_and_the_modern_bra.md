@@ -4,9 +4,9 @@ description: "The modern bra emerged as a replacement for the restrictive corset
 date: 2024-06-04
 tags: ["History","Notes","TIL"]
 ---
-
+{{< lead >}}
 TIL that the modern bra was inspired by metal shortages during WWI.
-
+{{< /lead >}}
 
 Not only that, but with more women going to work during the war, they needed something more comfortable than corsets to work in. Caresse Crosby decided to sew together two handkerchiefs to wear to a ball.
 

@@ -4,9 +4,9 @@ description: "My bout with Bell's Palsy"
 date: 2024-04-20
 tags: ["Health","Life"]
 ---
-
+{{< lead >}}
 This is a post from April 2024 about my experience with Bell's Palsy, from my archive over at my [old Scribbles blog](https://scribbles.page/znd9ix_p). 
-
+{{< /lead >}}
 
 Yesterday morning, I woke up with my eye feeling weird. That is not the first time that happened. I have pretty severe allergies and I'll often wake up with crusty, itchy eyes. I chalked it up to that very thing. However, later in the morning when I went to brush my teeth, I noticed I was having trouble forming my mouth to properly spit out the toothpaste. I went to my wife and said I think the right side of my face is numb. She informed me that I was only blinking with one eye.
 

@@ -7,9 +7,9 @@ tags: ["about-me"]
 showReadingTime: false
 showWordCount: false
 ---
-
+{{< lead >}}
 Hello! I'm Jason!
-
+{{< /lead >}}
 
 I'm an elder millenial husband, father, music lover, and tech enthusiast.
 

@@ -4,9 +4,9 @@ description: "It's been almost a month since I posted"
 date: 2024-08-11
 tags: ["Life","Parenting"]
 ---
-
+{{< lead >}}
 Long time, no see!
-
+{{< /lead >}}
 I know it's been almost a month since I last posted here. I don't really know why, I guess there just hasn't been much going on that I felt like posting about. So here's a "bring you up to date" post!
 
 Obviously, if you've followed me on Mastodon, you'll know that US politics has been top of mind for me lately. In the last 3 weeks or so I've gone from feeling pessimistic and hopeless, to optimistic and 100% confident that Kamala Harris is going to win this election. A few weeks ago I was certain that Joe Biden needed to stay in the race to defeat Donald Trump. I was convinced that running Kamala Harris for President would be a repeat of 2016. Now, I'm thankful that Joe did the right thing and stepped aside, because I haven't seen momentum and alignment in the Democratic party since Obama's first campaign. I'm feeling much better about the state of the country going forward with Kamala Harris and Tim Walz at the helm. It's been a joy and a relief to listen to them speak and watch them interact with voters.

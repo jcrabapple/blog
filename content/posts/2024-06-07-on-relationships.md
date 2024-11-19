@@ -6,9 +6,9 @@ tags: ["Life","Marriage","Relationships"]
 images:
 - cool-as-heck-gray-bg.png
 ---
-
+{{< lead >}}
 One of the best pieces of advice someone has ever given me...
-
+{{< /lead >}}
 
 Is that to make a relationship work, you don't necessarily have to have everything in common, you just have to share the same goals.
 

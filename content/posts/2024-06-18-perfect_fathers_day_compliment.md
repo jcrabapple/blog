@@ -6,9 +6,9 @@ tags: ["Life","Parenting","Relationships","Marriage"]
 images:
 - cool-as-heck-gray-bg.png
 ---
-
+{{< lead >}}
 I must be doing something right.
-
+{{< /lead >}}
 
 Parenting is hard. Relationships are hard. Sometimes it feels like I'm too flawed to be good at either of them. Sometimes it feels like no matter how hard I try and no matter how good my intentions, things don't go the way I had hoped.
 

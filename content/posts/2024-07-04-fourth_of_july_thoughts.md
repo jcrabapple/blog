@@ -4,9 +4,9 @@ description: "Not feeling patriotic"
 date: 2024-07-04
 tags: ["Thoughts","Holidays","Life","Politics"]
 ---
-
+{{< lead >}}
 I can't say I'm feeling particularly patriotic on this 4th of July.
-
+{{< /lead >}}
 
 I'm not very proud of this country right now. If anything I'm embarassed to be American. Our government barely works, and often works against us. Half our citizens are blinded by hatred and bigotry. Corporations take advantage of us on a daily basis. As a collective people we let it happen.
 

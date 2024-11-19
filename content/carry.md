@@ -11,8 +11,8 @@ These are the things I carry with me all (or some) of the time!
 {{< /lead >}}
 
 ## Tech
-- **Phone**: Samsung Galaxy S23 Ultra with DBrand grip case
-- **Watch**: Samsung Galaxy Watch 5 Pro
+- **Phone**: Google Pixel 9 Pro XL
+- **Watch**: Google Pixel Watch 3
 - **Earbuds**: Samsung Galaxy Buds Live
 - **Headphones**: Anker Soundcore Space One
 
@@ -33,3 +33,5 @@ These are the things I carry with me all (or some) of the time!
 ## When I need to take photos
 - **Camera**: Sony a6000
 - **Lenses**: Sigma 16mm f1.4, Sigma 30mm f1.4, Sigma 56mm f1.4, Sony 55-210mm f4.5
+- **Fun Camera**: CampSnap camera
+- **Film Camera**: Yashica 35
